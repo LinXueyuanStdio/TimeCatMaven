@@ -6,24 +6,4 @@
   <artifactId>widget-calendar</artifactId>
   <version>1.0.0</version>
   <packaging>aar</packaging>
-  <dependencies>
-    <dependency>
-      <groupId>com.android.support</groupId>
-      <artifactId>appcompat-v7</artifactId>
-      <version>27.1.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.android.support</groupId>
-      <artifactId>design</artifactId>
-      <version>27.1.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.kotlin</groupId>
-      <artifactId>kotlin-stdlib-jdk7</artifactId>
-      <version>1.2.71</version>
-      <scope>compile</scope>
-    </dependency>
-  </dependencies>
 </project>
