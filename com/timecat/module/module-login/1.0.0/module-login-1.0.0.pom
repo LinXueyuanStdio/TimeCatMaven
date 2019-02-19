@@ -21,7 +21,7 @@
     </dependency>
     <dependency>
       <groupId>mempool.widgets</groupId>
-      <artifactId>widget-edittext</artifactId>
+      <artifactId>widget-colorpicker</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
