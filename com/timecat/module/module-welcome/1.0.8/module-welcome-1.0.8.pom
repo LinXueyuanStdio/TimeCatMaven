@@ -9,13 +9,13 @@
   <dependencies>
     <dependency>
       <groupId>mempool.component</groupId>
-      <artifactId>commonbase</artifactId>
+      <artifactId>CommonBase</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>mempool.component</groupId>
-      <artifactId>commondata</artifactId>
+      <artifactId>CommonData</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>

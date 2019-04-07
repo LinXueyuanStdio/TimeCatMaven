@@ -9,7 +9,7 @@
   <dependencies>
     <dependency>
       <groupId>mempool.component</groupId>
-      <artifactId>commonbase</artifactId>
+      <artifactId>CommonBase</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
