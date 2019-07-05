@@ -33,7 +33,7 @@
     </dependency>
     <dependency>
       <groupId>mempool.component</groupId>
-      <artifactId>BaseMvp</artifactId>
+      <artifactId>basemvp</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
@@ -53,24 +53,6 @@
       <groupId>org.jetbrains.anko</groupId>
       <artifactId>anko-sdk27-listeners</artifactId>
       <version>0.10.8</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.google.firebase</groupId>
-      <artifactId>firebase-core</artifactId>
-      <version>17.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.crashlytics.sdk.android</groupId>
-      <artifactId>crashlytics</artifactId>
-      <version>2.10.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.multidex</groupId>
-      <artifactId>multidex</artifactId>
-      <version>2.0.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
