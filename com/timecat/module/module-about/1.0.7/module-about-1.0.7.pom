@@ -14,9 +14,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>mempool.component</groupId>
+      <groupId>com.timecat.component</groupId>
       <artifactId>SelfRouter</artifactId>
-      <version>unspecified</version>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
