@@ -41,17 +41,6 @@
           "skin_preview_2": "preview_2.webp",
           "skin_size": "101 Kb",
           "skin_intro": "开源地址 https://github.com/LinXueyuanStdio/TimeCatMaven"
-        },
-        {
-          "skin_name": "默认",
-          "skin_url": "https://github.com/LinXueyuanStdio/TimeCatMaven/raw/master/skin/_default/",
-          "skin_filename": "default.skin",
-          "skin_avatar": "avatar.webp",
-          "skin_preview_0": "preview_0.webp",
-          "skin_preview_1": "preview_1.webp",
-          "skin_preview_2": "preview_2.webp",
-          "skin_size": "101 Kb",
-          "skin_intro": "开源地址 https://github.com/LinXueyuanStdio/TimeCatMaven"
         }
       ]
     }
