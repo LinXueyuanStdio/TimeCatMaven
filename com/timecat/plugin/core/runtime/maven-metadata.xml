@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.timecat.plugin.core</groupId>
+  <artifactId>runtime</artifactId>
+  <versioning>
+    <versions>
+      <version>2.0.12-36422f60a-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190815130806</lastUpdated>
+  </versioning>
+</metadata>
