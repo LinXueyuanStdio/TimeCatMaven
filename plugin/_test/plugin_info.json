@@ -21,6 +21,9 @@
       "plugin_name": "测试 Manager",
       "plugin_type": 0,
       "plugin_developer": "com.time.cat",
+      "plugin_home_class_names": [
+        "com.tencent.shadow.sample.plugin.MainActivity"
+      ],
       "plugin_version_code": 1,
       "plugin_version_name": "1.0.0",
       "plugin_filename": "test.plugin",
@@ -35,6 +38,9 @@
       "plugin_url": "https://github.com/LinXueyuanStdio/TimeCatMaven/raw/master/plugin/_test/",
       "plugin_name": "测试 Manager",
       "plugin_type": 0,
+      "plugin_home_class_names": [
+        "com.tencent.shadow.sample.plugin.MainActivity"
+      ],
       "plugin_developer": "com.time.cat",
       "plugin_version_code": 1,
       "plugin_version_name": "1.0.0",
