@@ -97,14 +97,14 @@
           "plugin_type": 1,
           "plugin_id": "888000",
           "plugin_developer": "com.time.cat",
-          "plugin_version_code": 1,
-          "plugin_version_name": "1.0.0",
+          "plugin_version_code": 2,
+          "plugin_version_name": "1.0.1",
           "plugin_filename": "module-data.plugin",
           "plugin_avatar": "avatar.webp",
           "plugin_preview_0": "preview_0.webp",
           "plugin_preview_1": "preview_1.webp",
           "plugin_preview_2": "preview_2.webp",
-          "plugin_size": "8.9 Mb",
+          "plugin_size": "1.5 Mb",
           "plugin_intro": "开源地址 https://github.com/LinXueyuanStdio/TimeCat-Plugin-module-data"
         }
       ]
