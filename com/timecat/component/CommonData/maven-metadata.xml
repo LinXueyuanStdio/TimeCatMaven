@@ -3,10 +3,11 @@
   <groupId>com.timecat.component</groupId>
   <artifactId>CommonData</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>1.0.0.jar</release>
     <versions>
       <version>1.0.0</version>
+      <version>1.0.0.jar</version>
     </versions>
-    <lastUpdated>20190904053929</lastUpdated>
+    <lastUpdated>20190904093309</lastUpdated>
   </versioning>
 </metadata>
