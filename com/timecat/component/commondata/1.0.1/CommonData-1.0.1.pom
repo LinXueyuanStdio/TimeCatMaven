@@ -8,14 +8,14 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>mempool.component</groupId>
-      <artifactId>SelfBmob</artifactId>
-      <version>unspecified</version>
+      <groupId>com.timecat.component</groupId>
+      <artifactId>SelfArms</artifactId>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.timecat.component</groupId>
-      <artifactId>SelfArms</artifactId>
+      <artifactId>SelfBmob</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
