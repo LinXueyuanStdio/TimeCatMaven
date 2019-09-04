@@ -92,7 +92,7 @@
           "plugin_url": "https://github.com/LinXueyuanStdio/TimeCatMaven/raw/master/plugin/module-data/",
           "plugin_name": "数据控制中心",
           "plugin_home_class_names": [
-            "com.timecat.plugin.DataManagerActivity"
+            "com.timecat.plugin.data.DataManagerActivity"
           ],
           "plugin_type": 1,
           "plugin_id": "888000",
