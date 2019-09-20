@@ -26,9 +26,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>io.reactivex.rxjava2</groupId>
+      <groupId>io.reactivex</groupId>
       <artifactId>rxandroid</artifactId>
-      <version>2.1.1</version>
+      <version>1.2.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

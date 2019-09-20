@@ -14,27 +14,39 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>mempool.component</groupId>
+      <artifactId>CommonUI</artifactId>
+      <version>unspecified</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>mempool.component</groupId>
+      <artifactId>CommonBmob</artifactId>
+      <version>unspecified</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.timecat.component</groupId>
       <artifactId>SelfRouter</artifactId>
-      <version>1.0.0</version>
+      <version>1.0.5</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-common</artifactId>
-      <version>3.5.0-beta05</version>
+      <version>3.5.0-rc01</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-runtime</artifactId>
-      <version>3.5.0-beta05</version>
+      <version>3.5.0-rc01</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-adapters</artifactId>
-      <version>3.5.0-beta05</version>
+      <version>3.5.0-rc01</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
