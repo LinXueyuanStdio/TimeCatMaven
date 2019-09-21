@@ -4,6 +4,5 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.timecat.component</groupId>
   <artifactId>CommonStatic</artifactId>
-  <version>1.1.0</version>
-  <packaging>aar</packaging>
+  <version>1.1.0.jar</version>
 </project>

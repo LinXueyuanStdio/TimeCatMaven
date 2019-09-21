@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.timecat.component</groupId>
-  <artifactId>commonstatic</artifactId>
+  <artifactId>CommonStatic</artifactId>
   <versioning>
-    <release>1.1.0</release>
+    <release>1.1.0.jar</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -17,7 +17,8 @@
       <version>1.0.9</version>
       <version>1.0.10</version>
       <version>1.1.0</version>
+      <version>1.1.0.jar</version>
     </versions>
-    <lastUpdated>20190921121436</lastUpdated>
+    <lastUpdated>20190921125906</lastUpdated>
   </versioning>
 </metadata>
