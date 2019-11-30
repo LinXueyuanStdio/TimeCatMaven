@@ -3,7 +3,7 @@
   <groupId>com.timecat.component</groupId>
   <artifactId>CommonStatic</artifactId>
   <versioning>
-    <release>1.1.3.jar</release>
+    <release>1.1.3</release>
     <versions>
       <version>1.1.0.jar</version>
       <version>1.1.0</version>
@@ -14,6 +14,6 @@
       <version>1.1.3.jar</version>
       <version>1.1.3</version>
     </versions>
-    <lastUpdated>20191030042946</lastUpdated>
+    <lastUpdated>20191130075801</lastUpdated>
   </versioning>
 </metadata>
