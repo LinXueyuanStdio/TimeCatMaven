@@ -14,9 +14,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>mempool.data</groupId>
+      <groupId>com.timecat.component</groupId>
       <artifactId>CommonSetting</artifactId>
-      <version>unspecified</version>
+      <version>1.0.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -26,9 +26,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>mempool.component</groupId>
+      <groupId>com.timecat.component</groupId>
       <artifactId>CommonStatic</artifactId>
-      <version>unspecified</version>
+      <version>1.1.7</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
