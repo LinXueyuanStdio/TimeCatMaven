@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.timecat.component</groupId>
+  <artifactId>CommonSetting</artifactId>
+  <versioning>
+    <release>1.0.0.jar</release>
+    <versions>
+      <version>1.0.0</version>
+      <version>1.0.0.jar</version>
+    </versions>
+    <lastUpdated>20200129050505</lastUpdated>
+  </versioning>
+</metadata>
