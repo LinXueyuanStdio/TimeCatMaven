@@ -3,7 +3,7 @@
   <groupId>com.timecat.component</groupId>
   <artifactId>CommonBmob</artifactId>
   <versioning>
-    <release>1.0.3.jar</release>
+    <release>1.0.4.jar</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1.jar</version>
@@ -12,7 +12,9 @@
       <version>1.0.2.jar</version>
       <version>1.0.3</version>
       <version>1.0.3.jar</version>
+      <version>1.0.4</version>
+      <version>1.0.4.jar</version>
     </versions>
-    <lastUpdated>20200129060259</lastUpdated>
+    <lastUpdated>20200204153108</lastUpdated>
   </versioning>
 </metadata>
