@@ -3,11 +3,13 @@
   <groupId>com.timecat.plugin</groupId>
   <artifactId>agreement-picturebed</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>1.0.1.jar</release>
     <versions>
       <version>1.0.0.jar</version>
       <version>1.0.0</version>
+      <version>1.0.1</version>
+      <version>1.0.1.jar</version>
     </versions>
-    <lastUpdated>20200412002413</lastUpdated>
+    <lastUpdated>20200412032953</lastUpdated>
   </versioning>
 </metadata>
