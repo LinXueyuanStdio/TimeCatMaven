@@ -8,53 +8,97 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>mempool.component</groupId>
-      <artifactId>CommonData</artifactId>
-      <version>unspecified</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>mempool.component</groupId>
-      <artifactId>commonresource</artifactId>
-      <version>unspecified</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.timecat.component</groupId>
-      <artifactId>SelfRouter</artifactId>
-      <version>1.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.timecat.component</groupId>
-      <artifactId>PackAlert</artifactId>
-      <version>1.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
-      <artifactId>kotlin-android-extensions-runtime</artifactId>
-      <version>1.3.40</version>
+      <artifactId>kotlin-stdlib-jdk8</artifactId>
+      <version>1.4.20</version>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
-      <groupId>org.greenrobot</groupId>
-      <artifactId>eventbus</artifactId>
-      <version>3.1.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.appcompat</groupId>
-      <artifactId>appcompat</artifactId>
+      <groupId>com.timecat.data</groupId>
+      <artifactId>system</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
       <exclusions>
         <exclusion>
-          <artifactId>support-annotations</artifactId>
+          <artifactId>httpclient</artifactId>
           <groupId>*</groupId>
         </exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
+      <groupId>com.timecat.data</groupId>
+      <artifactId>room</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+      <exclusions>
         <exclusion>
-          <artifactId>support-v4</artifactId>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
+      <groupId>com.timecat.data</groupId>
+      <artifactId>bmob</artifactId>
+      <version>1.0.1</version>
+      <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
+      <groupId>com.timecat.component</groupId>
+      <artifactId>identity</artifactId>
+      <version>1.0.2</version>
+      <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
+      <groupId>com.timecat.component</groupId>
+      <artifactId>router</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
+      <groupId>com.timecat.element</groupId>
+      <artifactId>alert</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
+      <groupId>androidx.appcompat</groupId>
+      <artifactId>appcompat</artifactId>
+      <version>1.1.0</version>
+      <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
           <groupId>*</groupId>
         </exclusion>
       </exclusions>
@@ -62,104 +106,222 @@
     <dependency>
       <groupId>com.google.android.material</groupId>
       <artifactId>material</artifactId>
-      <version>1.0.0</version>
+      <version>1.2.1</version>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>androidx.cardview</groupId>
       <artifactId>cardview</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>androidx.browser</groupId>
       <artifactId>browser</artifactId>
-      <version>1.0.0</version>
+      <version>1.2.0</version>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>androidx.palette</groupId>
       <artifactId>palette</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
-      <groupId>androidx.legacy</groupId>
-      <artifactId>legacy-preference-v14</artifactId>
-      <version>1.0.0</version>
+      <groupId>androidx.preference</groupId>
+      <artifactId>preference</artifactId>
+      <version>1.1.1</version>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>androidx.recyclerview</groupId>
       <artifactId>recyclerview</artifactId>
-      <version>1.0.0</version>
+      <version>1.1.0</version>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.jsoup</groupId>
       <artifactId>jsoup</artifactId>
-      <version>1.11.3</version>
+      <version>1.13.1</version>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>com.anthonycr.mezzanine</groupId>
       <artifactId>mezzanine</artifactId>
       <version>1.1.1</version>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>com.google.dagger</groupId>
       <artifactId>dagger</artifactId>
       <version>2.22.1</version>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>com.anthonycr.grant</groupId>
       <artifactId>permissions</artifactId>
       <version>1.1.2</version>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>net.i2p.android</groupId>
       <artifactId>client</artifactId>
       <version>0.8</version>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>*</artifactId>
+          <groupId>org.apache.httpcomponents</groupId>
+        </exclusion>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>io.reactivex.rxjava2</groupId>
       <artifactId>rxkotlin</artifactId>
       <version>2.3.0</version>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>info.guardianproject.netcipher</groupId>
       <artifactId>netcipher</artifactId>
       <version>2.0.0-alpha1</version>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>info.guardianproject.netcipher</groupId>
       <artifactId>netcipher-webkit</artifactId>
       <version>2.0.0-alpha1</version>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>com.anthonycr.progress</groupId>
       <artifactId>animated-progress</artifactId>
       <version>1.0</version>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
-      <artifactId>kotlin-stdlib-jdk8</artifactId>
-      <version>1.3.40</version>
+      <artifactId>kotlin-android-extensions-runtime</artifactId>
+      <version>1.4.20</version>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
+      <groupId>org.greenrobot</groupId>
+      <artifactId>eventbus</artifactId>
+      <version>3.1.1</version>
+      <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>com.squareup.leakcanary</groupId>
       <artifactId>leakcanary-android-no-op</artifactId>
       <version>1.6.1</version>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>httpclient</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
   </dependencies>
 </project>

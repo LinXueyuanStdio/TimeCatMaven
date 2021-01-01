@@ -8,21 +8,45 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>mempool.component</groupId>
-      <artifactId>CommonBase</artifactId>
-      <version>unspecified</version>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <artifactId>kotlin-stdlib-jdk8</artifactId>
+      <version>1.4.20</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>mempool.component</groupId>
-      <artifactId>CommonData</artifactId>
-      <version>unspecified</version>
+      <groupId>com.timecat.page</groupId>
+      <artifactId>base</artifactId>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>mempool.component</groupId>
-      <artifactId>SelfRouter</artifactId>
-      <version>unspecified</version>
+      <groupId>com.timecat.layout</groupId>
+      <artifactId>ui</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.timecat.data</groupId>
+      <artifactId>system</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.timecat.component</groupId>
+      <artifactId>router</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.timecat.identity</groupId>
+      <artifactId>service</artifactId>
+      <version>1.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <artifactId>kotlin-android-extensions-runtime</artifactId>
+      <version>1.4.20</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
