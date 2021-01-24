@@ -16,13 +16,13 @@
     <dependency>
       <groupId>com.timecat.middle</groupId>
       <artifactId>block</artifactId>
-      <version>1.0.0</version>
+      <version>1.0.4</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.timecat.identity</groupId>
       <artifactId>readonly</artifactId>
-      <version>1.0.0</version>
+      <version>1.0.5</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
