@@ -10,25 +10,25 @@
     <dependency>
       <groupId>com.timecat.component</groupId>
       <artifactId>identity</artifactId>
-      <version>1.0.2</version>
+      <version>+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.timecat.data</groupId>
       <artifactId>system</artifactId>
-      <version>1.0.1</version>
+      <version>+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.timecat.component</groupId>
       <artifactId>sdk</artifactId>
-      <version>1.0.2</version>
+      <version>+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.timecat.element</groupId>
       <artifactId>listview</artifactId>
-      <version>1.0.0</version>
+      <version>+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
