@@ -80,6 +80,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.github.duanhong169</groupId>
+      <artifactId>drawabletoolbox</artifactId>
+      <version>1.0.7</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.afollestad</groupId>
       <artifactId>vvalidator</artifactId>
       <version>0.5.2</version>
