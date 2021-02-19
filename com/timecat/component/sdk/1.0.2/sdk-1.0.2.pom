@@ -10,13 +10,13 @@
     <dependency>
       <groupId>com.timecat.extend</groupId>
       <artifactId>arms</artifactId>
-      <version>1.0.0</version>
+      <version>+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.timecat.identity</groupId>
       <artifactId>font</artifactId>
-      <version>1.0.0</version>
+      <version>+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
