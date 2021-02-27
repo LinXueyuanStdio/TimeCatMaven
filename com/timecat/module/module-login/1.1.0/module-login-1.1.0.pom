@@ -16,31 +16,31 @@
     <dependency>
       <groupId>com.timecat.page</groupId>
       <artifactId>base</artifactId>
-      <version>1.0.0</version>
+      <version>+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.timecat.layout</groupId>
       <artifactId>ui</artifactId>
-      <version>1.0.0</version>
+      <version>+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.timecat.data</groupId>
       <artifactId>bmob</artifactId>
-      <version>1.0.1</version>
+      <version>+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.timecat.data</groupId>
       <artifactId>system</artifactId>
-      <version>1.0.0</version>
+      <version>+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.timecat.component</groupId>
       <artifactId>router</artifactId>
-      <version>1.0.0</version>
+      <version>+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
