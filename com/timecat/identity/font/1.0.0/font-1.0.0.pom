@@ -6,12 +6,4 @@
   <artifactId>font</artifactId>
   <version>1.0.0</version>
   <packaging>aar</packaging>
-  <dependencies>
-    <dependency>
-      <groupId>androidx.appcompat</groupId>
-      <artifactId>appcompat</artifactId>
-      <version>1.2.0</version>
-      <scope>compile</scope>
-    </dependency>
-  </dependencies>
 </project>
