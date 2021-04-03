@@ -177,8 +177,8 @@
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
-      <artifactId>databinding-runtime</artifactId>
-      <version>4.1.1</version>
+      <artifactId>databinding-common</artifactId>
+      <version>4.1.2</version>
       <scope>compile</scope>
       <exclusions>
         <exclusion>
@@ -189,8 +189,8 @@
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
-      <artifactId>databinding-common</artifactId>
-      <version>4.0.1</version>
+      <artifactId>databinding-runtime</artifactId>
+      <version>4.1.2</version>
       <scope>compile</scope>
       <exclusions>
         <exclusion>
@@ -202,7 +202,7 @@
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-adapters</artifactId>
-      <version>4.0.1</version>
+      <version>4.1.2</version>
       <scope>compile</scope>
       <exclusions>
         <exclusion>
