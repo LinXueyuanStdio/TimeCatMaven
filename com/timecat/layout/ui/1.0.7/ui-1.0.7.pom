@@ -86,6 +86,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.github.sephiroth74</groupId>
+      <artifactId>NumberSlidingPicker</artifactId>
+      <version>v1.0.3</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.afollestad</groupId>
       <artifactId>vvalidator</artifactId>
       <version>0.5.2</version>
@@ -136,7 +142,7 @@
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>viewbinding</artifactId>
-      <version>4.0.1</version>
+      <version>4.1.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
