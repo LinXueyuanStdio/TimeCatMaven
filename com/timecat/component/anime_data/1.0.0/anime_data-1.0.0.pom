@@ -3,32 +3,38 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.timecat.component</groupId>
-  <artifactId>setting</artifactId>
-  <version>1.1.0</version>
+  <artifactId>anime_data</artifactId>
+  <version>1.0.0</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>com.timecat.identity</groupId>
-      <artifactId>readonly</artifactId>
-      <version>+</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.timecat.extend</groupId>
-      <artifactId>arms</artifactId>
-      <version>+</version>
+      <groupId>com.squareup.moshi</groupId>
+      <artifactId>moshi</artifactId>
+      <version>1.11.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
-      <artifactId>kotlin-stdlib-jdk8</artifactId>
+      <artifactId>kotlin-parcelize-runtime</artifactId>
       <version>1.4.20</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.tencent</groupId>
-      <artifactId>mmkv</artifactId>
-      <version>1.2.9</version>
+      <groupId>androidx.core</groupId>
+      <artifactId>core-ktx</artifactId>
+      <version>1.5.0-alpha01</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <artifactId>kotlin-stdlib-jdk7</artifactId>
+      <version>1.4.20</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.room</groupId>
+      <artifactId>room-runtime</artifactId>
+      <version>2.2.5</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
