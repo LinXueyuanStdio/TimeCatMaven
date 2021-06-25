@@ -154,7 +154,7 @@
     <dependency>
       <groupId>io.github.razerdp</groupId>
       <artifactId>BasePopup</artifactId>
-      <version>3.1.0</version>
+      <version>3.1.4</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

@@ -3,7 +3,7 @@
   <groupId>com.tencent.shadow.core</groupId>
   <artifactId>transform-kit</artifactId>
   <versioning>
-    <latest>2.0.14</latest>
+    <latest>local-e62dfd7c-SNAPSHOT</latest>
     <release>2.0.14</release>
     <versions>
       <version>1.0.0</version>
@@ -16,7 +16,8 @@
       <version>2.0.13</version>
       <version>2.0.12-a089ae87-SNAPSHOT</version>
       <version>2.0.14</version>
+      <version>local-e62dfd7c-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20210101125928</lastUpdated>
+    <lastUpdated>20210625082638</lastUpdated>
   </versioning>
 </metadata>

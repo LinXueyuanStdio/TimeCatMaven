@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.tencent.shadow.core</groupId>
+  <artifactId>utils</artifactId>
+  <versioning>
+    <latest>local-e62dfd7c-SNAPSHOT</latest>
+    <versions>
+      <version>local-e62dfd7c-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210625082637</lastUpdated>
+  </versioning>
+</metadata>
