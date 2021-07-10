@@ -20,6 +20,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.timecat.libs</groupId>
+      <artifactId>sevenzipjbinding4Android</artifactId>
+      <version>+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.timecat.component</groupId>
       <artifactId>router</artifactId>
       <version>+</version>
@@ -156,17 +162,6 @@
       <artifactId>nanohttpd</artifactId>
       <version>2.3.1</version>
       <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <artifactId>sevenzipjbinding4Android</artifactId>
-      <type>aar</type>
-      <scope>compile</scope>
-      <exclusions>
-        <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
-        </exclusion>
-      </exclusions>
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
