@@ -51,7 +51,7 @@
     </dependency>
     <dependency>
       <groupId>com.timecat.libs</groupId>
-      <artifactId>jlibtorrent-android-arm</artifactId>
+      <artifactId>jlibtorrent-android-arm64</artifactId>
       <version>+</version>
       <scope>compile</scope>
     </dependency>
