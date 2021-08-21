@@ -1,0 +1,104 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.element",
+    "module": "listview-jar",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.yanzhenjie",
+          "module": "recyclerview-swipe",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
+          "group": "eu.davidea",
+          "module": "flexible-adapter",
+          "version": {
+            "requires": "5.1.0"
+          }
+        },
+        {
+          "group": "eu.davidea",
+          "module": "flexible-adapter-ui",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "listview-1.0.0.aar",
+          "url": "listview-1.0.0.aar",
+          "size": 18440,
+          "sha512": "95b6a43f638001856d3f473594b8db7be23422568191203eb741e434f1333db4f7400a618e4ca104874aa57d5305dd6006cf944a0f2b94ede5834fc046a6f452",
+          "sha256": "daf74f897c298ac74e274dc592e5af2013a27f2ef723287206e6f534f2e74fd1",
+          "sha1": "3af1d0f4598fc877f2487f2434ac969bd7ec8951",
+          "md5": "4dbbe058ccc2eacf435db53c1846ae4c"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.yanzhenjie",
+          "module": "recyclerview-swipe",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
+          "group": "eu.davidea",
+          "module": "flexible-adapter",
+          "version": {
+            "requires": "5.1.0"
+          }
+        },
+        {
+          "group": "eu.davidea",
+          "module": "flexible-adapter-ui",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "listview-1.0.0.aar",
+          "url": "listview-1.0.0.aar",
+          "size": 18440,
+          "sha512": "95b6a43f638001856d3f473594b8db7be23422568191203eb741e434f1333db4f7400a618e4ca104874aa57d5305dd6006cf944a0f2b94ede5834fc046a6f452",
+          "sha256": "daf74f897c298ac74e274dc592e5af2013a27f2ef723287206e6f534f2e74fd1",
+          "sha1": "3af1d0f4598fc877f2487f2434ac969bd7ec8951",
+          "md5": "4dbbe058ccc2eacf435db53c1846ae4c"
+        }
+      ]
+    }
+  ]
+}
