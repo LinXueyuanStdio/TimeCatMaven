@@ -1,0 +1,160 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.component",
+    "module": "identity-jar",
+    "version": "1.0.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.timecat.identity",
+          "module": "resources",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "skin",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.extend",
+          "module": "arms",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "skin.support",
+          "module": "skin-support-appcompat",
+          "version": {
+            "requires": "4.0.6"
+          }
+        },
+        {
+          "group": "skin.support",
+          "module": "skin-support-design",
+          "version": {
+            "requires": "4.0.6"
+          }
+        },
+        {
+          "group": "skin.support",
+          "module": "skin-support-cardview",
+          "version": {
+            "requires": "4.0.4"
+          }
+        },
+        {
+          "group": "skin.support",
+          "module": "skin-support-constraint-layout",
+          "version": {
+            "requires": "4.0.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "identity-1.0.2.aar",
+          "url": "identity-1.0.2.aar",
+          "size": 69383,
+          "sha512": "c3b64e25a2d45d7d01b9b4b6ab8a995ca0213508e03ff69750a9bc2a9959f41e30242130e79ab2a97ce8aed7d03b9ed51172846ff490cd5e2b7bb7504171db63",
+          "sha256": "7846f7aace93d033e74f56f581af212b565e196022784ffa120f11cf56f39cb9",
+          "sha1": "4617ebe80f2a4fd7bc422ee4a012913c7f6495c7",
+          "md5": "5da39d3407e904668735fe690a26fda4"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.timecat.identity",
+          "module": "resources",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "skin",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.extend",
+          "module": "arms",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "skin.support",
+          "module": "skin-support-appcompat",
+          "version": {
+            "requires": "4.0.6"
+          }
+        },
+        {
+          "group": "skin.support",
+          "module": "skin-support-design",
+          "version": {
+            "requires": "4.0.6"
+          }
+        },
+        {
+          "group": "skin.support",
+          "module": "skin-support-cardview",
+          "version": {
+            "requires": "4.0.4"
+          }
+        },
+        {
+          "group": "skin.support",
+          "module": "skin-support-constraint-layout",
+          "version": {
+            "requires": "4.0.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "identity-1.0.2.aar",
+          "url": "identity-1.0.2.aar",
+          "size": 69383,
+          "sha512": "c3b64e25a2d45d7d01b9b4b6ab8a995ca0213508e03ff69750a9bc2a9959f41e30242130e79ab2a97ce8aed7d03b9ed51172846ff490cd5e2b7bb7504171db63",
+          "sha256": "7846f7aace93d033e74f56f581af212b565e196022784ffa120f11cf56f39cb9",
+          "sha1": "4617ebe80f2a4fd7bc422ee4a012913c7f6495c7",
+          "md5": "5da39d3407e904668735fe690a26fda4"
+        }
+      ]
+    }
+  ]
+}

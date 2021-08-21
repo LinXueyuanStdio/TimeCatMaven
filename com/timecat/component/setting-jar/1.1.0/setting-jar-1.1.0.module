@@ -1,0 +1,118 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.component",
+    "module": "setting-jar",
+    "version": "1.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.timecat.identity",
+          "module": "readonly",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.extend",
+          "module": "arms",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.4.31"
+          }
+        },
+        {
+          "group": "com.tencent",
+          "module": "mmkv",
+          "version": {
+            "requires": "1.2.9"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "setting-jar-1.1.0.aar",
+          "url": "setting-jar-1.1.0.aar",
+          "size": 66377,
+          "sha512": "f99ce444b71a98eab854a6397452420da6f4abe50883d092011d97948f5ccb530f87b07a902b7acaf9f6e73a731d4e889f3e8d236fae250217e3af1be07027f2",
+          "sha256": "8a70848ce2f99bc62704e5c3cb0ccdcb56216605ffdd4e8d40370c6f04a25639",
+          "sha1": "2363d0ffe863bcb4523c88e833ec4768737f98a7",
+          "md5": "91565c7a78adc1b6ab171c8021ce1b9e"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.timecat.identity",
+          "module": "readonly",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.extend",
+          "module": "arms",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.4.31"
+          }
+        },
+        {
+          "group": "com.tencent",
+          "module": "mmkv",
+          "version": {
+            "requires": "1.2.9"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "setting-jar-1.1.0.aar",
+          "url": "setting-jar-1.1.0.aar",
+          "size": 66377,
+          "sha512": "f99ce444b71a98eab854a6397452420da6f4abe50883d092011d97948f5ccb530f87b07a902b7acaf9f6e73a731d4e889f3e8d236fae250217e3af1be07027f2",
+          "sha256": "8a70848ce2f99bc62704e5c3cb0ccdcb56216605ffdd4e8d40370c6f04a25639",
+          "sha1": "2363d0ffe863bcb4523c88e833ec4768737f98a7",
+          "md5": "91565c7a78adc1b6ab171c8021ce1b9e"
+        }
+      ]
+    }
+  ]
+}

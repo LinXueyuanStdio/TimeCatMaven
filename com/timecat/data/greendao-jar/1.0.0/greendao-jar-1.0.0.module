@@ -1,0 +1,118 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.data",
+    "module": "greendao-jar",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "joda-time",
+          "module": "joda-time",
+          "version": {
+            "requires": "2.10.1"
+          }
+        },
+        {
+          "group": "org.greenrobot",
+          "module": "greendao",
+          "version": {
+            "requires": "3.2.2"
+          }
+        },
+        {
+          "group": "com.github.yuweiguocn",
+          "module": "GreenDaoUpgradeHelper",
+          "version": {
+            "requires": "v2.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "greendao-jar-1.0.0.aar",
+          "url": "greendao-jar-1.0.0.aar",
+          "size": 35297,
+          "sha512": "7736b68c59c938c08dfaf627c9939cf671901d8e71c07dfb2357a443c4b16918a54ef97805119c72a980effbd1f2dd2ba880eaf57ba0f414f5757f5e6e566a8c",
+          "sha256": "4fae8c03f2d52a0c45f79ac1656f5bd83d339a4d1e46e12549085d5a9f37b386",
+          "sha1": "b82cb414dc9f01d22a69c40e6f019c298096cd92",
+          "md5": "ae68a41e64d2188e5444280da21566f7"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "joda-time",
+          "module": "joda-time",
+          "version": {
+            "requires": "2.10.1"
+          }
+        },
+        {
+          "group": "org.greenrobot",
+          "module": "greendao",
+          "version": {
+            "requires": "3.2.2"
+          }
+        },
+        {
+          "group": "com.github.yuweiguocn",
+          "module": "GreenDaoUpgradeHelper",
+          "version": {
+            "requires": "v2.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "greendao-jar-1.0.0.aar",
+          "url": "greendao-jar-1.0.0.aar",
+          "size": 35297,
+          "sha512": "7736b68c59c938c08dfaf627c9939cf671901d8e71c07dfb2357a443c4b16918a54ef97805119c72a980effbd1f2dd2ba880eaf57ba0f414f5757f5e6e566a8c",
+          "sha256": "4fae8c03f2d52a0c45f79ac1656f5bd83d339a4d1e46e12549085d5a9f37b386",
+          "sha1": "b82cb414dc9f01d22a69c40e6f019c298096cd92",
+          "md5": "ae68a41e64d2188e5444280da21566f7"
+        }
+      ]
+    }
+  ]
+}

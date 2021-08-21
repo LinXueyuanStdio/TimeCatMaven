@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.component",
+    "module": "router-jar",
+    "version": "1.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.timecat.extend",
+          "module": "arms",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.github.xiaojinzi123.Component",
+          "module": "component-impl",
+          "version": {
+            "requires": "v1.9.2-androidx-java8"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "router-jar-1.1.0.aar",
+          "url": "router-jar-1.1.0.aar",
+          "size": 29223,
+          "sha512": "b5d53564ab32f898630ce12f5e1075eb069e1ce82bfa9e99991e77c493110f86b4ba724042ca4c44bbc666ea9355d47cb42f507be785990139439886ee468631",
+          "sha256": "0337a4a83d23e2592d58f57a1751fdf7c70ffe903c45efaf8cd15f2a0e6c863b",
+          "sha1": "8d398102cef4f316a15db4474d87eba8aea2bd1b",
+          "md5": "a5d1c062313dfe2b62d0c558c61935c4"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.timecat.extend",
+          "module": "arms",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.github.xiaojinzi123.Component",
+          "module": "component-impl",
+          "version": {
+            "requires": "v1.9.2-androidx-java8"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "router-jar-1.1.0.aar",
+          "url": "router-jar-1.1.0.aar",
+          "size": 29223,
+          "sha512": "b5d53564ab32f898630ce12f5e1075eb069e1ce82bfa9e99991e77c493110f86b4ba724042ca4c44bbc666ea9355d47cb42f507be785990139439886ee468631",
+          "sha256": "0337a4a83d23e2592d58f57a1751fdf7c70ffe903c45efaf8cd15f2a0e6c863b",
+          "sha1": "8d398102cef4f316a15db4474d87eba8aea2bd1b",
+          "md5": "a5d1c062313dfe2b62d0c558c61935c4"
+        }
+      ]
+    }
+  ]
+}

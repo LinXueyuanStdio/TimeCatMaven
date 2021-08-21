@@ -1,0 +1,405 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.page",
+    "module": "base-jar",
+    "version": "1.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.timecat.component",
+          "module": "identity",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "setting",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.element",
+          "module": "listview",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.element",
+          "module": "alert",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.5.0-alpha01"
+          }
+        },
+        {
+          "group": "com.github.gturedi",
+          "module": "stateful-layout",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
+          "group": "com.billy.android",
+          "module": "smart-swipe",
+          "version": {
+            "requires": "1.1.2"
+          }
+        },
+        {
+          "group": "com.billy.android",
+          "module": "smart-swipe-x",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger-android-support",
+          "version": {
+            "requires": "2.22.1"
+          }
+        },
+        {
+          "group": "joda-time",
+          "module": "joda-time",
+          "version": {
+            "requires": "2.10.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.4.31"
+          }
+        },
+        {
+          "group": "com.trello.rxlifecycle2",
+          "module": "rxlifecycle",
+          "version": {
+            "requires": "2.2.2"
+          }
+        },
+        {
+          "group": "com.trello.rxlifecycle2",
+          "module": "rxlifecycle-components",
+          "version": {
+            "requires": "2.2.1"
+          }
+        },
+        {
+          "group": "com.trello.rxlifecycle2",
+          "module": "rxlifecycle-navi",
+          "version": {
+            "requires": "2.2.1"
+          }
+        },
+        {
+          "group": "com.trello.rxlifecycle2",
+          "module": "rxlifecycle-kotlin",
+          "version": {
+            "requires": "2.2.1"
+          }
+        },
+        {
+          "group": "io.reactivex",
+          "module": "rxandroid",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
+          "group": "io.reactivex.rxjava2",
+          "module": "rxandroid",
+          "version": {
+            "requires": "2.1.1"
+          }
+        },
+        {
+          "group": "io.reactivex.rxjava2",
+          "module": "rxjava",
+          "version": {
+            "requires": "2.2.4"
+          }
+        },
+        {
+          "group": "io.reactivex",
+          "module": "rxjava",
+          "version": {
+            "requires": "1.3.2"
+          }
+        },
+        {
+          "group": "me.yokeyword",
+          "module": "fragmentationx-core",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
+          "group": "me.yokeyword",
+          "module": "eventbus-activity-scope",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "org.greenrobot",
+          "module": "eventbus",
+          "version": {
+            "requires": "3.1.1"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-extensions",
+          "version": {
+            "requires": "2.2.0"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-common-java8",
+          "version": {
+            "requires": "2.2.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "base-1.0.1.aar",
+          "url": "base-1.0.1.aar",
+          "size": 216366,
+          "sha512": "be19ffa9b97880620dd5e31f6bd6b699cf15f05d68eec028a981487cf4b392d19ba0829417cb1bd0f4daaeb251192e62d22f2074a8a8214eba9b59f5619e62a5",
+          "sha256": "c11e26ad02666aebfde0d630f6f66c0bbb6e55b5cd0a0d80097e21065793a97c",
+          "sha1": "d8af855484b28509c660efdc570dbcae670e3d79",
+          "md5": "1b1ae4e0e84d3748e420a9aad00917df"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.timecat.component",
+          "module": "identity",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "setting",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.element",
+          "module": "listview",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.element",
+          "module": "alert",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.5.0-alpha01"
+          }
+        },
+        {
+          "group": "com.github.gturedi",
+          "module": "stateful-layout",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
+          "group": "com.billy.android",
+          "module": "smart-swipe",
+          "version": {
+            "requires": "1.1.2"
+          }
+        },
+        {
+          "group": "com.billy.android",
+          "module": "smart-swipe-x",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger-android-support",
+          "version": {
+            "requires": "2.22.1"
+          }
+        },
+        {
+          "group": "joda-time",
+          "module": "joda-time",
+          "version": {
+            "requires": "2.10.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.4.31"
+          }
+        },
+        {
+          "group": "com.trello.rxlifecycle2",
+          "module": "rxlifecycle",
+          "version": {
+            "requires": "2.2.2"
+          }
+        },
+        {
+          "group": "com.trello.rxlifecycle2",
+          "module": "rxlifecycle-components",
+          "version": {
+            "requires": "2.2.1"
+          }
+        },
+        {
+          "group": "com.trello.rxlifecycle2",
+          "module": "rxlifecycle-navi",
+          "version": {
+            "requires": "2.2.1"
+          }
+        },
+        {
+          "group": "com.trello.rxlifecycle2",
+          "module": "rxlifecycle-kotlin",
+          "version": {
+            "requires": "2.2.1"
+          }
+        },
+        {
+          "group": "io.reactivex",
+          "module": "rxandroid",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
+          "group": "io.reactivex.rxjava2",
+          "module": "rxandroid",
+          "version": {
+            "requires": "2.1.1"
+          }
+        },
+        {
+          "group": "io.reactivex.rxjava2",
+          "module": "rxjava",
+          "version": {
+            "requires": "2.2.4"
+          }
+        },
+        {
+          "group": "io.reactivex",
+          "module": "rxjava",
+          "version": {
+            "requires": "1.3.2"
+          }
+        },
+        {
+          "group": "me.yokeyword",
+          "module": "fragmentationx-core",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
+          "group": "me.yokeyword",
+          "module": "eventbus-activity-scope",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "org.greenrobot",
+          "module": "eventbus",
+          "version": {
+            "requires": "3.1.1"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-extensions",
+          "version": {
+            "requires": "2.2.0"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-common-java8",
+          "version": {
+            "requires": "2.2.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-android-extensions-runtime",
+          "version": {
+            "requires": "1.4.31"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "base-1.0.1.aar",
+          "url": "base-1.0.1.aar",
+          "size": 216366,
+          "sha512": "be19ffa9b97880620dd5e31f6bd6b699cf15f05d68eec028a981487cf4b392d19ba0829417cb1bd0f4daaeb251192e62d22f2074a8a8214eba9b59f5619e62a5",
+          "sha256": "c11e26ad02666aebfde0d630f6f66c0bbb6e55b5cd0a0d80097e21065793a97c",
+          "sha1": "d8af855484b28509c660efdc570dbcae670e3d79",
+          "md5": "1b1ae4e0e84d3748e420a9aad00917df"
+        }
+      ]
+    }
+  ]
+}
