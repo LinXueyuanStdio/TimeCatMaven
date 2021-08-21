@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.timecat.widget</groupId>
-  <artifactId>board</artifactId>
+  <artifactId>board-jar</artifactId>
   <versioning>
     <latest>1.0.0</latest>
     <release>1.0.0</release>
