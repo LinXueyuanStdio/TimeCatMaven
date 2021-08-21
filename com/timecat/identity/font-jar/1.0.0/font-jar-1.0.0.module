@@ -1,0 +1,58 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.identity",
+    "module": "font-jar",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "font-jar-1.0.0.aar",
+          "url": "font-jar-1.0.0.aar",
+          "size": 260258,
+          "sha512": "e963966e1cf6211e4f92c2fcc0082266c3b7dd5c804afbf8eb4cf8d75a8e345c3f5723bc21e339551db21439b162856028feded6e7b330eb91d4c5f0a13de0e7",
+          "sha256": "31b40589fe0d91f7701a2fb5d3eed1eb0cb6ea74cf6af43dcc2c1bae38b88102",
+          "sha1": "bf6f0a9dfe1d5ee3388c0579f8302f841769cc44",
+          "md5": "445bba97b12fc8bb3b165652bb672e91"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "font-jar-1.0.0.aar",
+          "url": "font-jar-1.0.0.aar",
+          "size": 260258,
+          "sha512": "e963966e1cf6211e4f92c2fcc0082266c3b7dd5c804afbf8eb4cf8d75a8e345c3f5723bc21e339551db21439b162856028feded6e7b330eb91d4c5f0a13de0e7",
+          "sha256": "31b40589fe0d91f7701a2fb5d3eed1eb0cb6ea74cf6af43dcc2c1bae38b88102",
+          "sha1": "bf6f0a9dfe1d5ee3388c0579f8302f841769cc44",
+          "md5": "445bba97b12fc8bb3b165652bb672e91"
+        }
+      ]
+    }
+  ]
+}

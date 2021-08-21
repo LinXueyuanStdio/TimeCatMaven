@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.identity",
+    "module": "skin-jar",
+    "version": "1.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "skin.support",
+          "module": "skin-support",
+          "version": {
+            "requires": "4.0.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "skin-jar-1.0.1.aar",
+          "url": "skin-jar-1.0.1.aar",
+          "size": 3397,
+          "sha512": "3a89240ff9f2684432fec25d4d9bd2b99274affec2c1857cb8f7c2137f4a138ec4fa52b224850ad5c93180e1f0b862fd61bb473814556452f67dd50b630361a5",
+          "sha256": "9404c276853f2b6536dc98fde674eb26691a561ad7f74789a2381f4eaa9bc992",
+          "sha1": "9389c30d71d82c3ce80e2e1c631d05c318d3763b",
+          "md5": "f2440990d972cb3fcba48464286b124b"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "skin.support",
+          "module": "skin-support",
+          "version": {
+            "requires": "4.0.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "skin-jar-1.0.1.aar",
+          "url": "skin-jar-1.0.1.aar",
+          "size": 3397,
+          "sha512": "3a89240ff9f2684432fec25d4d9bd2b99274affec2c1857cb8f7c2137f4a138ec4fa52b224850ad5c93180e1f0b862fd61bb473814556452f67dd50b630361a5",
+          "sha256": "9404c276853f2b6536dc98fde674eb26691a561ad7f74789a2381f4eaa9bc992",
+          "sha1": "9389c30d71d82c3ce80e2e1c631d05c318d3763b",
+          "md5": "f2440990d972cb3fcba48464286b124b"
+        }
+      ]
+    }
+  ]
+}

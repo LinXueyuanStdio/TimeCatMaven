@@ -1,0 +1,104 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.identity",
+    "module": "resources-jar",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
+          "group": "androidx.preference",
+          "module": "preference",
+          "version": {
+            "requires": "1.1.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "resources-1.0.0.aar",
+          "url": "resources-1.0.0.aar",
+          "size": 2404078,
+          "sha512": "9a755d63b91c123225642afd40fc5354f1dd1d741dc5cc5a2bd3406e7b5ac762ab4e4aa104c9df3d0252e2c66a31e273307906df182c08f01beb59469f55473e",
+          "sha256": "e045975870aa6e9d8e885ccb6581c89955f2d45f39c869b3dc9c737d4ec14f47",
+          "sha1": "86316a0e8650ba4850599b8552b8f470fb5f1765",
+          "md5": "4be3a9bbee7f8d5a19c0b3d2ce9607ed"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
+          "group": "androidx.preference",
+          "module": "preference",
+          "version": {
+            "requires": "1.1.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "resources-1.0.0.aar",
+          "url": "resources-1.0.0.aar",
+          "size": 2404078,
+          "sha512": "9a755d63b91c123225642afd40fc5354f1dd1d741dc5cc5a2bd3406e7b5ac762ab4e4aa104c9df3d0252e2c66a31e273307906df182c08f01beb59469f55473e",
+          "sha256": "e045975870aa6e9d8e885ccb6581c89955f2d45f39c869b3dc9c737d4ec14f47",
+          "sha1": "86316a0e8650ba4850599b8552b8f470fb5f1765",
+          "md5": "4be3a9bbee7f8d5a19c0b3d2ce9607ed"
+        }
+      ]
+    }
+  ]
+}

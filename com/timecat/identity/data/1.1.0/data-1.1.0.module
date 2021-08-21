@@ -1,0 +1,104 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.identity",
+    "module": "data-jar",
+    "version": "1.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "joda-time",
+          "module": "joda-time",
+          "version": {
+            "requires": "2.10.1"
+          }
+        },
+        {
+          "group": "com.alibaba",
+          "module": "fastjson",
+          "version": {
+            "requires": "1.2.9"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.4.31"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "data-1.1.0.aar",
+          "url": "data-1.1.0.aar",
+          "size": 325296,
+          "sha512": "841b2587e0c4c2162863048dc7100c9d73938c65f6b9acf0206227540aff95b028ceba438acccb49e327127d3279a9c18cd9c562e1c27f307d4c8fd3f2960f00",
+          "sha256": "01aec5107c768ab2a39c649fbc48e3032470a863b5cdb5e5310bd81dcaf26e92",
+          "sha1": "d2224cce3b26922b9af29b89187954d1f1236f2f",
+          "md5": "a07c82b674fa43f6c96d62898ff18f3f"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "joda-time",
+          "module": "joda-time",
+          "version": {
+            "requires": "2.10.1"
+          }
+        },
+        {
+          "group": "com.alibaba",
+          "module": "fastjson",
+          "version": {
+            "requires": "1.2.9"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.4.31"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "data-1.1.0.aar",
+          "url": "data-1.1.0.aar",
+          "size": 325296,
+          "sha512": "841b2587e0c4c2162863048dc7100c9d73938c65f6b9acf0206227540aff95b028ceba438acccb49e327127d3279a9c18cd9c562e1c27f307d4c8fd3f2960f00",
+          "sha256": "01aec5107c768ab2a39c649fbc48e3032470a863b5cdb5e5310bd81dcaf26e92",
+          "sha1": "d2224cce3b26922b9af29b89187954d1f1236f2f",
+          "md5": "a07c82b674fa43f6c96d62898ff18f3f"
+        }
+      ]
+    }
+  ]
+}
