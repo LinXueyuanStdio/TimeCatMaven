@@ -3,11 +3,13 @@
   <groupId>com.timecat.identity</groupId>
   <artifactId>skin</artifactId>
   <versioning>
-    <release>1.0.1</release>
+    <latest>1.0.1.jar</latest>
+    <release>1.0.1.jar</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
+      <version>1.0.1.jar</version>
     </versions>
-    <lastUpdated>20210311063508</lastUpdated>
+    <lastUpdated>20210821084315</lastUpdated>
   </versioning>
 </metadata>

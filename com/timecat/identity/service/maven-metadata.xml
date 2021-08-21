@@ -3,12 +3,14 @@
   <groupId>com.timecat.identity</groupId>
   <artifactId>service</artifactId>
   <versioning>
-    <release>1.0.2</release>
+    <latest>1.0.2.jar</latest>
+    <release>1.0.2.jar</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
       <version>1.0.2</version>
+      <version>1.0.2.jar</version>
     </versions>
-    <lastUpdated>20210812121515</lastUpdated>
+    <lastUpdated>20210821084303</lastUpdated>
   </versioning>
 </metadata>

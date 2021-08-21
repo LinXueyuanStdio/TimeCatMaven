@@ -3,7 +3,8 @@
   <groupId>com.timecat.identity</groupId>
   <artifactId>readonly</artifactId>
   <versioning>
-    <release>1.1.0</release>
+    <latest>1.1.0.jar</latest>
+    <release>1.1.0.jar</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -18,7 +19,8 @@
       <version>1.0.10</version>
       <version>1.0.11</version>
       <version>1.1.0</version>
+      <version>1.1.0.jar</version>
     </versions>
-    <lastUpdated>20210812114249</lastUpdated>
+    <lastUpdated>20210821055349</lastUpdated>
   </versioning>
 </metadata>
