@@ -3,10 +3,12 @@
   <groupId>com.timecat.extend</groupId>
   <artifactId>markdown</artifactId>
   <versioning>
+    <latest>1.0.0</latest>
     <release>1.0.0</release>
     <versions>
       <version>1.0.0</version>
+      <version>1.0.0.jar</version>
     </versions>
-    <lastUpdated>20201227153913</lastUpdated>
+    <lastUpdated>20210821092935</lastUpdated>
   </versioning>
 </metadata>

@@ -3,10 +3,12 @@
   <groupId>com.timecat.data</groupId>
   <artifactId>greendao</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <latest>1.0.0.jar</latest>
+    <release>1.0.0.jar</release>
     <versions>
       <version>1.0.0</version>
+      <version>1.0.0.jar</version>
     </versions>
-    <lastUpdated>20210530070809</lastUpdated>
+    <lastUpdated>20210821085544</lastUpdated>
   </versioning>
 </metadata>
