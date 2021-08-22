@@ -1,0 +1,307 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.module",
+    "module": "module-timetable-jar",
+    "version": "1.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.21"
+          }
+        },
+        {
+          "group": "com.timecat.page",
+          "module": "base",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.layout",
+          "module": "ui",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.data",
+          "module": "bmob",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "router",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.widget",
+          "module": "widget-toolkit",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.widget",
+          "module": "widget-smartalert",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.widget",
+          "module": "widget-timetable",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.0.1"
+          }
+        },
+        {
+          "group": "androidx.cardview",
+          "module": "cardview",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "com.contrarywind",
+          "module": "Android-PickerView",
+          "version": {
+            "requires": "4.1.2"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "retrofit",
+          "version": {
+            "requires": "2.9.0"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "converter-gson",
+          "version": {
+            "requires": "2.9.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "module-timetable-1.1.0.aar",
+          "url": "module-timetable-1.1.0.aar",
+          "size": 647324,
+          "sha512": "cb33d0a33249c0b2cec8c837eb10cec4b26d838510d9ed7cbce9ee15bec3f2dedf2016807af31c2e4b87fff3d7d02a1d81d0b6cd962ff62a6eaeaecd6f7b088e",
+          "sha256": "4a719e73d127f009d92ccf73a9435032aa37cfbd19f081a180f53959dc168be7",
+          "sha1": "45e14c4262e84597ce2954cc557b4cf50aa865b9",
+          "md5": "6845cea6db5b7ca3a9713fb333c6add3"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.21"
+          }
+        },
+        {
+          "group": "com.timecat.page",
+          "module": "base",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.layout",
+          "module": "ui",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.data",
+          "module": "bmob",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "router",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.widget",
+          "module": "widget-toolkit",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.widget",
+          "module": "widget-smartalert",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.widget",
+          "module": "widget-timetable",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.0.1"
+          }
+        },
+        {
+          "group": "androidx.cardview",
+          "module": "cardview",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "com.contrarywind",
+          "module": "Android-PickerView",
+          "version": {
+            "requires": "4.1.2"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "retrofit",
+          "version": {
+            "requires": "2.9.0"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "converter-gson",
+          "version": {
+            "requires": "2.9.0"
+          }
+        },
+        {
+          "group": "org.litepal.android",
+          "module": "core",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "com.lovedise",
+          "module": "permissiongen",
+          "version": {
+            "requires": "0.0.6"
+          }
+        },
+        {
+          "group": "cn.aigestudio.wheelpicker",
+          "module": "WheelPicker",
+          "version": {
+            "requires": "1.1.2"
+          }
+        },
+        {
+          "group": "cn.bingoogolapple",
+          "module": "bga-qrcode-zxing",
+          "version": {
+            "requires": "1.3.7"
+          }
+        },
+        {
+          "group": "com.journeyapps",
+          "module": "zxing-android-embedded",
+          "version": {
+            "requires": "3.5.0"
+          }
+        },
+        {
+          "group": "com.zhuangfei",
+          "module": "SuperBox",
+          "version": {
+            "requires": "1.0.5"
+          }
+        },
+        {
+          "group": "org.greenrobot",
+          "module": "eventbus",
+          "version": {
+            "requires": "3.1.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "module-timetable-1.1.0.aar",
+          "url": "module-timetable-1.1.0.aar",
+          "size": 647324,
+          "sha512": "cb33d0a33249c0b2cec8c837eb10cec4b26d838510d9ed7cbce9ee15bec3f2dedf2016807af31c2e4b87fff3d7d02a1d81d0b6cd962ff62a6eaeaecd6f7b088e",
+          "sha256": "4a719e73d127f009d92ccf73a9435032aa37cfbd19f081a180f53959dc168be7",
+          "sha1": "45e14c4262e84597ce2954cc557b4cf50aa865b9",
+          "md5": "6845cea6db5b7ca3a9713fb333c6add3"
+        }
+      ]
+    }
+  ]
+}
