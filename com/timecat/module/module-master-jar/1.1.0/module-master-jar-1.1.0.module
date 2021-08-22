@@ -1,0 +1,591 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.module",
+    "module": "module-master-jar",
+    "version": "1.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.21"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "block",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "form",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "selector",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "font",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "readonly",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "sdk",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "data",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.data",
+          "module": "room",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "MView-same",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-font",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MLang",
+          "version": {
+            "requires": "2.0.2"
+          }
+        },
+        {
+          "group": "com.timecat.widget",
+          "module": "board",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.widget",
+          "module": "table",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger",
+          "version": {
+            "requires": "2.22.1"
+          }
+        },
+        {
+          "group": "com.github.chengzhicao",
+          "module": "ChannelView",
+          "version": {
+            "requires": "v1.1.0"
+          }
+        },
+        {
+          "group": "com.otaliastudios",
+          "module": "autocomplete",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "com.github.florent37",
+          "module": "expansionpanel",
+          "version": {
+            "requires": "1.0.7"
+          }
+        },
+        {
+          "group": "com.akexorcist",
+          "module": "round-corner-progress-bar",
+          "version": {
+            "requires": "2.1.2"
+          }
+        },
+        {
+          "group": "com.github.iwgang",
+          "module": "countdownview",
+          "version": {
+            "requires": "2.1.6"
+          }
+        },
+        {
+          "group": "io.github.razerdp",
+          "module": "BasePopup",
+          "version": {
+            "requires": "3.1.4"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-livedata-ktx",
+          "version": {
+            "requires": "2.2.0"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-runtime-ktx",
+          "version": {
+            "requires": "2.2.0"
+          }
+        },
+        {
+          "group": "com.mikepenz",
+          "module": "materialdrawer",
+          "version": {
+            "requires": "8.0.3"
+          }
+        },
+        {
+          "group": "com.hyman",
+          "module": "flowlayout-lib",
+          "version": {
+            "requires": "1.1.2"
+          }
+        },
+        {
+          "group": "com.github.applikeysolutions",
+          "module": "cosmocalendar",
+          "version": {
+            "requires": "1.0.4"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "androidx.lifecycle"
+            },
+            {
+              "group": "androidx.lifecycle",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "com.flyco.roundview",
+          "module": "FlycoRoundView_Lib",
+          "version": {
+            "requires": "1.1.4"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "*"
+            }
+          ],
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "FlycoRoundView_Lib",
+              "type": "aar",
+              "extension": "aar"
+            }
+          }
+        },
+        {
+          "group": "com.github.florent37",
+          "module": "viewtooltip",
+          "version": {
+            "requires": "1.1.8"
+          }
+        },
+        {
+          "group": "com.getkeepsafe.taptargetview",
+          "module": "taptargetview",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "com.effective.android",
+          "module": "panelSwitchHelper-androidx",
+          "version": {
+            "requires": "1.3.13"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "module-master-jar-1.1.0.aar",
+          "url": "module-master-jar-1.1.0.aar",
+          "size": 4117694,
+          "sha512": "dbd7c30e4e49c262c2ed07c854bc54c97b62ee301b607f8a9755a02018834773bcd292a4dca21fe0acedfd7e3c8483682bd5d4ded7edd03363252f7d66426b7a",
+          "sha256": "a43f74f896dc7fc5e70b6ceb17d792459225e8ac7c6df0d3acb2951d9b815b15",
+          "sha1": "e3334d808a404061e8776a85404bc3a88fb88424",
+          "md5": "87cc24194b75e2e2d95319f37e2782e7"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-parcelize-runtime",
+          "version": {
+            "requires": "1.5.21"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.21"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "block",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "form",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "selector",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "font",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "readonly",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "sdk",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "data",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.data",
+          "module": "room",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "MView-same",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-font",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MLang",
+          "version": {
+            "requires": "2.0.2"
+          }
+        },
+        {
+          "group": "com.timecat.widget",
+          "module": "board",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.widget",
+          "module": "table",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger",
+          "version": {
+            "requires": "2.22.1"
+          }
+        },
+        {
+          "group": "com.github.chengzhicao",
+          "module": "ChannelView",
+          "version": {
+            "requires": "v1.1.0"
+          }
+        },
+        {
+          "group": "com.otaliastudios",
+          "module": "autocomplete",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "com.github.florent37",
+          "module": "expansionpanel",
+          "version": {
+            "requires": "1.0.7"
+          }
+        },
+        {
+          "group": "com.akexorcist",
+          "module": "round-corner-progress-bar",
+          "version": {
+            "requires": "2.1.2"
+          }
+        },
+        {
+          "group": "com.github.iwgang",
+          "module": "countdownview",
+          "version": {
+            "requires": "2.1.6"
+          }
+        },
+        {
+          "group": "io.github.razerdp",
+          "module": "BasePopup",
+          "version": {
+            "requires": "3.1.4"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-livedata-ktx",
+          "version": {
+            "requires": "2.2.0"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-runtime-ktx",
+          "version": {
+            "requires": "2.2.0"
+          }
+        },
+        {
+          "group": "com.mikepenz",
+          "module": "materialdrawer",
+          "version": {
+            "requires": "8.0.3"
+          }
+        },
+        {
+          "group": "com.hyman",
+          "module": "flowlayout-lib",
+          "version": {
+            "requires": "1.1.2"
+          }
+        },
+        {
+          "group": "com.github.applikeysolutions",
+          "module": "cosmocalendar",
+          "version": {
+            "requires": "1.0.4"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "androidx.lifecycle"
+            },
+            {
+              "group": "androidx.lifecycle",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "com.flyco.roundview",
+          "module": "FlycoRoundView_Lib",
+          "version": {
+            "requires": "1.1.4"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "*"
+            }
+          ],
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "FlycoRoundView_Lib",
+              "type": "aar",
+              "extension": "aar"
+            }
+          }
+        },
+        {
+          "group": "com.github.florent37",
+          "module": "viewtooltip",
+          "version": {
+            "requires": "1.1.8"
+          }
+        },
+        {
+          "group": "com.getkeepsafe.taptargetview",
+          "module": "taptargetview",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "com.effective.android",
+          "module": "panelSwitchHelper-androidx",
+          "version": {
+            "requires": "1.3.13"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "module-master-jar-1.1.0.aar",
+          "url": "module-master-jar-1.1.0.aar",
+          "size": 4117694,
+          "sha512": "dbd7c30e4e49c262c2ed07c854bc54c97b62ee301b607f8a9755a02018834773bcd292a4dca21fe0acedfd7e3c8483682bd5d4ded7edd03363252f7d66426b7a",
+          "sha256": "a43f74f896dc7fc5e70b6ceb17d792459225e8ac7c6df0d3acb2951d9b815b15",
+          "sha1": "e3334d808a404061e8776a85404bc3a88fb88424",
+          "md5": "87cc24194b75e2e2d95319f37e2782e7"
+        }
+      ]
+    }
+  ]
+}

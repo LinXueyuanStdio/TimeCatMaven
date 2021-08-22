@@ -1,0 +1,132 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.module",
+    "module": "module-theme-jar",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.21"
+          }
+        },
+        {
+          "group": "com.timecat.page",
+          "module": "base",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.layout",
+          "module": "ui",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "router",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "readonly",
+          "version": {
+            "requires": "+"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "module-theme-jar-1.0.0.aar",
+          "url": "module-theme-jar-1.0.0.aar",
+          "size": 617587,
+          "sha512": "b7f33eabf5351141030436e61def42df0c30b1c713c383d73aab0bed656f6d7f99ecdf4fc261d0a50a8b1a7e838fcf8861162288c52f7f9b5c732752eb5d4a51",
+          "sha256": "823662e5f72e83fc5730c1b8f6de13445debaf48cbb4e0bf095ef668d3b33244",
+          "sha1": "0955a701359b7261a404fc93cbfcec2b96fa3d56",
+          "md5": "9dbbcfb088495cdaf2a733bd78fe5b6a"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.21"
+          }
+        },
+        {
+          "group": "com.timecat.page",
+          "module": "base",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.layout",
+          "module": "ui",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "router",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "readonly",
+          "version": {
+            "requires": "+"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "module-theme-jar-1.0.0.aar",
+          "url": "module-theme-jar-1.0.0.aar",
+          "size": 617587,
+          "sha512": "b7f33eabf5351141030436e61def42df0c30b1c713c383d73aab0bed656f6d7f99ecdf4fc261d0a50a8b1a7e838fcf8861162288c52f7f9b5c732752eb5d4a51",
+          "sha256": "823662e5f72e83fc5730c1b8f6de13445debaf48cbb4e0bf095ef668d3b33244",
+          "sha1": "0955a701359b7261a404fc93cbfcec2b96fa3d56",
+          "md5": "9dbbcfb088495cdaf2a733bd78fe5b6a"
+        }
+      ]
+    }
+  ]
+}

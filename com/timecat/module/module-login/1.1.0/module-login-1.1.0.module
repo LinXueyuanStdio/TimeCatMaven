@@ -1,0 +1,146 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.module",
+    "module": "module-login-jar",
+    "version": "1.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.21"
+          }
+        },
+        {
+          "group": "com.timecat.page",
+          "module": "base",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.layout",
+          "module": "ui",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.data",
+          "module": "bmob",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.data",
+          "module": "system",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "router",
+          "version": {
+            "requires": "+"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "module-login-1.1.0.aar",
+          "url": "module-login-1.1.0.aar",
+          "size": 193228,
+          "sha512": "67b7fd9d774c296d34ae629a373068801e35d07a55bdf8c52ab4b55e412c017c14ca902e043583d428c5541176ed33a57c1478232d9811311f6a49cd753e9d23",
+          "sha256": "0868d8c7d0f2d646a300b8a70ec3ee35fb3a8eb047178abe8cd2eaba9300973d",
+          "sha1": "aba74159f3495340078cebaed14a79f409f086b3",
+          "md5": "6cc0adab1c9c72fd4716c09f5df6c3ef"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.21"
+          }
+        },
+        {
+          "group": "com.timecat.page",
+          "module": "base",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.layout",
+          "module": "ui",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.data",
+          "module": "bmob",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.data",
+          "module": "system",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "router",
+          "version": {
+            "requires": "+"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "module-login-1.1.0.aar",
+          "url": "module-login-1.1.0.aar",
+          "size": 193228,
+          "sha512": "67b7fd9d774c296d34ae629a373068801e35d07a55bdf8c52ab4b55e412c017c14ca902e043583d428c5541176ed33a57c1478232d9811311f6a49cd753e9d23",
+          "sha256": "0868d8c7d0f2d646a300b8a70ec3ee35fb3a8eb047178abe8cd2eaba9300973d",
+          "sha1": "aba74159f3495340078cebaed14a79f409f086b3",
+          "md5": "6cc0adab1c9c72fd4716c09f5df6c3ef"
+        }
+      ]
+    }
+  ]
+}

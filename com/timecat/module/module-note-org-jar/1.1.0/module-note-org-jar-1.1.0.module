@@ -1,0 +1,592 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.module",
+    "module": "module-note-org-jar",
+    "version": "1.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.21"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "block",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "form",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "readonly",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.data",
+          "module": "bmob",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.widget",
+          "module": "widget-swirl",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.widget",
+          "module": "widget-timely",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "io.github.razerdp",
+          "module": "BasePopup",
+          "version": {
+            "requires": "3.1.4"
+          }
+        },
+        {
+          "group": "jp.wasabeef",
+          "module": "blurry",
+          "version": {
+            "requires": "2.1.1"
+          }
+        },
+        {
+          "group": "com.github.chrisbanes",
+          "module": "PhotoView",
+          "version": {
+            "requires": "2.0.0"
+          }
+        },
+        {
+          "group": "com.orgzly",
+          "module": "org-java",
+          "version": {
+            "requires": "1.3-SNAPSHOT"
+          }
+        },
+        {
+          "group": "com.dropbox.core",
+          "module": "dropbox-core-sdk",
+          "version": {
+            "requires": "3.0.11"
+          }
+        },
+        {
+          "group": "com.googlecode.juniversalchardet",
+          "module": "juniversalchardet",
+          "version": {
+            "requires": "1.0.3"
+          }
+        },
+        {
+          "group": "com.evernote",
+          "module": "android-job",
+          "version": {
+            "requires": "1.2.6"
+          }
+        },
+        {
+          "group": "joda-time",
+          "module": "joda-time",
+          "version": {
+            "requires": "2.10.10"
+          }
+        },
+        {
+          "group": "org.eclipse.jgit",
+          "module": "org.eclipse.jgit",
+          "version": {
+            "requires": "5.7.0.202003110725-r"
+          }
+        },
+        {
+          "group": "com.github.bumptech.glide",
+          "module": "glide",
+          "version": {
+            "requires": "4.12.0"
+          }
+        },
+        {
+          "group": "androidx.multidex",
+          "module": "multidex",
+          "version": {
+            "requires": "2.0.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.4.0"
+          }
+        },
+        {
+          "group": "androidx.cardview",
+          "module": "cardview",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.preference",
+          "module": "preference",
+          "version": {
+            "requires": "1.1.1"
+          }
+        },
+        {
+          "group": "androidx.recyclerview",
+          "module": "recyclerview",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.0.1"
+          }
+        },
+        {
+          "group": "androidx.documentfile",
+          "module": "documentfile",
+          "version": {
+            "requires": "1.0.1"
+          }
+        },
+        {
+          "group": "androidx.localbroadcastmanager",
+          "module": "localbroadcastmanager",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.room",
+          "module": "room-runtime",
+          "version": {
+            "requires": "2.2.5"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-extensions",
+          "version": {
+            "requires": "2.2.0"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger",
+          "version": {
+            "requires": "2.22.1"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger-android",
+          "version": {
+            "requires": "2.22.1"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger-android-support",
+          "version": {
+            "requires": "2.22.1"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.5"
+          }
+        },
+        {
+          "group": "com.thegrizzlylabs.sardine-android",
+          "module": "sardine-android",
+          "version": {
+            "requires": "0.5"
+          },
+          "excludes": [
+            {
+              "group": "xpp3",
+              "module": "xpp3"
+            }
+          ]
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "module-note-org-jar-1.1.0.aar",
+          "url": "module-note-org-jar-1.1.0.aar",
+          "size": 5122239,
+          "sha512": "6988aa1739c144847b8d7b22cc6c705d792abe0b587b3e1308af4f0b68160688a006c51fea08fd2c94335dddf1422f455f191b0481ca110d5c0a312eb69218d6",
+          "sha256": "d5493f359cd8cccb7b2092ff07d7dc498460d889da218c67b27f864deb4da871",
+          "sha1": "6dea306b807c0147512d4f515fb3ef44259b621d",
+          "md5": "251954763eee20fc04b177ad4e19615a"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.21"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "block",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "form",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "readonly",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.data",
+          "module": "bmob",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.widget",
+          "module": "widget-swirl",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.widget",
+          "module": "widget-timely",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "io.github.razerdp",
+          "module": "BasePopup",
+          "version": {
+            "requires": "3.1.4"
+          }
+        },
+        {
+          "group": "jp.wasabeef",
+          "module": "blurry",
+          "version": {
+            "requires": "2.1.1"
+          }
+        },
+        {
+          "group": "com.github.chrisbanes",
+          "module": "PhotoView",
+          "version": {
+            "requires": "2.0.0"
+          }
+        },
+        {
+          "group": "com.orgzly",
+          "module": "org-java",
+          "version": {
+            "requires": "1.3-SNAPSHOT"
+          }
+        },
+        {
+          "group": "com.dropbox.core",
+          "module": "dropbox-core-sdk",
+          "version": {
+            "requires": "3.0.11"
+          }
+        },
+        {
+          "group": "com.googlecode.juniversalchardet",
+          "module": "juniversalchardet",
+          "version": {
+            "requires": "1.0.3"
+          }
+        },
+        {
+          "group": "com.evernote",
+          "module": "android-job",
+          "version": {
+            "requires": "1.2.6"
+          }
+        },
+        {
+          "group": "joda-time",
+          "module": "joda-time",
+          "version": {
+            "requires": "2.10.10"
+          }
+        },
+        {
+          "group": "org.eclipse.jgit",
+          "module": "org.eclipse.jgit",
+          "version": {
+            "requires": "5.7.0.202003110725-r"
+          }
+        },
+        {
+          "group": "com.github.bumptech.glide",
+          "module": "glide",
+          "version": {
+            "requires": "4.12.0"
+          }
+        },
+        {
+          "group": "androidx.multidex",
+          "module": "multidex",
+          "version": {
+            "requires": "2.0.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.4.0"
+          }
+        },
+        {
+          "group": "androidx.cardview",
+          "module": "cardview",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.preference",
+          "module": "preference",
+          "version": {
+            "requires": "1.1.1"
+          }
+        },
+        {
+          "group": "androidx.recyclerview",
+          "module": "recyclerview",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.0.1"
+          }
+        },
+        {
+          "group": "androidx.documentfile",
+          "module": "documentfile",
+          "version": {
+            "requires": "1.0.1"
+          }
+        },
+        {
+          "group": "androidx.localbroadcastmanager",
+          "module": "localbroadcastmanager",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.room",
+          "module": "room-runtime",
+          "version": {
+            "requires": "2.2.5"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-extensions",
+          "version": {
+            "requires": "2.2.0"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger",
+          "version": {
+            "requires": "2.22.1"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger-android",
+          "version": {
+            "requires": "2.22.1"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger-android-support",
+          "version": {
+            "requires": "2.22.1"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.5"
+          }
+        },
+        {
+          "group": "com.thegrizzlylabs.sardine-android",
+          "module": "sardine-android",
+          "version": {
+            "requires": "0.5"
+          },
+          "excludes": [
+            {
+              "group": "xpp3",
+              "module": "xpp3"
+            }
+          ]
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "module-note-org-jar-1.1.0.aar",
+          "url": "module-note-org-jar-1.1.0.aar",
+          "size": 5122239,
+          "sha512": "6988aa1739c144847b8d7b22cc6c705d792abe0b587b3e1308af4f0b68160688a006c51fea08fd2c94335dddf1422f455f191b0481ca110d5c0a312eb69218d6",
+          "sha256": "d5493f359cd8cccb7b2092ff07d7dc498460d889da218c67b27f864deb4da871",
+          "sha1": "6dea306b807c0147512d4f515fb3ef44259b621d",
+          "md5": "251954763eee20fc04b177ad4e19615a"
+        }
+      ]
+    }
+  ]
+}
