@@ -90,14 +90,14 @@
           "group": "joda-time",
           "module": "joda-time",
           "version": {
-            "requires": "2.10.1"
+            "requires": "2.10.10"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.4.31"
+            "requires": "1.5.21"
           }
         },
         {
@@ -196,11 +196,11 @@
         {
           "name": "base-1.0.1.aar",
           "url": "base-1.0.1.aar",
-          "size": 216366,
-          "sha512": "be19ffa9b97880620dd5e31f6bd6b699cf15f05d68eec028a981487cf4b392d19ba0829417cb1bd0f4daaeb251192e62d22f2074a8a8214eba9b59f5619e62a5",
-          "sha256": "c11e26ad02666aebfde0d630f6f66c0bbb6e55b5cd0a0d80097e21065793a97c",
-          "sha1": "d8af855484b28509c660efdc570dbcae670e3d79",
-          "md5": "1b1ae4e0e84d3748e420a9aad00917df"
+          "size": 212646,
+          "sha512": "48a3ae93cdbdf1da8eef2dc7f625e7ef41d0c12d30096fe5b5f78089cf1eb03901406c5dbff1631d75ee7ae88c1a81b2a75dad59df058bab729ac99e05927df5",
+          "sha256": "c3373682172de08c7eb35e49fff982f884f363867225485f473bdb7a80b0ed48",
+          "sha1": "84c2c5e51672aa3d3a589084ca94b4c2d7d2db34",
+          "md5": "b553703fa371c3d3d271c92f39d12cd5"
         }
       ]
     },
@@ -280,14 +280,14 @@
           "group": "joda-time",
           "module": "joda-time",
           "version": {
-            "requires": "2.10.1"
+            "requires": "2.10.10"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.4.31"
+            "requires": "1.5.21"
           }
         },
         {
@@ -385,7 +385,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-android-extensions-runtime",
           "version": {
-            "requires": "1.4.31"
+            "requires": "1.5.21"
           }
         }
       ],
@@ -393,11 +393,11 @@
         {
           "name": "base-1.0.1.aar",
           "url": "base-1.0.1.aar",
-          "size": 216366,
-          "sha512": "be19ffa9b97880620dd5e31f6bd6b699cf15f05d68eec028a981487cf4b392d19ba0829417cb1bd0f4daaeb251192e62d22f2074a8a8214eba9b59f5619e62a5",
-          "sha256": "c11e26ad02666aebfde0d630f6f66c0bbb6e55b5cd0a0d80097e21065793a97c",
-          "sha1": "d8af855484b28509c660efdc570dbcae670e3d79",
-          "md5": "1b1ae4e0e84d3748e420a9aad00917df"
+          "size": 212646,
+          "sha512": "48a3ae93cdbdf1da8eef2dc7f625e7ef41d0c12d30096fe5b5f78089cf1eb03901406c5dbff1631d75ee7ae88c1a81b2a75dad59df058bab729ac99e05927df5",
+          "sha256": "c3373682172de08c7eb35e49fff982f884f363867225485f473bdb7a80b0ed48",
+          "sha1": "84c2c5e51672aa3d3a589084ca94b4c2d7d2db34",
+          "md5": "b553703fa371c3d3d271c92f39d12cd5"
         }
       ]
     }

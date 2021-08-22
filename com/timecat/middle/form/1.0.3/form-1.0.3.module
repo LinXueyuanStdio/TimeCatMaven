@@ -1,0 +1,132 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.middle",
+    "module": "form-jar",
+    "version": "1.0.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.timecat.component",
+          "module": "router",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "readonly",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.page",
+          "module": "base",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.layout",
+          "module": "ui",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "form-1.0.3.aar",
+          "url": "form-1.0.3.aar",
+          "size": 98878,
+          "sha512": "2cd2d6ed980eb3d2342da944727cc3dad43206ac119e7884f32251e0684d6c2ca0da53874d19f4d7c1d9d5465abd4277e8eeb82732801132614ecd856fd5464f",
+          "sha256": "bc2eff6c8a246242c5e713246f5fe43257a7f573f8a4613598bf7d68a289e576",
+          "sha1": "82937cc69dbbb1af4657a2fc3dd62178f7065b2a",
+          "md5": "6b9fce544d5e59ab00fb382ed729a3ba"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.timecat.component",
+          "module": "router",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "readonly",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.page",
+          "module": "base",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.layout",
+          "module": "ui",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "form-1.0.3.aar",
+          "url": "form-1.0.3.aar",
+          "size": 98878,
+          "sha512": "2cd2d6ed980eb3d2342da944727cc3dad43206ac119e7884f32251e0684d6c2ca0da53874d19f4d7c1d9d5465abd4277e8eeb82732801132614ecd856fd5464f",
+          "sha256": "bc2eff6c8a246242c5e713246f5fe43257a7f573f8a4613598bf7d68a289e576",
+          "sha1": "82937cc69dbbb1af4657a2fc3dd62178f7065b2a",
+          "md5": "6b9fce544d5e59ab00fb382ed729a3ba"
+        }
+      ]
+    }
+  ]
+}
