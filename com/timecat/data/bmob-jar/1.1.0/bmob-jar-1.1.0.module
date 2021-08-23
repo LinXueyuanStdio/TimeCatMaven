@@ -41,21 +41,21 @@
           "group": "com.squareup.retrofit2",
           "module": "adapter-rxjava",
           "version": {
-            "requires": "2.6.0"
+            "requires": "2.9.0"
           }
         },
         {
           "group": "com.squareup.retrofit2",
           "module": "adapter-rxjava2",
           "version": {
-            "requires": "2.6.0"
+            "requires": "2.9.0"
           }
         },
         {
           "group": "com.squareup.retrofit2",
           "module": "converter-gson",
           "version": {
-            "requires": "2.6.0"
+            "requires": "2.9.0"
           }
         },
         {
@@ -81,9 +81,9 @@
         },
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib",
+          "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.4.31"
+            "requires": "1.5.21"
           }
         }
       ],
@@ -91,11 +91,11 @@
         {
           "name": "bmob-jar-1.1.0.aar",
           "url": "bmob-jar-1.1.0.aar",
-          "size": 1729197,
-          "sha512": "bf209f6ef77eac8790483cbc3f7ceb491b1f85348dff84ad8273da095e764a40dfc58264eaf94300c8fbc261da678d91e3afa3c457bb7713140cd8e745aa4b48",
-          "sha256": "1e887d7dc8eaadd9581af71ae9e8102f764e0ac3c9a3628065189c0c1a9618c3",
-          "sha1": "ecab3da790b0b5a83a98078f12233d7057fb8a2e",
-          "md5": "1dd2882db303367c737fb60035512a3a"
+          "size": 1709067,
+          "sha512": "fb3070cba63efe1b62337cd93e718b03120e7f4a191e48bb10580565b9b6d554e690a981e55d0c6f9502d8c8443170dc5ccfb1453a1b00c8e3ddf9ca123e79f9",
+          "sha256": "73d39e4ad8a32e07c3b83dfc73e64cc3a1d5eff65b4691e8197d5536af26b47a",
+          "sha1": "3d72c65abbcba7ee5876d640ba16e1e634580d8a",
+          "md5": "c4c6726a0e19591f36326f8ccea42d47"
         }
       ]
     },
@@ -126,21 +126,21 @@
           "group": "com.squareup.retrofit2",
           "module": "adapter-rxjava",
           "version": {
-            "requires": "2.6.0"
+            "requires": "2.9.0"
           }
         },
         {
           "group": "com.squareup.retrofit2",
           "module": "adapter-rxjava2",
           "version": {
-            "requires": "2.6.0"
+            "requires": "2.9.0"
           }
         },
         {
           "group": "com.squareup.retrofit2",
           "module": "converter-gson",
           "version": {
-            "requires": "2.6.0"
+            "requires": "2.9.0"
           }
         },
         {
@@ -166,9 +166,9 @@
         },
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib",
+          "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.4.31"
+            "requires": "1.5.21"
           }
         }
       ],
@@ -176,11 +176,11 @@
         {
           "name": "bmob-jar-1.1.0.aar",
           "url": "bmob-jar-1.1.0.aar",
-          "size": 1729197,
-          "sha512": "bf209f6ef77eac8790483cbc3f7ceb491b1f85348dff84ad8273da095e764a40dfc58264eaf94300c8fbc261da678d91e3afa3c457bb7713140cd8e745aa4b48",
-          "sha256": "1e887d7dc8eaadd9581af71ae9e8102f764e0ac3c9a3628065189c0c1a9618c3",
-          "sha1": "ecab3da790b0b5a83a98078f12233d7057fb8a2e",
-          "md5": "1dd2882db303367c737fb60035512a3a"
+          "size": 1709067,
+          "sha512": "fb3070cba63efe1b62337cd93e718b03120e7f4a191e48bb10580565b9b6d554e690a981e55d0c6f9502d8c8443170dc5ccfb1453a1b00c8e3ddf9ca123e79f9",
+          "sha256": "73d39e4ad8a32e07c3b83dfc73e64cc3a1d5eff65b4691e8197d5536af26b47a",
+          "sha1": "3d72c65abbcba7ee5876d640ba16e1e634580d8a",
+          "md5": "c4c6726a0e19591f36326f8ccea42d47"
         }
       ]
     }

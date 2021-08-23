@@ -121,6 +121,26 @@
           }
         },
         {
+          "group": "com.tbruyelle.rxpermissions2",
+          "module": "rxpermissions",
+          "version": {
+            "requires": "0.9.5"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "*"
+            }
+          ],
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "rxpermissions",
+              "type": "aar",
+              "extension": "aar"
+            }
+          }
+        },
+        {
           "group": "com.squareup.retrofit2",
           "module": "retrofit",
           "version": {
@@ -170,11 +190,11 @@
         {
           "name": "arms-1.1.0.aar",
           "url": "arms-1.1.0.aar",
-          "size": 127487,
-          "sha512": "3c7ac075488384a95aa5d1319848ceb80df46048f325d84eef91319498ed6655b13a49ffe537df84627ca0c3811699befa626a7f0543b59013000d4c34e4d963",
-          "sha256": "595044e500cddefc0281786ecd250b81fa0cd40663168a700eef9f97614840e7",
-          "sha1": "de9bcf7138466b28976fca261be0cdd6ac0b7dcc",
-          "md5": "e6432db9d251e6e443ffc2a7a72c1aae"
+          "size": 127460,
+          "sha512": "95bc2ca131b45ba5b1a2ef0af29401c22618cc2619aa0472a95884d1f4631669c0a54ff5f03e389cae3f50f12d2a801843d2c3a1eea295c66243ee1dcd25a07a",
+          "sha256": "ac8a5866318c8ab5ae6431d1aa513b8ffb3b078c4db8360f5e907c4a4e14ab2c",
+          "sha1": "b1d33dcdd8dbfede70ee5c1e82f46dab95c203e9",
+          "md5": "9773a59e1841a0d4d2625449af075b96"
         }
       ]
     },
@@ -348,6 +368,26 @@
           }
         },
         {
+          "group": "com.tbruyelle.rxpermissions2",
+          "module": "rxpermissions",
+          "version": {
+            "requires": "0.9.5"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "*"
+            }
+          ],
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "rxpermissions",
+              "type": "aar",
+              "extension": "aar"
+            }
+          }
+        },
+        {
           "group": "com.squareup.retrofit2",
           "module": "retrofit",
           "version": {
@@ -397,11 +437,11 @@
         {
           "name": "arms-1.1.0.aar",
           "url": "arms-1.1.0.aar",
-          "size": 127487,
-          "sha512": "3c7ac075488384a95aa5d1319848ceb80df46048f325d84eef91319498ed6655b13a49ffe537df84627ca0c3811699befa626a7f0543b59013000d4c34e4d963",
-          "sha256": "595044e500cddefc0281786ecd250b81fa0cd40663168a700eef9f97614840e7",
-          "sha1": "de9bcf7138466b28976fca261be0cdd6ac0b7dcc",
-          "md5": "e6432db9d251e6e443ffc2a7a72c1aae"
+          "size": 127460,
+          "sha512": "95bc2ca131b45ba5b1a2ef0af29401c22618cc2619aa0472a95884d1f4631669c0a54ff5f03e389cae3f50f12d2a801843d2c3a1eea295c66243ee1dcd25a07a",
+          "sha256": "ac8a5866318c8ab5ae6431d1aa513b8ffb3b078c4db8360f5e907c4a4e14ab2c",
+          "sha1": "b1d33dcdd8dbfede70ee5c1e82f46dab95c203e9",
+          "md5": "9773a59e1841a0d4d2625449af075b96"
         }
       ]
     }

@@ -224,11 +224,11 @@
         {
           "name": "block-jar-1.1.2.aar",
           "url": "block-jar-1.1.2.aar",
-          "size": 1362559,
-          "sha512": "05a4c88e0bbc02820ba2347d3742ed297f814cda753db4f5bb7d758f850d10e357ad1850dfd8671b0475fb64130f5d6e06052d35477a8d6859a638fb2466753e",
-          "sha256": "0de35a1011a4ec46f1a8ee7764a1e07abc889190af32cc8840b0262460cfddcd",
-          "sha1": "660771be8c915c21f8b4d04dc36b9754d9574f8c",
-          "md5": "1b998a06ca6f95735d196c66d4e9428c"
+          "size": 1362176,
+          "sha512": "7656e58adec3233f8b92faad17c7eed09e974ab0850957703a373184210b2062d3fd86e7a53f3c71aedeeefefac486ec8b7710ecd09733797e5b364f059984a5",
+          "sha256": "ad036ac7c8549737b3d22bcb12c9336a379c0fa1c903f97def58747184736453",
+          "sha1": "528fc739eb28a9dcb9556d11fa6824d1ce3d92b1",
+          "md5": "0cf65b9c2ffd5a43acdb33b786f21cf4"
         }
       ]
     },
@@ -442,11 +442,11 @@
         {
           "name": "block-jar-1.1.2.aar",
           "url": "block-jar-1.1.2.aar",
-          "size": 1362559,
-          "sha512": "05a4c88e0bbc02820ba2347d3742ed297f814cda753db4f5bb7d758f850d10e357ad1850dfd8671b0475fb64130f5d6e06052d35477a8d6859a638fb2466753e",
-          "sha256": "0de35a1011a4ec46f1a8ee7764a1e07abc889190af32cc8840b0262460cfddcd",
-          "sha1": "660771be8c915c21f8b4d04dc36b9754d9574f8c",
-          "md5": "1b998a06ca6f95735d196c66d4e9428c"
+          "size": 1362176,
+          "sha512": "7656e58adec3233f8b92faad17c7eed09e974ab0850957703a373184210b2062d3fd86e7a53f3c71aedeeefefac486ec8b7710ecd09733797e5b364f059984a5",
+          "sha256": "ad036ac7c8549737b3d22bcb12c9336a379c0fa1c903f97def58747184736453",
+          "sha1": "528fc739eb28a9dcb9556d11fa6824d1ce3d92b1",
+          "md5": "0cf65b9c2ffd5a43acdb33b786f21cf4"
         }
       ]
     }

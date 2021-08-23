@@ -196,11 +196,11 @@
         {
           "name": "base-1.0.1.aar",
           "url": "base-1.0.1.aar",
-          "size": 212646,
-          "sha512": "48a3ae93cdbdf1da8eef2dc7f625e7ef41d0c12d30096fe5b5f78089cf1eb03901406c5dbff1631d75ee7ae88c1a81b2a75dad59df058bab729ac99e05927df5",
-          "sha256": "c3373682172de08c7eb35e49fff982f884f363867225485f473bdb7a80b0ed48",
-          "sha1": "84c2c5e51672aa3d3a589084ca94b4c2d7d2db34",
-          "md5": "b553703fa371c3d3d271c92f39d12cd5"
+          "size": 212534,
+          "sha512": "157631a3230a8c237871e8810380d87b0dd3534b0d687ea8d05bcd2aca1388965f79c8d28a785dbe519ea7d8147d7b7961bbdd4c54d9b279c586ec9af514ee3d",
+          "sha256": "a5f12ee7ab5ab9e8cf13fe6c97fa3f0ebb6b88c57ddd990bce200f65f2171df3",
+          "sha1": "1fd98436a1c9fec2f26d5a0a902947dfcd8d1931",
+          "md5": "eb0fc4ce2a375162a912c9a730562fae"
         }
       ]
     },
@@ -380,24 +380,17 @@
           "version": {
             "requires": "2.2.0"
           }
-        },
-        {
-          "group": "org.jetbrains.kotlin",
-          "module": "kotlin-android-extensions-runtime",
-          "version": {
-            "requires": "1.5.21"
-          }
         }
       ],
       "files": [
         {
           "name": "base-1.0.1.aar",
           "url": "base-1.0.1.aar",
-          "size": 212646,
-          "sha512": "48a3ae93cdbdf1da8eef2dc7f625e7ef41d0c12d30096fe5b5f78089cf1eb03901406c5dbff1631d75ee7ae88c1a81b2a75dad59df058bab729ac99e05927df5",
-          "sha256": "c3373682172de08c7eb35e49fff982f884f363867225485f473bdb7a80b0ed48",
-          "sha1": "84c2c5e51672aa3d3a589084ca94b4c2d7d2db34",
-          "md5": "b553703fa371c3d3d271c92f39d12cd5"
+          "size": 212534,
+          "sha512": "157631a3230a8c237871e8810380d87b0dd3534b0d687ea8d05bcd2aca1388965f79c8d28a785dbe519ea7d8147d7b7961bbdd4c54d9b279c586ec9af514ee3d",
+          "sha256": "a5f12ee7ab5ab9e8cf13fe6c97fa3f0ebb6b88c57ddd990bce200f65f2171df3",
+          "sha1": "1fd98436a1c9fec2f26d5a0a902947dfcd8d1931",
+          "md5": "eb0fc4ce2a375162a912c9a730562fae"
         }
       ]
     }
