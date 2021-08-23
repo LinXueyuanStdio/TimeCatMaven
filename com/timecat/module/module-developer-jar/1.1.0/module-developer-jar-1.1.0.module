@@ -85,10 +85,10 @@
           "name": "module-developer-jar-1.1.0.aar",
           "url": "module-developer-jar-1.1.0.aar",
           "size": 161296,
-          "sha512": "c413aeb2377c9a391798422d9dd036849236aca9274775e799a2df8b047b0d3e04d66fe906441144c1207a941ad64aa6cba373a7402fd6d59a3aa43ef362ebc3",
-          "sha256": "f28dcbdaed03935f3d32b58af8afd1e25a4bea3a1f469a485ae07b32a5d9dd30",
-          "sha1": "1e20ca681b406edf3d69377e0468944e30bc9833",
-          "md5": "ad9153687cfc93214898741b0fb4a621"
+          "sha512": "1acf1b8344763fd2bac9df4fd701d031c1ccd8bb3e1ac77fcaf874dc16f75dfb23312576acd585d2128c709b4f79dcfea47c906f755ebdb7f46184fbe12c118e",
+          "sha256": "9d6a076e483aca585014ecd51466def986dfa66a4389f076075a42c1dfe78f6f",
+          "sha1": "2bc9b870b55f25af0d3321fe769d7f4c06160951",
+          "md5": "28cbdd3df82ae9e0317671455f8c68e4"
         }
       ]
     },
@@ -198,10 +198,10 @@
           "name": "module-developer-jar-1.1.0.aar",
           "url": "module-developer-jar-1.1.0.aar",
           "size": 161296,
-          "sha512": "c413aeb2377c9a391798422d9dd036849236aca9274775e799a2df8b047b0d3e04d66fe906441144c1207a941ad64aa6cba373a7402fd6d59a3aa43ef362ebc3",
-          "sha256": "f28dcbdaed03935f3d32b58af8afd1e25a4bea3a1f469a485ae07b32a5d9dd30",
-          "sha1": "1e20ca681b406edf3d69377e0468944e30bc9833",
-          "md5": "ad9153687cfc93214898741b0fb4a621"
+          "sha512": "1acf1b8344763fd2bac9df4fd701d031c1ccd8bb3e1ac77fcaf874dc16f75dfb23312576acd585d2128c709b4f79dcfea47c906f755ebdb7f46184fbe12c118e",
+          "sha256": "9d6a076e483aca585014ecd51466def986dfa66a4389f076075a42c1dfe78f6f",
+          "sha1": "2bc9b870b55f25af0d3321fe769d7f4c06160951",
+          "md5": "28cbdd3df82ae9e0317671455f8c68e4"
         }
       ]
     }

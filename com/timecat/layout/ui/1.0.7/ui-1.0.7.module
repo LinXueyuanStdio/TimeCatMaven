@@ -150,20 +150,6 @@
           }
         },
         {
-          "group": "com.github.chenBingX",
-          "module": "SuperTextView",
-          "version": {
-            "requires": "v3.2.5"
-          }
-        },
-        {
-          "group": "com.github.zagum",
-          "module": "Android-ExpandIcon",
-          "version": {
-            "requires": "1.2.1"
-          }
-        },
-        {
           "group": "com.github.githubwing",
           "module": "ByeBurger",
           "version": {
@@ -189,11 +175,11 @@
         {
           "name": "ui-1.0.7.aar",
           "url": "ui-1.0.7.aar",
-          "size": 1039836,
-          "sha512": "8aaf77b8c358623d7641193b81ea6a1f5f1b6f8a773acdac9220e1ae649a9628dfd7da218bb51f277bcacc59d1ed5cd9521e9d2f3f2719837bf95dbbc8362ac5",
-          "sha256": "312082695d2deb62181d6e0f32199ee139ff9568f7018508cbda09922f10eb3a",
-          "sha1": "cecf6f33b9e6f33681813ebad1bc0ee86796d0b9",
-          "md5": "193c46f9fb470857eae6de606cb89aaf"
+          "size": 1037388,
+          "sha512": "a82f1dcc334b8ee58295b2b0fa855fc3094255756762baf59291d1d66bd8dc1fb899700126cb46facd5a6a7446f0df4c9ca97fd09a20a33f4a7a74975708b1e5",
+          "sha256": "64dfa641c0bbd2c94cdc170e45dd05cf54ebb916dc20f3974414ccc6402779d2",
+          "sha1": "109e5e0a3abc8e155a76a54bc6fdd271a0ddb2d3",
+          "md5": "d3080eb915c3f3e7b4d97388e816b024"
         }
       ]
     },
@@ -340,20 +326,6 @@
           }
         },
         {
-          "group": "com.github.chenBingX",
-          "module": "SuperTextView",
-          "version": {
-            "requires": "v3.2.5"
-          }
-        },
-        {
-          "group": "com.github.zagum",
-          "module": "Android-ExpandIcon",
-          "version": {
-            "requires": "1.2.1"
-          }
-        },
-        {
           "group": "com.github.githubwing",
           "module": "ByeBurger",
           "version": {
@@ -379,11 +351,11 @@
         {
           "name": "ui-1.0.7.aar",
           "url": "ui-1.0.7.aar",
-          "size": 1039836,
-          "sha512": "8aaf77b8c358623d7641193b81ea6a1f5f1b6f8a773acdac9220e1ae649a9628dfd7da218bb51f277bcacc59d1ed5cd9521e9d2f3f2719837bf95dbbc8362ac5",
-          "sha256": "312082695d2deb62181d6e0f32199ee139ff9568f7018508cbda09922f10eb3a",
-          "sha1": "cecf6f33b9e6f33681813ebad1bc0ee86796d0b9",
-          "md5": "193c46f9fb470857eae6de606cb89aaf"
+          "size": 1037388,
+          "sha512": "a82f1dcc334b8ee58295b2b0fa855fc3094255756762baf59291d1d66bd8dc1fb899700126cb46facd5a6a7446f0df4c9ca97fd09a20a33f4a7a74975708b1e5",
+          "sha256": "64dfa641c0bbd2c94cdc170e45dd05cf54ebb916dc20f3974414ccc6402779d2",
+          "sha1": "109e5e0a3abc8e155a76a54bc6fdd271a0ddb2d3",
+          "md5": "d3080eb915c3f3e7b4d97388e816b024"
         }
       ]
     }

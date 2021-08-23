@@ -135,18 +135,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.github.chenBingX</groupId>
-      <artifactId>SuperTextView</artifactId>
-      <version>v3.2.5</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.github.zagum</groupId>
-      <artifactId>Android-ExpandIcon</artifactId>
-      <version>1.2.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.github.githubwing</groupId>
       <artifactId>ByeBurger</artifactId>
       <version>1.2.3</version>
