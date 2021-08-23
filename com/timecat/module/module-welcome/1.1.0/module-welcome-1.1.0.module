@@ -1,0 +1,167 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.module",
+    "module": "module-welcome-jar",
+    "version": "1.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.21"
+          }
+        },
+        {
+          "group": "com.timecat.page",
+          "module": "base",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.layout",
+          "module": "ui",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.data",
+          "module": "system",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "router",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "service",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "anim",
+          "version": {
+            "requires": "+"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "module-welcome-1.1.0.aar",
+          "url": "module-welcome-1.1.0.aar",
+          "size": 136292,
+          "sha512": "15d4cb8a61ea4fa4684e67ec051c8b247d8dcab8a288750e78fcf203c385413fa6f61459db7d4b6d1a46f0f1ce5f2254420edccc140f13c8fd17625f924f3eef",
+          "sha256": "1bed2e31d4333875ef290d649c466ae8108e432736e47f133ec00011ba56802a",
+          "sha1": "2744e6dc15a10ea16e78bdbb082b7f68749e0f4e",
+          "md5": "c7cd6c4f462108339b1e63830209e878"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.21"
+          }
+        },
+        {
+          "group": "com.timecat.page",
+          "module": "base",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.layout",
+          "module": "ui",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.data",
+          "module": "system",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "router",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "service",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "anim",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.jaredrummler",
+          "module": "animated-svg-view",
+          "version": {
+            "requires": "1.0.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "module-welcome-1.1.0.aar",
+          "url": "module-welcome-1.1.0.aar",
+          "size": 136292,
+          "sha512": "15d4cb8a61ea4fa4684e67ec051c8b247d8dcab8a288750e78fcf203c385413fa6f61459db7d4b6d1a46f0f1ce5f2254420edccc140f13c8fd17625f924f3eef",
+          "sha256": "1bed2e31d4333875ef290d649c466ae8108e432736e47f133ec00011ba56802a",
+          "sha1": "2744e6dc15a10ea16e78bdbb082b7f68749e0f4e",
+          "md5": "c7cd6c4f462108339b1e63830209e878"
+        }
+      ]
+    }
+  ]
+}
