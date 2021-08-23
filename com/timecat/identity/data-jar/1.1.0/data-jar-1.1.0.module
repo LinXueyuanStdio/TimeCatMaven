@@ -27,7 +27,7 @@
           "group": "joda-time",
           "module": "joda-time",
           "version": {
-            "requires": "2.10.1"
+            "requires": "2.10.10"
           }
         },
         {
@@ -39,9 +39,9 @@
         },
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib",
+          "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.4.31"
+            "requires": "1.5.21"
           }
         }
       ],
@@ -49,11 +49,11 @@
         {
           "name": "data-jar-1.1.0.aar",
           "url": "data-jar-1.1.0.aar",
-          "size": 325296,
-          "sha512": "841b2587e0c4c2162863048dc7100c9d73938c65f6b9acf0206227540aff95b028ceba438acccb49e327127d3279a9c18cd9c562e1c27f307d4c8fd3f2960f00",
-          "sha256": "01aec5107c768ab2a39c649fbc48e3032470a863b5cdb5e5310bd81dcaf26e92",
-          "sha1": "d2224cce3b26922b9af29b89187954d1f1236f2f",
-          "md5": "a07c82b674fa43f6c96d62898ff18f3f"
+          "size": 329691,
+          "sha512": "33c047f64c9a7567607bb1f703918fbf18a7ae98f68d467d13ea686190599df4923af081639d72a7657db458c501869527476ca0a929cf048edc75b4e3e0a182",
+          "sha256": "4748b96dcc36f90fe3812b82ac9a5874a9b44811da35cd6addbf62381eabd94d",
+          "sha1": "36876d9d16c342b50f5b0498c1be11c69f5dc5d7",
+          "md5": "12a065c0393833673c3edb66dd02de46"
         }
       ]
     },
@@ -70,7 +70,7 @@
           "group": "joda-time",
           "module": "joda-time",
           "version": {
-            "requires": "2.10.1"
+            "requires": "2.10.10"
           }
         },
         {
@@ -82,9 +82,9 @@
         },
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib",
+          "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.4.31"
+            "requires": "1.5.21"
           }
         }
       ],
@@ -92,11 +92,11 @@
         {
           "name": "data-jar-1.1.0.aar",
           "url": "data-jar-1.1.0.aar",
-          "size": 325296,
-          "sha512": "841b2587e0c4c2162863048dc7100c9d73938c65f6b9acf0206227540aff95b028ceba438acccb49e327127d3279a9c18cd9c562e1c27f307d4c8fd3f2960f00",
-          "sha256": "01aec5107c768ab2a39c649fbc48e3032470a863b5cdb5e5310bd81dcaf26e92",
-          "sha1": "d2224cce3b26922b9af29b89187954d1f1236f2f",
-          "md5": "a07c82b674fa43f6c96d62898ff18f3f"
+          "size": 329691,
+          "sha512": "33c047f64c9a7567607bb1f703918fbf18a7ae98f68d467d13ea686190599df4923af081639d72a7657db458c501869527476ca0a929cf048edc75b4e3e0a182",
+          "sha256": "4748b96dcc36f90fe3812b82ac9a5874a9b44811da35cd6addbf62381eabd94d",
+          "sha1": "36876d9d16c342b50f5b0498c1be11c69f5dc5d7",
+          "md5": "12a065c0393833673c3edb66dd02de46"
         }
       ]
     }
