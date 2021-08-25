@@ -91,11 +91,11 @@
         {
           "name": "bmob-jar-1.1.0.aar",
           "url": "bmob-jar-1.1.0.aar",
-          "size": 1709067,
-          "sha512": "fb3070cba63efe1b62337cd93e718b03120e7f4a191e48bb10580565b9b6d554e690a981e55d0c6f9502d8c8443170dc5ccfb1453a1b00c8e3ddf9ca123e79f9",
-          "sha256": "73d39e4ad8a32e07c3b83dfc73e64cc3a1d5eff65b4691e8197d5536af26b47a",
-          "sha1": "3d72c65abbcba7ee5876d640ba16e1e634580d8a",
-          "md5": "c4c6726a0e19591f36326f8ccea42d47"
+          "size": 1708955,
+          "sha512": "bf27c1148a0e2a42909a9d7c07add1f8e620e2b7371d878243b7eab876c967102ed4513604f9e60fb2458f7f6f4763c6aa14eed93e906f3efe83985d79aec3df",
+          "sha256": "fad7522e0896f9fa6aeedd373effdf72399a93fc329d2b86ea6d472fd30e94f9",
+          "sha1": "0fd2d36734a4f333208d2a5e28beff48ee99c37a",
+          "md5": "88edb32fb6e19dea795286af974262da"
         }
       ]
     },
@@ -176,11 +176,11 @@
         {
           "name": "bmob-jar-1.1.0.aar",
           "url": "bmob-jar-1.1.0.aar",
-          "size": 1709067,
-          "sha512": "fb3070cba63efe1b62337cd93e718b03120e7f4a191e48bb10580565b9b6d554e690a981e55d0c6f9502d8c8443170dc5ccfb1453a1b00c8e3ddf9ca123e79f9",
-          "sha256": "73d39e4ad8a32e07c3b83dfc73e64cc3a1d5eff65b4691e8197d5536af26b47a",
-          "sha1": "3d72c65abbcba7ee5876d640ba16e1e634580d8a",
-          "md5": "c4c6726a0e19591f36326f8ccea42d47"
+          "size": 1708955,
+          "sha512": "bf27c1148a0e2a42909a9d7c07add1f8e620e2b7371d878243b7eab876c967102ed4513604f9e60fb2458f7f6f4763c6aa14eed93e906f3efe83985d79aec3df",
+          "sha256": "fad7522e0896f9fa6aeedd373effdf72399a93fc329d2b86ea6d472fd30e94f9",
+          "sha1": "0fd2d36734a4f333208d2a5e28beff48ee99c37a",
+          "md5": "88edb32fb6e19dea795286af974262da"
         }
       ]
     }
