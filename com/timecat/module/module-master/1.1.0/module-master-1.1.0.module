@@ -143,6 +143,13 @@
           }
         },
         {
+          "group": "xyz.aprildown",
+          "module": "HmsPickerView",
+          "version": {
+            "requires": "0.2.0"
+          }
+        },
+        {
           "group": "com.github.florent37",
           "module": "expansionpanel",
           "version": {
@@ -289,11 +296,11 @@
         {
           "name": "module-master-1.1.0.aar",
           "url": "module-master-1.1.0.aar",
-          "size": 4120596,
-          "sha512": "6cd2da62ba032dd16718109f579d8dfed30e80dc0d7f9447ff296779c0a5bf4338498b8658cc96d59cf6a8ff70a8679576431556e4f3db3ccf71dd94b1ebfd07",
-          "sha256": "3352b387266f994acfb0dcbcb386af7bedd1ff82614d84884d23af62f0d142ea",
-          "sha1": "0c8193282d910cf082853898bd190450acf90453",
-          "md5": "2cbc40987ea9074b7a9a8de2f6e8fbcf"
+          "size": 4355884,
+          "sha512": "6526d871908b31d987448ac22b02c646f05e562a4009673a90a4f260d8583f57766d9e75f6dc8b259ba8ea20d607f777af538150e13ce40cdd9c83ddaed0d424",
+          "sha256": "08caab49dcbecc2b394e046d63c50b51d109910e01caa25c3e57752084b18a9f",
+          "sha1": "af5686fa3b27b0264aea525850d5ddbce98704cc",
+          "md5": "fa3986bcbd874009d74b8d5ada0d7554"
         }
       ]
     },
@@ -433,6 +440,13 @@
           }
         },
         {
+          "group": "xyz.aprildown",
+          "module": "HmsPickerView",
+          "version": {
+            "requires": "0.2.0"
+          }
+        },
+        {
           "group": "com.github.florent37",
           "module": "expansionpanel",
           "version": {
@@ -579,11 +593,11 @@
         {
           "name": "module-master-1.1.0.aar",
           "url": "module-master-1.1.0.aar",
-          "size": 4120596,
-          "sha512": "6cd2da62ba032dd16718109f579d8dfed30e80dc0d7f9447ff296779c0a5bf4338498b8658cc96d59cf6a8ff70a8679576431556e4f3db3ccf71dd94b1ebfd07",
-          "sha256": "3352b387266f994acfb0dcbcb386af7bedd1ff82614d84884d23af62f0d142ea",
-          "sha1": "0c8193282d910cf082853898bd190450acf90453",
-          "md5": "2cbc40987ea9074b7a9a8de2f6e8fbcf"
+          "size": 4355884,
+          "sha512": "6526d871908b31d987448ac22b02c646f05e562a4009673a90a4f260d8583f57766d9e75f6dc8b259ba8ea20d607f777af538150e13ce40cdd9c83ddaed0d424",
+          "sha256": "08caab49dcbecc2b394e046d63c50b51d109910e01caa25c3e57752084b18a9f",
+          "sha1": "af5686fa3b27b0264aea525850d5ddbce98704cc",
+          "md5": "fa3986bcbd874009d74b8d5ada0d7554"
         }
       ]
     }

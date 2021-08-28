@@ -129,6 +129,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>xyz.aprildown</groupId>
+      <artifactId>HmsPickerView</artifactId>
+      <version>0.2.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.github.florent37</groupId>
       <artifactId>expansionpanel</artifactId>
       <version>1.0.7</version>
