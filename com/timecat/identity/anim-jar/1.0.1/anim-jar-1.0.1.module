@@ -32,9 +32,9 @@
         },
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib",
+          "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.4.31"
+            "requires": "1.5.21"
           }
         }
       ],
@@ -42,11 +42,11 @@
         {
           "name": "anim-jar-1.0.1.aar",
           "url": "anim-jar-1.0.1.aar",
-          "size": 27839,
-          "sha512": "a1b87802c167442d520921d3de50f40d6755bd9eef271014eed6d0df8792d3f674512a518c67d69d14c083301f4df7cde4245676fda100fa647b7ed30fe463fa",
-          "sha256": "d1c26bc59570d15f497b11f3c6408b1d7244e6884dc76a53a4ba37235a71faf3",
-          "sha1": "5a6308d18b26ad8a52faa814f11ade86574b8439",
-          "md5": "4053636b35bf57eefbc601a1691d97df"
+          "size": 27270,
+          "sha512": "9552ab9ca8e9d517da9177268ae0ea9c555b78321a01d2e9d73f56aaf9f30c25abe9d64bf487743aa62dedd87d692edbd08f0f73f34506ae0130db308ebe4a21",
+          "sha256": "1fdd43efe0269796c022e673b5c8cb0b9e5a67b347c8a8342aed6b992e416bfa",
+          "sha1": "dbd61576f2475ba5d28c2a04742694f6d4501363",
+          "md5": "520bf098a44d0ab3341aabba3e6c0320"
         }
       ]
     },
@@ -68,9 +68,9 @@
         },
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib",
+          "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.4.31"
+            "requires": "1.5.21"
           }
         }
       ],
@@ -78,11 +78,11 @@
         {
           "name": "anim-jar-1.0.1.aar",
           "url": "anim-jar-1.0.1.aar",
-          "size": 27839,
-          "sha512": "a1b87802c167442d520921d3de50f40d6755bd9eef271014eed6d0df8792d3f674512a518c67d69d14c083301f4df7cde4245676fda100fa647b7ed30fe463fa",
-          "sha256": "d1c26bc59570d15f497b11f3c6408b1d7244e6884dc76a53a4ba37235a71faf3",
-          "sha1": "5a6308d18b26ad8a52faa814f11ade86574b8439",
-          "md5": "4053636b35bf57eefbc601a1691d97df"
+          "size": 27270,
+          "sha512": "9552ab9ca8e9d517da9177268ae0ea9c555b78321a01d2e9d73f56aaf9f30c25abe9d64bf487743aa62dedd87d692edbd08f0f73f34506ae0130db308ebe4a21",
+          "sha256": "1fdd43efe0269796c022e673b5c8cb0b9e5a67b347c8a8342aed6b992e416bfa",
+          "sha1": "dbd61576f2475ba5d28c2a04742694f6d4501363",
+          "md5": "520bf098a44d0ab3341aabba3e6c0320"
         }
       ]
     }
