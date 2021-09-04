@@ -24,6 +24,13 @@
       },
       "dependencies": [
         {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.4.0"
+          }
+        },
+        {
           "group": "com.timecat.identity",
           "module": "readonly",
           "version": {
@@ -41,7 +48,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.4.31"
+            "requires": "1.5.21"
           }
         },
         {
@@ -56,11 +63,11 @@
         {
           "name": "setting-jar-1.1.0.aar",
           "url": "setting-jar-1.1.0.aar",
-          "size": 66377,
-          "sha512": "f99ce444b71a98eab854a6397452420da6f4abe50883d092011d97948f5ccb530f87b07a902b7acaf9f6e73a731d4e889f3e8d236fae250217e3af1be07027f2",
-          "sha256": "8a70848ce2f99bc62704e5c3cb0ccdcb56216605ffdd4e8d40370c6f04a25639",
-          "sha1": "2363d0ffe863bcb4523c88e833ec4768737f98a7",
-          "md5": "91565c7a78adc1b6ab171c8021ce1b9e"
+          "size": 86895,
+          "sha512": "0065ff39add097aa185a0e1ce6e2ff3f47c96da493f47880a3d556eeb0026dd6bdaaaf5c44351513c63d95aee3c9347359295d44700d2e9807ad039359f64f81",
+          "sha256": "d27686f36c43addec7995df311f42cbfb40c242f2445669afa99ce9b6bd5b7eb",
+          "sha1": "6994b12fdf3569eaf5ed9123a5f0dad56e4d65eb",
+          "md5": "380b451e6c608b0d3ba99d02531fcfe9"
         }
       ]
     },
@@ -74,6 +81,13 @@
       },
       "dependencies": [
         {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.4.0"
+          }
+        },
+        {
           "group": "com.timecat.identity",
           "module": "readonly",
           "version": {
@@ -91,7 +105,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.4.31"
+            "requires": "1.5.21"
           }
         },
         {
@@ -106,11 +120,11 @@
         {
           "name": "setting-jar-1.1.0.aar",
           "url": "setting-jar-1.1.0.aar",
-          "size": 66377,
-          "sha512": "f99ce444b71a98eab854a6397452420da6f4abe50883d092011d97948f5ccb530f87b07a902b7acaf9f6e73a731d4e889f3e8d236fae250217e3af1be07027f2",
-          "sha256": "8a70848ce2f99bc62704e5c3cb0ccdcb56216605ffdd4e8d40370c6f04a25639",
-          "sha1": "2363d0ffe863bcb4523c88e833ec4768737f98a7",
-          "md5": "91565c7a78adc1b6ab171c8021ce1b9e"
+          "size": 86895,
+          "sha512": "0065ff39add097aa185a0e1ce6e2ff3f47c96da493f47880a3d556eeb0026dd6bdaaaf5c44351513c63d95aee3c9347359295d44700d2e9807ad039359f64f81",
+          "sha256": "d27686f36c43addec7995df311f42cbfb40c242f2445669afa99ce9b6bd5b7eb",
+          "sha1": "6994b12fdf3569eaf5ed9123a5f0dad56e4d65eb",
+          "md5": "380b451e6c608b0d3ba99d02531fcfe9"
         }
       ]
     }

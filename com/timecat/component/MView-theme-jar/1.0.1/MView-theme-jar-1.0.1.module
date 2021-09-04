@@ -1,0 +1,97 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.component",
+    "module": "MView-theme-jar",
+    "version": "1.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.timecat.component",
+          "module": "MView-base",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-core",
+          "version": {
+            "requires": "+"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "MView-theme-jar-1.0.1.aar",
+          "url": "MView-theme-jar-1.0.1.aar",
+          "size": 90156,
+          "sha512": "02dc4bf99ea4efd52735759df2406f6158a9d0b5da8dd1c26b0dddc4f1ced72977f975ed3edbf0d31aef211aa457eceb4bc12cd848be754d16cfb5374c9cf984",
+          "sha256": "f62d1f78d5bdee1ff5c0cc572bf84d7ee48596408cd9dbe3c701c110e9295117",
+          "sha1": "ecb0cedf370576a21cd6c11332c9c5b8db042aba",
+          "md5": "1e158c1c06c85e43585996bd366207ce"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-base",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-core",
+          "version": {
+            "requires": "+"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "MView-theme-jar-1.0.1.aar",
+          "url": "MView-theme-jar-1.0.1.aar",
+          "size": 90156,
+          "sha512": "02dc4bf99ea4efd52735759df2406f6158a9d0b5da8dd1c26b0dddc4f1ced72977f975ed3edbf0d31aef211aa457eceb4bc12cd848be754d16cfb5374c9cf984",
+          "sha256": "f62d1f78d5bdee1ff5c0cc572bf84d7ee48596408cd9dbe3c701c110e9295117",
+          "sha1": "ecb0cedf370576a21cd6c11332c9c5b8db042aba",
+          "md5": "1e158c1c06c85e43585996bd366207ce"
+        }
+      ]
+    }
+  ]
+}

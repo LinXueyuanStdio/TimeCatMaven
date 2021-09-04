@@ -1,0 +1,139 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.middle",
+    "module": "MView-same-jar",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.timecat.component",
+          "module": "MView-CheckBox",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-RadioButton",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-ListView",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-theme",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-lottie",
+          "version": {
+            "requires": "+"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "MView-same-jar-1.0.0.aar",
+          "url": "MView-same-jar-1.0.0.aar",
+          "size": 311923,
+          "sha512": "60b8134fa534ab5b34d920b704bcb0b3f9ae998fdafa4712e13d8fd378cbb66b55f52df97429e6b400a241a949448ad148365f01da921f2ccf0b8d90ebc23201",
+          "sha256": "2667a05d36569156bec1cd4f1ed60012c73a5e8b5e95fbdbf71c4dca426f923c",
+          "sha1": "da1f4820362483993d34e03cb2c02c9f1bdd48dc",
+          "md5": "27ab921ce65e1d02b86fc78230d7388f"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-CheckBox",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-RadioButton",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-ListView",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-theme",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-lottie",
+          "version": {
+            "requires": "+"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "MView-same-jar-1.0.0.aar",
+          "url": "MView-same-jar-1.0.0.aar",
+          "size": 311923,
+          "sha512": "60b8134fa534ab5b34d920b704bcb0b3f9ae998fdafa4712e13d8fd378cbb66b55f52df97429e6b400a241a949448ad148365f01da921f2ccf0b8d90ebc23201",
+          "sha256": "2667a05d36569156bec1cd4f1ed60012c73a5e8b5e95fbdbf71c4dca426f923c",
+          "sha1": "da1f4820362483993d34e03cb2c02c9f1bdd48dc",
+          "md5": "27ab921ce65e1d02b86fc78230d7388f"
+        }
+      ]
+    }
+  ]
+}

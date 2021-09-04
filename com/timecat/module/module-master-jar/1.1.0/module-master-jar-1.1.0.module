@@ -122,13 +122,6 @@
           }
         },
         {
-          "group": "com.google.dagger",
-          "module": "dagger",
-          "version": {
-            "requires": "2.22.1"
-          }
-        },
-        {
           "group": "com.github.chengzhicao",
           "module": "ChannelView",
           "version": {
@@ -147,13 +140,6 @@
           "module": "HmsPickerView",
           "version": {
             "requires": "0.2.0"
-          }
-        },
-        {
-          "group": "com.github.florent37",
-          "module": "expansionpanel",
-          "version": {
-            "requires": "1.0.7"
           }
         },
         {
@@ -197,30 +183,6 @@
           "version": {
             "requires": "8.0.3"
           }
-        },
-        {
-          "group": "com.hyman",
-          "module": "flowlayout-lib",
-          "version": {
-            "requires": "1.1.2"
-          }
-        },
-        {
-          "group": "com.github.applikeysolutions",
-          "module": "cosmocalendar",
-          "version": {
-            "requires": "1.0.4"
-          },
-          "excludes": [
-            {
-              "group": "*",
-              "module": "androidx.lifecycle"
-            },
-            {
-              "group": "androidx.lifecycle",
-              "module": "*"
-            }
-          ]
         },
         {
           "group": "com.flyco.roundview",
@@ -296,11 +258,11 @@
         {
           "name": "module-master-jar-1.1.0.aar",
           "url": "module-master-jar-1.1.0.aar",
-          "size": 4355884,
-          "sha512": "6526d871908b31d987448ac22b02c646f05e562a4009673a90a4f260d8583f57766d9e75f6dc8b259ba8ea20d607f777af538150e13ce40cdd9c83ddaed0d424",
-          "sha256": "08caab49dcbecc2b394e046d63c50b51d109910e01caa25c3e57752084b18a9f",
-          "sha1": "af5686fa3b27b0264aea525850d5ddbce98704cc",
-          "md5": "fa3986bcbd874009d74b8d5ada0d7554"
+          "size": 4389642,
+          "sha512": "266f8505d671735dbd094544d0d0ec61540f646d72c268d1395d8e39bc21aaa22e3e21ae7190b313e7b0bfae81e5823be874827ba97881ee088ee5c519e75b83",
+          "sha256": "5bbf07382e1a01b157a2f094c3ed53cb8d83e0311d94aa9ec4199e82bf891b8e",
+          "sha1": "579df81da52caeb5ee0fbbe631aa40741d407522",
+          "md5": "825da4f8e7fde57a6a5682ede0aa764d"
         }
       ]
     },
@@ -419,13 +381,6 @@
           }
         },
         {
-          "group": "com.google.dagger",
-          "module": "dagger",
-          "version": {
-            "requires": "2.22.1"
-          }
-        },
-        {
           "group": "com.github.chengzhicao",
           "module": "ChannelView",
           "version": {
@@ -444,13 +399,6 @@
           "module": "HmsPickerView",
           "version": {
             "requires": "0.2.0"
-          }
-        },
-        {
-          "group": "com.github.florent37",
-          "module": "expansionpanel",
-          "version": {
-            "requires": "1.0.7"
           }
         },
         {
@@ -494,30 +442,6 @@
           "version": {
             "requires": "8.0.3"
           }
-        },
-        {
-          "group": "com.hyman",
-          "module": "flowlayout-lib",
-          "version": {
-            "requires": "1.1.2"
-          }
-        },
-        {
-          "group": "com.github.applikeysolutions",
-          "module": "cosmocalendar",
-          "version": {
-            "requires": "1.0.4"
-          },
-          "excludes": [
-            {
-              "group": "*",
-              "module": "androidx.lifecycle"
-            },
-            {
-              "group": "androidx.lifecycle",
-              "module": "*"
-            }
-          ]
         },
         {
           "group": "com.flyco.roundview",
@@ -593,11 +517,11 @@
         {
           "name": "module-master-jar-1.1.0.aar",
           "url": "module-master-jar-1.1.0.aar",
-          "size": 4355884,
-          "sha512": "6526d871908b31d987448ac22b02c646f05e562a4009673a90a4f260d8583f57766d9e75f6dc8b259ba8ea20d607f777af538150e13ce40cdd9c83ddaed0d424",
-          "sha256": "08caab49dcbecc2b394e046d63c50b51d109910e01caa25c3e57752084b18a9f",
-          "sha1": "af5686fa3b27b0264aea525850d5ddbce98704cc",
-          "md5": "fa3986bcbd874009d74b8d5ada0d7554"
+          "size": 4389642,
+          "sha512": "266f8505d671735dbd094544d0d0ec61540f646d72c268d1395d8e39bc21aaa22e3e21ae7190b313e7b0bfae81e5823be874827ba97881ee088ee5c519e75b83",
+          "sha256": "5bbf07382e1a01b157a2f094c3ed53cb8d83e0311d94aa9ec4199e82bf891b8e",
+          "sha1": "579df81da52caeb5ee0fbbe631aa40741d407522",
+          "md5": "825da4f8e7fde57a6a5682ede0aa764d"
         }
       ]
     }

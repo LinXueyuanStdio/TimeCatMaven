@@ -1,0 +1,67 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.component",
+    "module": "MView-CheckBox-jar",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "MView-CheckBox-1.0.0.aar",
+          "url": "MView-CheckBox-1.0.0.aar",
+          "size": 31825,
+          "sha512": "82427994901c2dee0d7a5648334b3ef300562f5df1c39dcaf762dd53874ab28715975ed53e3b1005f5b181fe1568ea01ebc7823324d6c6dbf0a1181dce6a24ca",
+          "sha256": "dc526e0ce702e301f56aac1d506e0e121006541a270ac73ceb7bb232e648e03b",
+          "sha1": "bc1529107c285009aba6f74756e78445585dd3f7",
+          "md5": "46dc419b9d6e61fd17b61072e54a18de"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.2.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "MView-CheckBox-1.0.0.aar",
+          "url": "MView-CheckBox-1.0.0.aar",
+          "size": 31825,
+          "sha512": "82427994901c2dee0d7a5648334b3ef300562f5df1c39dcaf762dd53874ab28715975ed53e3b1005f5b181fe1568ea01ebc7823324d6c6dbf0a1181dce6a24ca",
+          "sha256": "dc526e0ce702e301f56aac1d506e0e121006541a270ac73ceb7bb232e648e03b",
+          "sha1": "bc1529107c285009aba6f74756e78445585dd3f7",
+          "md5": "46dc419b9d6e61fd17b61072e54a18de"
+        }
+      ]
+    }
+  ]
+}

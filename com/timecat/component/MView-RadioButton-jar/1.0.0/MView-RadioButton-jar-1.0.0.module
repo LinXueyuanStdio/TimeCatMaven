@@ -1,0 +1,67 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.component",
+    "module": "MView-RadioButton-jar",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "MView-RadioButton-jar-1.0.0.aar",
+          "url": "MView-RadioButton-jar-1.0.0.aar",
+          "size": 15506,
+          "sha512": "8ce3631e36896ea409a39b0b6e417cdcdaada13b0549bdd52faeab8568b3a40cdd5a06e9ee87f7d4730d073365770cd15b095ea30529bd17a27c6a1c6f1bbced",
+          "sha256": "701ecc487730f3b9f9774ce5797016fcd9aee04ccfa18a8f5e314255a87d94f7",
+          "sha1": "8521dd361f7403d388d84c15e63582e00f855159",
+          "md5": "677336bd1bcaf45685a8a13a5df5f09c"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.2.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "MView-RadioButton-jar-1.0.0.aar",
+          "url": "MView-RadioButton-jar-1.0.0.aar",
+          "size": 15506,
+          "sha512": "8ce3631e36896ea409a39b0b6e417cdcdaada13b0549bdd52faeab8568b3a40cdd5a06e9ee87f7d4730d073365770cd15b095ea30529bd17a27c6a1c6f1bbced",
+          "sha256": "701ecc487730f3b9f9774ce5797016fcd9aee04ccfa18a8f5e314255a87d94f7",
+          "sha1": "8521dd361f7403d388d84c15e63582e00f855159",
+          "md5": "677336bd1bcaf45685a8a13a5df5f09c"
+        }
+      ]
+    }
+  ]
+}

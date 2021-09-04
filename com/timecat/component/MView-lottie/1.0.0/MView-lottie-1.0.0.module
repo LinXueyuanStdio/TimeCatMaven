@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.component",
+    "module": "MView-lottie-jar",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.timecat.component",
+          "module": "MView-base",
+          "version": {
+            "requires": "+"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "MView-lottie-1.0.0.aar",
+          "url": "MView-lottie-1.0.0.aar",
+          "size": 1607335,
+          "sha512": "93a641021c3c6a838fa5ebc0fc19869a91b63add376eeffda3f98204cac0a1b8ecfe232dbb881ff8e6d9ef7340390b19ecee2bd3262ae6c358a2d3fd2630f9be",
+          "sha256": "5f4c64ce8570fa6d973a9da2b55a0ae616b8cc1e93b18ebfec948b27319e6f89",
+          "sha1": "e560890c93b7241a379887f3a55cf81fc28dd3ac",
+          "md5": "b13756690555b7fdc558afcc5c4fb904"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-base",
+          "version": {
+            "requires": "+"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "MView-lottie-1.0.0.aar",
+          "url": "MView-lottie-1.0.0.aar",
+          "size": 1607335,
+          "sha512": "93a641021c3c6a838fa5ebc0fc19869a91b63add376eeffda3f98204cac0a1b8ecfe232dbb881ff8e6d9ef7340390b19ecee2bd3262ae6c358a2d3fd2630f9be",
+          "sha256": "5f4c64ce8570fa6d973a9da2b55a0ae616b8cc1e93b18ebfec948b27319e6f89",
+          "sha1": "e560890c93b7241a379887f3a55cf81fc28dd3ac",
+          "md5": "b13756690555b7fdc558afcc5c4fb904"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.component",
+    "module": "MView-base-jar",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "MView-base-1.0.0.aar",
+          "url": "MView-base-1.0.0.aar",
+          "size": 39724,
+          "sha512": "09db0bb341ce47ca298d70b70a0daa5c215318b2404151b862ce8a98f4176ce3da4293394b6ac53445c6b100b74b01fb177602924de2ac5c9f969a1ddf56c78d",
+          "sha256": "2cd405032c54f95e06c661ea080a534ca72c02849c92665ac25c2745abb1ea41",
+          "sha1": "af0df68f9d08251f1a23e8e2947330f732eaa6d3",
+          "md5": "dd63759db0331feae66e1e68d685898c"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.2.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "MView-base-1.0.0.aar",
+          "url": "MView-base-1.0.0.aar",
+          "size": 39724,
+          "sha512": "09db0bb341ce47ca298d70b70a0daa5c215318b2404151b862ce8a98f4176ce3da4293394b6ac53445c6b100b74b01fb177602924de2ac5c9f969a1ddf56c78d",
+          "sha256": "2cd405032c54f95e06c661ea080a534ca72c02849c92665ac25c2745abb1ea41",
+          "sha1": "af0df68f9d08251f1a23e8e2947330f732eaa6d3",
+          "md5": "dd63759db0331feae66e1e68d685898c"
+        }
+      ]
+    }
+  ]
+}

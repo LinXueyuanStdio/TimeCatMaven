@@ -1,0 +1,67 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.component",
+    "module": "MView-font-jar",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "MView-font-1.0.0.aar",
+          "url": "MView-font-1.0.0.aar",
+          "size": 762202,
+          "sha512": "bdcc4cd205d47133108cf0742db29949c3946de6100f268d5f7928580baac01c79edb89cace77002dd63d92eff32f4ee2d89ea7cd0686421e7b5a475152324a0",
+          "sha256": "5fdfcab9d9393a28a1280e46189d1bff69be02746f591da16633473a203538bb",
+          "sha1": "394e81ed5e86abae5befc2c0e8fcbf5735d4e21c",
+          "md5": "894067016fa618a10663c1246b8ea940"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.2.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "MView-font-1.0.0.aar",
+          "url": "MView-font-1.0.0.aar",
+          "size": 762202,
+          "sha512": "bdcc4cd205d47133108cf0742db29949c3946de6100f268d5f7928580baac01c79edb89cace77002dd63d92eff32f4ee2d89ea7cd0686421e7b5a475152324a0",
+          "sha256": "5fdfcab9d9393a28a1280e46189d1bff69be02746f591da16633473a203538bb",
+          "sha1": "394e81ed5e86abae5befc2c0e8fcbf5735d4e21c",
+          "md5": "894067016fa618a10663c1246b8ea940"
+        }
+      ]
+    }
+  ]
+}
