@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.shared",
+    "module": "plugin-host-jar",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.timecat.component",
+          "module": "router",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.3.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "plugin-host-1.0.0.aar",
+          "url": "plugin-host-1.0.0.aar",
+          "size": 14896,
+          "sha512": "8b8ad649f1ca10335ec2dd5869626c8feac4af82405f077ac5a369d1f45c45e9bba87d8407785d6220f3c97a9e7d4e0fc513ca9feb4e6293f02c5904330d3eb7",
+          "sha256": "2b4f44d68d77f3021ce972d0504ae9c1482e32e454924b0dc6980b63935efa81",
+          "sha1": "4189214a9f5d44b3f4e348e4f45b23745a8e3521",
+          "md5": "41af7c195f1cede276eb0d07f7222870"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.timecat.component",
+          "module": "router",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.3.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "plugin-host-1.0.0.aar",
+          "url": "plugin-host-1.0.0.aar",
+          "size": 14896,
+          "sha512": "8b8ad649f1ca10335ec2dd5869626c8feac4af82405f077ac5a369d1f45c45e9bba87d8407785d6220f3c97a9e7d4e0fc513ca9feb4e6293f02c5904330d3eb7",
+          "sha256": "2b4f44d68d77f3021ce972d0504ae9c1482e32e454924b0dc6980b63935efa81",
+          "sha1": "4189214a9f5d44b3f4e348e4f45b23745a8e3521",
+          "md5": "41af7c195f1cede276eb0d07f7222870"
+        }
+      ]
+    }
+  ]
+}
