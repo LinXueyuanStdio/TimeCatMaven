@@ -89,6 +89,19 @@
           ]
         },
         {
+          "group": "com.timecat.plugin",
+          "module": "record-api-holder",
+          "version": {
+            "requires": "+"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "httpclient"
+            }
+          ]
+        },
+        {
           "group": "com.timecat.shared",
           "module": "plugin-host",
           "version": {
@@ -105,7 +118,20 @@
           "group": "com.tencent.shadow.dynamic",
           "module": "host",
           "version": {
-            "requires": "2.0.15"
+            "requires": "+"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "httpclient"
+            }
+          ]
+        },
+        {
+          "group": "com.github.Z-P-J",
+          "module": "ZDownloader",
+          "version": {
+            "requires": "1.0.0"
           },
           "excludes": [
             {
@@ -171,11 +197,11 @@
         {
           "name": "module-plugin-1.0.0.aar",
           "url": "module-plugin-1.0.0.aar",
-          "size": 193679,
-          "sha512": "8c54de35236ac1bcc982179d69664c8949a3330d19bfb795b998641b05fa764ce7b3579632e954880f6ec5632eea5e969c1fee7f61b0f76084f99b594a29c451",
-          "sha256": "484fb072db3ca04b4d0228b400211f20ab7b03537591cff12a5278ee1184aed4",
-          "sha1": "c79a526f51f1a287c98aa00b79165cb450a8cb96",
-          "md5": "220f644ab480f0f0511140fde6a0a572"
+          "size": 288772,
+          "sha512": "505799bb3ebe9a4154fe2b404dbd89e83b0a3bdc81de10539302c607124d7c799b9c9e2cf7c4fc74b076f370c47675e1a9ee344de40d2ab91c3e66ad57b75245",
+          "sha256": "8315478ab81c8237d25299c493f5eab031858006f678a8669dcf58ce79e6c23b",
+          "sha1": "c60a3f36d0b66d30a1762e6b3a3f95f1f7566baf",
+          "md5": "a1fbebc1776bc91a5f227e03d7543f5b"
         }
       ]
     },
@@ -254,6 +280,19 @@
           ]
         },
         {
+          "group": "com.timecat.plugin",
+          "module": "record-api-holder",
+          "version": {
+            "requires": "+"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "httpclient"
+            }
+          ]
+        },
+        {
           "group": "com.timecat.shared",
           "module": "plugin-host",
           "version": {
@@ -270,7 +309,20 @@
           "group": "com.tencent.shadow.dynamic",
           "module": "host",
           "version": {
-            "requires": "2.0.15"
+            "requires": "+"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "httpclient"
+            }
+          ]
+        },
+        {
+          "group": "com.github.Z-P-J",
+          "module": "ZDownloader",
+          "version": {
+            "requires": "1.0.0"
           },
           "excludes": [
             {
@@ -336,11 +388,11 @@
         {
           "name": "module-plugin-1.0.0.aar",
           "url": "module-plugin-1.0.0.aar",
-          "size": 193679,
-          "sha512": "8c54de35236ac1bcc982179d69664c8949a3330d19bfb795b998641b05fa764ce7b3579632e954880f6ec5632eea5e969c1fee7f61b0f76084f99b594a29c451",
-          "sha256": "484fb072db3ca04b4d0228b400211f20ab7b03537591cff12a5278ee1184aed4",
-          "sha1": "c79a526f51f1a287c98aa00b79165cb450a8cb96",
-          "md5": "220f644ab480f0f0511140fde6a0a572"
+          "size": 288772,
+          "sha512": "505799bb3ebe9a4154fe2b404dbd89e83b0a3bdc81de10539302c607124d7c799b9c9e2cf7c4fc74b076f370c47675e1a9ee344de40d2ab91c3e66ad57b75245",
+          "sha256": "8315478ab81c8237d25299c493f5eab031858006f678a8669dcf58ce79e6c23b",
+          "sha1": "c60a3f36d0b66d30a1762e6b3a3f95f1f7566baf",
+          "md5": "a1fbebc1776bc91a5f227e03d7543f5b"
         }
       ]
     }
