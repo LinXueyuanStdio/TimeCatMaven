@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.plugin",
+    "module": "record-api-jar",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "block",
+          "version": {
+            "requires": "+"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "record-api-1.0.0.aar",
+          "url": "record-api-1.0.0.aar",
+          "size": 97249,
+          "sha512": "f3fd2f44be60ae06a43df7d5da4f95032c58493d81b571b97a8a0677522212ab3ce6cbdc330e8b82eb58be02a664a041775fb329c8df51c105d95e7b542f9a89",
+          "sha256": "451358bdbfbf5bf3ddb7a065f983a72c22f1bbd95df4f65b176136cf3f15e9f0",
+          "sha1": "dad9746601a118632f23c1c010130f9deea1ee69",
+          "md5": "3a13d07453a507c4b1a55019e600c736"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "block",
+          "version": {
+            "requires": "+"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "record-api-1.0.0.aar",
+          "url": "record-api-1.0.0.aar",
+          "size": 97249,
+          "sha512": "f3fd2f44be60ae06a43df7d5da4f95032c58493d81b571b97a8a0677522212ab3ce6cbdc330e8b82eb58be02a664a041775fb329c8df51c105d95e7b542f9a89",
+          "sha256": "451358bdbfbf5bf3ddb7a065f983a72c22f1bbd95df4f65b176136cf3f15e9f0",
+          "sha1": "dad9746601a118632f23c1c010130f9deea1ee69",
+          "md5": "3a13d07453a507c4b1a55019e600c736"
+        }
+      ]
+    }
+  ]
+}
