@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.znyang",
+    "module": "library-analysis",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "library-analysis-1.0.0.jar",
+          "url": "library-analysis-1.0.0.jar",
+          "size": 235399,
+          "sha512": "f6dc7482339f7429f19110cbcfcf441907f28f50d401fcb9ecbf521da1c5c17403361cdfffb8164422b66fa249aeb17977c0e197f1eba380c8eaa3f24e9ccd0b",
+          "sha256": "f36e7cbb80af0001928d4a0b0322dd865f4afab247eeda02d47c681b7f7f9820",
+          "sha1": "102dc87974d1287625160a70c3d45dfcce2e328c",
+          "md5": "8059142859efe73a2e7999a1a86ed3ae"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.android.tools.build",
+          "module": "gradle",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.7"
+          }
+        },
+        {
+          "group": "commons-io",
+          "module": "commons-io",
+          "version": {
+            "requires": "2.9.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "library-analysis-1.0.0.jar",
+          "url": "library-analysis-1.0.0.jar",
+          "size": 235399,
+          "sha512": "f6dc7482339f7429f19110cbcfcf441907f28f50d401fcb9ecbf521da1c5c17403361cdfffb8164422b66fa249aeb17977c0e197f1eba380c8eaa3f24e9ccd0b",
+          "sha256": "f36e7cbb80af0001928d4a0b0322dd865f4afab247eeda02d47c681b7f7f9820",
+          "sha1": "102dc87974d1287625160a70c3d45dfcce2e328c",
+          "md5": "8059142859efe73a2e7999a1a86ed3ae"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "GradleDependancyReport",
+    "module": "plugin",
+    "version": "unspecified",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "plugin-unspecified.jar",
+          "url": "plugin-unspecified.jar",
+          "size": 236734,
+          "sha512": "d2b694a238d2281aeaaae223989fda78a3ecdba5c4e7ac79749d0c8f8d56b746bf41917f2b293435b1a5b29db114176951ef40b152eaac9833065f39c035a4b2",
+          "sha256": "a49a71ba6be571d4199c55b571de4b9bdf5e6a1b19d8782487fb51fb91e36fde",
+          "sha1": "1b9f8c64afbbfc0de689b3d257b6697789e2a3e5",
+          "md5": "5d132dbcebc6d93eea9d754c8fce75b6"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.android.tools.build",
+          "module": "gradle",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.7"
+          }
+        },
+        {
+          "group": "commons-io",
+          "module": "commons-io",
+          "version": {
+            "requires": "2.9.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "plugin-unspecified.jar",
+          "url": "plugin-unspecified.jar",
+          "size": 236734,
+          "sha512": "d2b694a238d2281aeaaae223989fda78a3ecdba5c4e7ac79749d0c8f8d56b746bf41917f2b293435b1a5b29db114176951ef40b152eaac9833065f39c035a4b2",
+          "sha256": "a49a71ba6be571d4199c55b571de4b9bdf5e6a1b19d8782487fb51fb91e36fde",
+          "sha1": "1b9f8c64afbbfc0de689b3d257b6697789e2a3e5",
+          "md5": "5d132dbcebc6d93eea9d754c8fce75b6"
+        }
+      ]
+    }
+  ]
+}

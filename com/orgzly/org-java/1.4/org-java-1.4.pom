@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.orgzly</groupId>
+  <artifactId>org-java</artifactId>
+  <version>1.4</version>
+  <name>org-java</name>
+  <description>Org files parser and generator</description>
+  <url>https://github.com/orgzly/org-java</url>
+  <licenses>
+    <license>
+      <name>GNU General Public License, Version 3</name>
+      <url>http://www.gnu.org/licenses/gpl-3.0.html</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>neven</id>
+      <name>Neven</name>
+      <email>neven@orgzly.com</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:http://github.com/orgzly/org-java.git</connection>
+    <developerConnection>scm:git:git@github.com:orgzly/org-java.git</developerConnection>
+    <url>http://github.com/orgzly/org-java</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>joda-time</groupId>
+      <artifactId>joda-time</artifactId>
+      <version>2.10.5</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.jetbrains</groupId>
+      <artifactId>annotations</artifactId>
+      <version>18.0.0</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.12</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>
