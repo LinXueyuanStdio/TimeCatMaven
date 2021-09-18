@@ -41,21 +41,21 @@
           "group": "com.tencent.shadow.core",
           "module": "utils",
           "version": {
-            "requires": "2.0.0"
+            "requires": "2.0.1"
           }
         },
         {
           "group": "com.tencent.shadow.core",
           "module": "common",
           "version": {
-            "requires": "2.0.0"
+            "requires": "2.0.1"
           }
         },
         {
           "group": "com.tencent.shadow.dynamic",
           "module": "apk",
           "version": {
-            "requires": "2.0.0"
+            "requires": "2.0.1"
           }
         },
         {
@@ -70,11 +70,11 @@
         {
           "name": "record-api-holder-jar-1.0.0.aar",
           "url": "record-api-holder-jar-1.0.0.aar",
-          "size": 102454,
-          "sha512": "96e5d60fb65c3bcbdeb217a8f4daa1a73a7f1e0d1347e6c0cf95a6cf9beb06f7e0a4473c386fcd3b67cbea0dcaa54da89bfabf84a471351615d9bf9107f87d6a",
-          "sha256": "a6c3b27b75df02830b9b199a44fe369676f33b9adf5aa4b715c17652ae03112d",
-          "sha1": "e28664502f7c2306687ab2c0adeed00e6a60a315",
-          "md5": "fa8c2b857d9e2a5aac2de543c7e64207"
+          "size": 102523,
+          "sha512": "c716cde0e0c6772d8928e6de1b632f042203873a7b8204cf877c1dc3503a5a5e9dfff76473306fd41e7bb0557d39450f496351d106c1ac3666673a8b81fc6600",
+          "sha256": "9cfa1d6ee0d06a7764cc49e6b251f8a16cab9f64120c033d4e80514a7823fec3",
+          "sha1": "0e2a9cbb524536702d684080c25636e66e888cf1",
+          "md5": "67ec33c61c9d0777bf327c929a07dfc8"
         }
       ]
     },
@@ -105,21 +105,21 @@
           "group": "com.tencent.shadow.core",
           "module": "utils",
           "version": {
-            "requires": "2.0.0"
+            "requires": "2.0.1"
           }
         },
         {
           "group": "com.tencent.shadow.core",
           "module": "common",
           "version": {
-            "requires": "2.0.0"
+            "requires": "2.0.1"
           }
         },
         {
           "group": "com.tencent.shadow.dynamic",
           "module": "apk",
           "version": {
-            "requires": "2.0.0"
+            "requires": "2.0.1"
           }
         },
         {
@@ -134,11 +134,11 @@
         {
           "name": "record-api-holder-jar-1.0.0.aar",
           "url": "record-api-holder-jar-1.0.0.aar",
-          "size": 102454,
-          "sha512": "96e5d60fb65c3bcbdeb217a8f4daa1a73a7f1e0d1347e6c0cf95a6cf9beb06f7e0a4473c386fcd3b67cbea0dcaa54da89bfabf84a471351615d9bf9107f87d6a",
-          "sha256": "a6c3b27b75df02830b9b199a44fe369676f33b9adf5aa4b715c17652ae03112d",
-          "sha1": "e28664502f7c2306687ab2c0adeed00e6a60a315",
-          "md5": "fa8c2b857d9e2a5aac2de543c7e64207"
+          "size": 102523,
+          "sha512": "c716cde0e0c6772d8928e6de1b632f042203873a7b8204cf877c1dc3503a5a5e9dfff76473306fd41e7bb0557d39450f496351d106c1ac3666673a8b81fc6600",
+          "sha256": "9cfa1d6ee0d06a7764cc49e6b251f8a16cab9f64120c033d4e80514a7823fec3",
+          "sha1": "0e2a9cbb524536702d684080c25636e66e888cf1",
+          "md5": "67ec33c61c9d0777bf327c929a07dfc8"
         }
       ]
     }
