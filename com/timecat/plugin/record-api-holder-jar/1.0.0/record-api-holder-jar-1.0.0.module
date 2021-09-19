@@ -41,21 +41,21 @@
           "group": "com.tencent.shadow.core",
           "module": "utils",
           "version": {
-            "requires": "2.0.1"
+            "requires": "2.0.2"
           }
         },
         {
           "group": "com.tencent.shadow.core",
           "module": "common",
           "version": {
-            "requires": "2.0.1"
+            "requires": "2.0.2"
           }
         },
         {
           "group": "com.tencent.shadow.dynamic",
           "module": "apk",
           "version": {
-            "requires": "2.0.1"
+            "requires": "2.0.2"
           }
         },
         {
@@ -105,21 +105,21 @@
           "group": "com.tencent.shadow.core",
           "module": "utils",
           "version": {
-            "requires": "2.0.1"
+            "requires": "2.0.2"
           }
         },
         {
           "group": "com.tencent.shadow.core",
           "module": "common",
           "version": {
-            "requires": "2.0.1"
+            "requires": "2.0.2"
           }
         },
         {
           "group": "com.tencent.shadow.dynamic",
           "module": "apk",
           "version": {
-            "requires": "2.0.1"
+            "requires": "2.0.2"
           }
         },
         {
