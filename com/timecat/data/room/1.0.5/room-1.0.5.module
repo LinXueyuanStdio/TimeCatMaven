@@ -55,28 +55,28 @@
           "group": "androidx.room",
           "module": "room-runtime",
           "version": {
-            "requires": "2.2.5"
+            "requires": "2.3.0"
           }
         },
         {
           "group": "androidx.room",
           "module": "room-common",
           "version": {
-            "requires": "2.2.5"
+            "requires": "2.3.0"
           }
         },
         {
           "group": "androidx.room",
           "module": "room-rxjava2",
           "version": {
-            "requires": "2.2.5"
+            "requires": "2.3.0"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         }
       ],
@@ -84,11 +84,11 @@
         {
           "name": "room-1.0.5.aar",
           "url": "room-1.0.5.aar",
-          "size": 330111,
-          "sha512": "fcbc1040d1926c7472dde4bf1cd2057da201bf71acff64b47bbbfa3beb028a5da923ac960da018cb23afa0cdc75dd6fc9bda81481fa6cf93f74775026498cff4",
-          "sha256": "0a991a2f2e7d6c4f58762f85c7650dd8ff14f37b8747a3491f422e70f3a7313c",
-          "sha1": "007128ff8c31ac458d1051643eeeb0be46eb1e50",
-          "md5": "57c49a48b51a4c98f97b3afabdc6cea8"
+          "size": 360347,
+          "sha512": "f2561e52d8659f752b469aa450e1c2ff4ed08d8df4cd71315bfa050fc501a8137c470ce692ad7dcfdbf31769770b0d99ccf7110155efdf49d168878a59f32e96",
+          "sha256": "ef9f91575151a58f6d6c846f12795a856b688441dffb22fd479d44dba80ea83f",
+          "sha1": "4ac0bbfb2448c417c5892199be78a3f11593ba1c",
+          "md5": "e82aafe008d2c81f816c5fd8ffe7015f"
         }
       ]
     },
@@ -133,28 +133,28 @@
           "group": "androidx.room",
           "module": "room-runtime",
           "version": {
-            "requires": "2.2.5"
+            "requires": "2.3.0"
           }
         },
         {
           "group": "androidx.room",
           "module": "room-common",
           "version": {
-            "requires": "2.2.5"
+            "requires": "2.3.0"
           }
         },
         {
           "group": "androidx.room",
           "module": "room-rxjava2",
           "version": {
-            "requires": "2.2.5"
+            "requires": "2.3.0"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         }
       ],
@@ -162,11 +162,11 @@
         {
           "name": "room-1.0.5.aar",
           "url": "room-1.0.5.aar",
-          "size": 330111,
-          "sha512": "fcbc1040d1926c7472dde4bf1cd2057da201bf71acff64b47bbbfa3beb028a5da923ac960da018cb23afa0cdc75dd6fc9bda81481fa6cf93f74775026498cff4",
-          "sha256": "0a991a2f2e7d6c4f58762f85c7650dd8ff14f37b8747a3491f422e70f3a7313c",
-          "sha1": "007128ff8c31ac458d1051643eeeb0be46eb1e50",
-          "md5": "57c49a48b51a4c98f97b3afabdc6cea8"
+          "size": 360347,
+          "sha512": "f2561e52d8659f752b469aa450e1c2ff4ed08d8df4cd71315bfa050fc501a8137c470ce692ad7dcfdbf31769770b0d99ccf7110155efdf49d168878a59f32e96",
+          "sha256": "ef9f91575151a58f6d6c846f12795a856b688441dffb22fd479d44dba80ea83f",
+          "sha1": "4ac0bbfb2448c417c5892199be78a3f11593ba1c",
+          "md5": "e82aafe008d2c81f816c5fd8ffe7015f"
         }
       ]
     }
