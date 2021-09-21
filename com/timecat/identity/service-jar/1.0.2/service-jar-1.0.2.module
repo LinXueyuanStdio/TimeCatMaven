@@ -26,11 +26,11 @@
         {
           "name": "service-jar-1.0.2.aar",
           "url": "service-jar-1.0.2.aar",
-          "size": 9256,
-          "sha512": "600356750b3d7614c89803f093c1ef7a671f22f73a4c1b790430a2fe2b81083a216d88dda74bae1ab05174d72b7eaa75bb74ac4332ca7ef4adfdfb91f23681f1",
-          "sha256": "8359029eca55ed5a4c79ba9c90d224692c01a6b55cd923499866c8558008c30e",
-          "sha1": "b8638215909f15518277a28b9d219c1af6535be6",
-          "md5": "3e6f69cc123af987cc91ad869fae438d"
+          "size": 10174,
+          "sha512": "6d1dc7bbf949061c0ed9daf6d098ba8687da201844a11b17597e5bf91fb5d4178e9f1823046b0b9573dce28c96447e277afc8ebd6474bf1463b46ace2aa10ad5",
+          "sha256": "86eb3a2e065ae151b4ff3dccfa04e2b25aba0acd2e76b72a88d963a44f504fa8",
+          "sha1": "1897b6ecafdb22011ce9354d95e47b87f62d4def",
+          "md5": "dfbabb4ef46d48e2a3d0143c24b05974"
         }
       ]
     },
@@ -46,11 +46,11 @@
         {
           "name": "service-jar-1.0.2.aar",
           "url": "service-jar-1.0.2.aar",
-          "size": 9256,
-          "sha512": "600356750b3d7614c89803f093c1ef7a671f22f73a4c1b790430a2fe2b81083a216d88dda74bae1ab05174d72b7eaa75bb74ac4332ca7ef4adfdfb91f23681f1",
-          "sha256": "8359029eca55ed5a4c79ba9c90d224692c01a6b55cd923499866c8558008c30e",
-          "sha1": "b8638215909f15518277a28b9d219c1af6535be6",
-          "md5": "3e6f69cc123af987cc91ad869fae438d"
+          "size": 10174,
+          "sha512": "6d1dc7bbf949061c0ed9daf6d098ba8687da201844a11b17597e5bf91fb5d4178e9f1823046b0b9573dce28c96447e277afc8ebd6474bf1463b46ace2aa10ad5",
+          "sha256": "86eb3a2e065ae151b4ff3dccfa04e2b25aba0acd2e76b72a88d963a44f504fa8",
+          "sha1": "1897b6ecafdb22011ce9354d95e47b87f62d4def",
+          "md5": "dfbabb4ef46d48e2a3d0143c24b05974"
         }
       ]
     }
