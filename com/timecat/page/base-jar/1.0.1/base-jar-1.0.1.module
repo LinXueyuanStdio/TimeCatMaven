@@ -55,7 +55,7 @@
           "group": "androidx.core",
           "module": "core-ktx",
           "version": {
-            "requires": "1.5.0-alpha01"
+            "requires": "1.6.0"
           }
         },
         {
@@ -97,7 +97,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         },
         {
@@ -146,14 +146,14 @@
           "group": "io.reactivex.rxjava2",
           "module": "rxjava",
           "version": {
-            "requires": "2.2.4"
+            "requires": "2.2.19"
           }
         },
         {
           "group": "io.reactivex",
           "module": "rxjava",
           "version": {
-            "requires": "1.3.2"
+            "requires": "1.3.8"
           }
         },
         {
@@ -174,7 +174,7 @@
           "group": "org.greenrobot",
           "module": "eventbus",
           "version": {
-            "requires": "3.1.1"
+            "requires": "3.2.0"
           }
         },
         {
@@ -196,11 +196,11 @@
         {
           "name": "base-jar-1.0.1.aar",
           "url": "base-jar-1.0.1.aar",
-          "size": 212534,
-          "sha512": "157631a3230a8c237871e8810380d87b0dd3534b0d687ea8d05bcd2aca1388965f79c8d28a785dbe519ea7d8147d7b7961bbdd4c54d9b279c586ec9af514ee3d",
-          "sha256": "a5f12ee7ab5ab9e8cf13fe6c97fa3f0ebb6b88c57ddd990bce200f65f2171df3",
-          "sha1": "1fd98436a1c9fec2f26d5a0a902947dfcd8d1931",
-          "md5": "eb0fc4ce2a375162a912c9a730562fae"
+          "size": 212517,
+          "sha512": "c203ca9408de105cd24ac4c38c84876bbecc0009b1ba6488f75bf389dca82d1b697da0ebf6b56d69bedc88f486860b3fb3456bd51a1d395e0d41a64b42306692",
+          "sha256": "ade356b7442f639c94edca5b256373404d0d461e7ec8cb1128f855e43cbba20e",
+          "sha1": "0e7d7c931a963ed1ba787a35429b536552dae33c",
+          "md5": "ad3e8277827996e5f5738646a13be81a"
         }
       ]
     },
@@ -245,7 +245,7 @@
           "group": "androidx.core",
           "module": "core-ktx",
           "version": {
-            "requires": "1.5.0-alpha01"
+            "requires": "1.6.0"
           }
         },
         {
@@ -287,7 +287,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         },
         {
@@ -336,14 +336,14 @@
           "group": "io.reactivex.rxjava2",
           "module": "rxjava",
           "version": {
-            "requires": "2.2.4"
+            "requires": "2.2.19"
           }
         },
         {
           "group": "io.reactivex",
           "module": "rxjava",
           "version": {
-            "requires": "1.3.2"
+            "requires": "1.3.8"
           }
         },
         {
@@ -364,7 +364,7 @@
           "group": "org.greenrobot",
           "module": "eventbus",
           "version": {
-            "requires": "3.1.1"
+            "requires": "3.2.0"
           }
         },
         {
@@ -386,11 +386,11 @@
         {
           "name": "base-jar-1.0.1.aar",
           "url": "base-jar-1.0.1.aar",
-          "size": 212534,
-          "sha512": "157631a3230a8c237871e8810380d87b0dd3534b0d687ea8d05bcd2aca1388965f79c8d28a785dbe519ea7d8147d7b7961bbdd4c54d9b279c586ec9af514ee3d",
-          "sha256": "a5f12ee7ab5ab9e8cf13fe6c97fa3f0ebb6b88c57ddd990bce200f65f2171df3",
-          "sha1": "1fd98436a1c9fec2f26d5a0a902947dfcd8d1931",
-          "md5": "eb0fc4ce2a375162a912c9a730562fae"
+          "size": 212517,
+          "sha512": "c203ca9408de105cd24ac4c38c84876bbecc0009b1ba6488f75bf389dca82d1b697da0ebf6b56d69bedc88f486860b3fb3456bd51a1d395e0d41a64b42306692",
+          "sha256": "ade356b7442f639c94edca5b256373404d0d461e7ec8cb1128f855e43cbba20e",
+          "sha1": "0e7d7c931a963ed1ba787a35429b536552dae33c",
+          "md5": "ad3e8277827996e5f5738646a13be81a"
         }
       ]
     }
