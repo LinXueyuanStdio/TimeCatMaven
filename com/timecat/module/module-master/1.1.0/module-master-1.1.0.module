@@ -27,7 +27,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         },
         {
@@ -258,11 +258,11 @@
         {
           "name": "module-master-1.1.0.aar",
           "url": "module-master-1.1.0.aar",
-          "size": 4375371,
-          "sha512": "2d94cc708f186f3b46a0d3c071f0d80f9fe28e74432fa2b8e1c2eaa9ea35cc0c2ea6966a60633ca550aa86f0a6611838c90b53fb4ae0db5289ab8a5f8f625801",
-          "sha256": "9505543ee0b5c4bcb8c15f0580c9e90cd8db27e72e4d1ade5fee8de8445a690b",
-          "sha1": "2c04767774048f688d63214d58876bd8bf6fa7d2",
-          "md5": "fcc27e1cc5837eb0c7d2763ab663acc8"
+          "size": 4563936,
+          "sha512": "983225aefe3d371242cc0a803c1720fa0646046a539fa7bc1284049d982fe303dd4fd77790c56009b67c36ebbb6132ba79b6f8b34b0863b19c1ae2e73642f74f",
+          "sha256": "33a4308e324930bbc778d4bc1e0bffb8147bee48c49eb3738e0b125e6a26056e",
+          "sha1": "250dbfb81917ecf21581c00d8ebe2cdd9d1b4552",
+          "md5": "b17cae25c025103b8efc17a1e06ac0a8"
         }
       ]
     },
@@ -279,14 +279,14 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-parcelize-runtime",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         },
         {
@@ -517,11 +517,11 @@
         {
           "name": "module-master-1.1.0.aar",
           "url": "module-master-1.1.0.aar",
-          "size": 4375371,
-          "sha512": "2d94cc708f186f3b46a0d3c071f0d80f9fe28e74432fa2b8e1c2eaa9ea35cc0c2ea6966a60633ca550aa86f0a6611838c90b53fb4ae0db5289ab8a5f8f625801",
-          "sha256": "9505543ee0b5c4bcb8c15f0580c9e90cd8db27e72e4d1ade5fee8de8445a690b",
-          "sha1": "2c04767774048f688d63214d58876bd8bf6fa7d2",
-          "md5": "fcc27e1cc5837eb0c7d2763ab663acc8"
+          "size": 4563936,
+          "sha512": "983225aefe3d371242cc0a803c1720fa0646046a539fa7bc1284049d982fe303dd4fd77790c56009b67c36ebbb6132ba79b6f8b34b0863b19c1ae2e73642f74f",
+          "sha256": "33a4308e324930bbc778d4bc1e0bffb8147bee48c49eb3738e0b125e6a26056e",
+          "sha1": "250dbfb81917ecf21581c00d8ebe2cdd9d1b4552",
+          "md5": "b17cae25c025103b8efc17a1e06ac0a8"
         }
       ]
     }
