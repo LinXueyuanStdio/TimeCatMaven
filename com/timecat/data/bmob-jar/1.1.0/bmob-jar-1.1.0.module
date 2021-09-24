@@ -62,7 +62,7 @@
           "group": "io.reactivex.rxjava2",
           "module": "rxjava",
           "version": {
-            "requires": "2.2.4"
+            "requires": "2.2.19"
           }
         },
         {
@@ -83,7 +83,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         }
       ],
@@ -91,11 +91,11 @@
         {
           "name": "bmob-jar-1.1.0.aar",
           "url": "bmob-jar-1.1.0.aar",
-          "size": 1708955,
-          "sha512": "bf27c1148a0e2a42909a9d7c07add1f8e620e2b7371d878243b7eab876c967102ed4513604f9e60fb2458f7f6f4763c6aa14eed93e906f3efe83985d79aec3df",
-          "sha256": "fad7522e0896f9fa6aeedd373effdf72399a93fc329d2b86ea6d472fd30e94f9",
-          "sha1": "0fd2d36734a4f333208d2a5e28beff48ee99c37a",
-          "md5": "88edb32fb6e19dea795286af974262da"
+          "size": 1708363,
+          "sha512": "68389f99e183267e6815d5bdf2603f1526dc1dbf6e7d52274d0ea6007efa9a74fd5057ea07fcf6b103557589c13a5984d6eec226f1532b89f7c2f3883a3cc0f9",
+          "sha256": "48d4966918fd2c593053451f31da12df58d88e3339df4f509aea7be76e0c5b6b",
+          "sha1": "9f578fb54e90113cc74a0fe098814f2194ba5abb",
+          "md5": "5babe6e2bf71085f0f91fe289644779e"
         }
       ]
     },
@@ -147,7 +147,7 @@
           "group": "io.reactivex.rxjava2",
           "module": "rxjava",
           "version": {
-            "requires": "2.2.4"
+            "requires": "2.2.19"
           }
         },
         {
@@ -168,7 +168,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         }
       ],
@@ -176,11 +176,11 @@
         {
           "name": "bmob-jar-1.1.0.aar",
           "url": "bmob-jar-1.1.0.aar",
-          "size": 1708955,
-          "sha512": "bf27c1148a0e2a42909a9d7c07add1f8e620e2b7371d878243b7eab876c967102ed4513604f9e60fb2458f7f6f4763c6aa14eed93e906f3efe83985d79aec3df",
-          "sha256": "fad7522e0896f9fa6aeedd373effdf72399a93fc329d2b86ea6d472fd30e94f9",
-          "sha1": "0fd2d36734a4f333208d2a5e28beff48ee99c37a",
-          "md5": "88edb32fb6e19dea795286af974262da"
+          "size": 1708363,
+          "sha512": "68389f99e183267e6815d5bdf2603f1526dc1dbf6e7d52274d0ea6007efa9a74fd5057ea07fcf6b103557589c13a5984d6eec226f1532b89f7c2f3883a3cc0f9",
+          "sha256": "48d4966918fd2c593053451f31da12df58d88e3339df4f509aea7be76e0c5b6b",
+          "sha1": "9f578fb54e90113cc74a0fe098814f2194ba5abb",
+          "md5": "5babe6e2bf71085f0f91fe289644779e"
         }
       ]
     }
