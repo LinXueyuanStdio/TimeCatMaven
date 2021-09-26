@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "skin.support",
+    "module": "skin-support-constraint-layout-jar",
+    "version": "4.0.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.0.0-alpha2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "skin-support-constraint-layout-4.0.5.aar",
+          "url": "skin-support-constraint-layout-4.0.5.aar",
+          "size": 19891,
+          "sha512": "3a8b097596495c7c0ede85ea03047efeb232ef7ce03a35a9a0356b264bb6c156e7f83ee30814410a7584decb312e211c84ce988cb098ade73ebd44e6039c82e1",
+          "sha256": "1a0c3eb5250938d74412fe544815d0fd0d65c208cc4545bbc418900702c51973",
+          "sha1": "bd98c93c41fc4b80656b2cbf7efd432b107cc236",
+          "md5": "bcab92c1e37e53da32c4c21061213c78"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.0.0-alpha2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "skin-support-constraint-layout-4.0.5.aar",
+          "url": "skin-support-constraint-layout-4.0.5.aar",
+          "size": 19891,
+          "sha512": "3a8b097596495c7c0ede85ea03047efeb232ef7ce03a35a9a0356b264bb6c156e7f83ee30814410a7584decb312e211c84ce988cb098ade73ebd44e6039c82e1",
+          "sha256": "1a0c3eb5250938d74412fe544815d0fd0d65c208cc4545bbc418900702c51973",
+          "sha1": "bd98c93c41fc4b80656b2cbf7efd432b107cc236",
+          "md5": "bcab92c1e37e53da32c4c21061213c78"
+        }
+      ]
+    }
+  ]
+}

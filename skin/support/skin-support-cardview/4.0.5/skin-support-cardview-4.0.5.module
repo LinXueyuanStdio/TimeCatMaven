@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "skin.support",
+    "module": "skin-support-cardview-jar",
+    "version": "4.0.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.cardview",
+          "module": "cardview",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "skin-support-cardview-4.0.5.aar",
+          "url": "skin-support-cardview-4.0.5.aar",
+          "size": 5294,
+          "sha512": "61dea2a903c3dc375c235dc979f9f847a31bac19237671cbf4be4457195ab365007d7814934e63a25367b0fb02e70ff74cb2a74e70eebbadc86dade0855a60da",
+          "sha256": "728d2e5029da113f72d2b94172308aedac3d758aa8781fbacc964403d7a70cf1",
+          "sha1": "5b6dd076740a33591419b1597f7d46874e01b046",
+          "md5": "6271bf5901a2f1ebd4ebafcf6d59941d"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.cardview",
+          "module": "cardview",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "skin-support-cardview-4.0.5.aar",
+          "url": "skin-support-cardview-4.0.5.aar",
+          "size": 5294,
+          "sha512": "61dea2a903c3dc375c235dc979f9f847a31bac19237671cbf4be4457195ab365007d7814934e63a25367b0fb02e70ff74cb2a74e70eebbadc86dade0855a60da",
+          "sha256": "728d2e5029da113f72d2b94172308aedac3d758aa8781fbacc964403d7a70cf1",
+          "sha1": "5b6dd076740a33591419b1597f7d46874e01b046",
+          "md5": "6271bf5901a2f1ebd4ebafcf6d59941d"
+        }
+      ]
+    }
+  ]
+}

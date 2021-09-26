@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "skin.support",
+    "module": "skin-support-design-jar",
+    "version": "4.0.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.4.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "skin-support-design-jar-4.0.5.aar",
+          "url": "skin-support-design-jar-4.0.5.aar",
+          "size": 50618,
+          "sha512": "6ba916dbe67ba4a527cb8434f8b4312b49f3254612e91bd342e7d87e39ccf1e8faf5b15d9c999579c461d7f87b3e3907cc389f7055bc429dd21fb2f87ddec5a4",
+          "sha256": "68e275fa023d55ea4ef2e68cbb7e05b53ecd0310eb395c6874cf14490b7933cd",
+          "sha1": "a856509321a9b3fbc04dc2ed835d1338a80c91fc",
+          "md5": "47ac20b096db9a93d22765cccb00fde9"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.4.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "skin-support-design-jar-4.0.5.aar",
+          "url": "skin-support-design-jar-4.0.5.aar",
+          "size": 50618,
+          "sha512": "6ba916dbe67ba4a527cb8434f8b4312b49f3254612e91bd342e7d87e39ccf1e8faf5b15d9c999579c461d7f87b3e3907cc389f7055bc429dd21fb2f87ddec5a4",
+          "sha256": "68e275fa023d55ea4ef2e68cbb7e05b53ecd0310eb395c6874cf14490b7933cd",
+          "sha1": "a856509321a9b3fbc04dc2ed835d1338a80c91fc",
+          "md5": "47ac20b096db9a93d22765cccb00fde9"
+        }
+      ]
+    }
+  ]
+}
