@@ -55,7 +55,7 @@
           "group": "androidx.core",
           "module": "core-ktx",
           "version": {
-            "requires": "1.5.0-alpha01"
+            "requires": "1.6.0"
           }
         },
         {
@@ -167,7 +167,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         }
       ],
@@ -175,11 +175,11 @@
         {
           "name": "ui-1.0.7.aar",
           "url": "ui-1.0.7.aar",
-          "size": 1037388,
-          "sha512": "a82f1dcc334b8ee58295b2b0fa855fc3094255756762baf59291d1d66bd8dc1fb899700126cb46facd5a6a7446f0df4c9ca97fd09a20a33f4a7a74975708b1e5",
-          "sha256": "64dfa641c0bbd2c94cdc170e45dd05cf54ebb916dc20f3974414ccc6402779d2",
-          "sha1": "109e5e0a3abc8e155a76a54bc6fdd271a0ddb2d3",
-          "md5": "d3080eb915c3f3e7b4d97388e816b024"
+          "size": 1037593,
+          "sha512": "940084a9709ae5bc855c98350245b1a7c5afd1d65d72b153d2566273dc86f2dde5e2e6f5f9b86f4afe5251d54012cdb52b6dc69297d47d037afdcac344cd879f",
+          "sha256": "a508f189abc96d4fc9233e696375d33afb8e42e5e8736c8c94fc32e36e624103",
+          "sha1": "b9b0fb4ca29f567dee9a58ef16b36e1505a1726f",
+          "md5": "017809f1dde8a8dc2003015006f22432"
         }
       ]
     },
@@ -196,7 +196,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-parcelize-runtime",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         },
         {
@@ -231,7 +231,7 @@
           "group": "androidx.core",
           "module": "core-ktx",
           "version": {
-            "requires": "1.5.0-alpha01"
+            "requires": "1.6.0"
           }
         },
         {
@@ -343,7 +343,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         }
       ],
@@ -351,11 +351,11 @@
         {
           "name": "ui-1.0.7.aar",
           "url": "ui-1.0.7.aar",
-          "size": 1037388,
-          "sha512": "a82f1dcc334b8ee58295b2b0fa855fc3094255756762baf59291d1d66bd8dc1fb899700126cb46facd5a6a7446f0df4c9ca97fd09a20a33f4a7a74975708b1e5",
-          "sha256": "64dfa641c0bbd2c94cdc170e45dd05cf54ebb916dc20f3974414ccc6402779d2",
-          "sha1": "109e5e0a3abc8e155a76a54bc6fdd271a0ddb2d3",
-          "md5": "d3080eb915c3f3e7b4d97388e816b024"
+          "size": 1037593,
+          "sha512": "940084a9709ae5bc855c98350245b1a7c5afd1d65d72b153d2566273dc86f2dde5e2e6f5f9b86f4afe5251d54012cdb52b6dc69297d47d037afdcac344cd879f",
+          "sha256": "a508f189abc96d4fc9233e696375d33afb8e42e5e8736c8c94fc32e36e624103",
+          "sha1": "b9b0fb4ca29f567dee9a58ef16b36e1505a1726f",
+          "md5": "017809f1dde8a8dc2003015006f22432"
         }
       ]
     }
