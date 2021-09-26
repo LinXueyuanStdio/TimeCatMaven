@@ -48,28 +48,28 @@
           "group": "skin.support",
           "module": "skin-support-appcompat",
           "version": {
-            "requires": "4.0.6"
+            "requires": "+"
           }
         },
         {
           "group": "skin.support",
           "module": "skin-support-design",
           "version": {
-            "requires": "4.0.6"
+            "requires": "+"
           }
         },
         {
           "group": "skin.support",
           "module": "skin-support-cardview",
           "version": {
-            "requires": "4.0.4"
+            "requires": "+"
           }
         },
         {
           "group": "skin.support",
           "module": "skin-support-constraint-layout",
           "version": {
-            "requires": "4.0.6"
+            "requires": "+"
           }
         }
       ],
@@ -77,11 +77,11 @@
         {
           "name": "identity-1.0.2.aar",
           "url": "identity-1.0.2.aar",
-          "size": 69383,
-          "sha512": "c3b64e25a2d45d7d01b9b4b6ab8a995ca0213508e03ff69750a9bc2a9959f41e30242130e79ab2a97ce8aed7d03b9ed51172846ff490cd5e2b7bb7504171db63",
-          "sha256": "7846f7aace93d033e74f56f581af212b565e196022784ffa120f11cf56f39cb9",
-          "sha1": "4617ebe80f2a4fd7bc422ee4a012913c7f6495c7",
-          "md5": "5da39d3407e904668735fe690a26fda4"
+          "size": 71937,
+          "sha512": "d0e30b7966735cce094f980a6e6962a635f0f829f84c0f521e4935f203821fee0dfab8f9505a7d6bc91cab44619e0469c0be95b89a2c0b75550c4352ef651c27",
+          "sha256": "277f2f46734b1f0c380748dd29c40d6eb7ef9be4ae4f1bad6aa8887c19e7bd48",
+          "sha1": "edfed5e666e12d45609d23bd6a90acd24a0599d0",
+          "md5": "6622f1c8d7bbf81f3c46956419c1553b"
         }
       ]
     },
@@ -119,28 +119,28 @@
           "group": "skin.support",
           "module": "skin-support-appcompat",
           "version": {
-            "requires": "4.0.6"
+            "requires": "+"
           }
         },
         {
           "group": "skin.support",
           "module": "skin-support-design",
           "version": {
-            "requires": "4.0.6"
+            "requires": "+"
           }
         },
         {
           "group": "skin.support",
           "module": "skin-support-cardview",
           "version": {
-            "requires": "4.0.4"
+            "requires": "+"
           }
         },
         {
           "group": "skin.support",
           "module": "skin-support-constraint-layout",
           "version": {
-            "requires": "4.0.6"
+            "requires": "+"
           }
         }
       ],
@@ -148,11 +148,11 @@
         {
           "name": "identity-1.0.2.aar",
           "url": "identity-1.0.2.aar",
-          "size": 69383,
-          "sha512": "c3b64e25a2d45d7d01b9b4b6ab8a995ca0213508e03ff69750a9bc2a9959f41e30242130e79ab2a97ce8aed7d03b9ed51172846ff490cd5e2b7bb7504171db63",
-          "sha256": "7846f7aace93d033e74f56f581af212b565e196022784ffa120f11cf56f39cb9",
-          "sha1": "4617ebe80f2a4fd7bc422ee4a012913c7f6495c7",
-          "md5": "5da39d3407e904668735fe690a26fda4"
+          "size": 71937,
+          "sha512": "d0e30b7966735cce094f980a6e6962a635f0f829f84c0f521e4935f203821fee0dfab8f9505a7d6bc91cab44619e0469c0be95b89a2c0b75550c4352ef651c27",
+          "sha256": "277f2f46734b1f0c380748dd29c40d6eb7ef9be4ae4f1bad6aa8887c19e7bd48",
+          "sha1": "edfed5e666e12d45609d23bd6a90acd24a0599d0",
+          "md5": "6622f1c8d7bbf81f3c46956419c1553b"
         }
       ]
     }
