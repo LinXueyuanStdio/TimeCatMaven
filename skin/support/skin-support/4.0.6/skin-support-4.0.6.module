@@ -1,0 +1,58 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "skin.support",
+    "module": "skin-support-jar",
+    "version": "4.0.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "skin-support-4.0.6.aar",
+          "url": "skin-support-4.0.6.aar",
+          "size": 74051,
+          "sha512": "02d254aa0c91556399178191f118743cfa11ef8c6cb477763200c1fd548e067bb16d07606dfc4897f6904d4cb8c68d4c8bdecae3f7900986ecd9dd47d3d04e03",
+          "sha256": "d03604f63e085e573ff211c8a4449c42af1670517b760b632a172f895dbeec6e",
+          "sha1": "1f584c25641a34e9a45ad2790fc7ba4e8987279f",
+          "md5": "1fb53bca751336d6ed93743837fd4012"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "skin-support-4.0.6.aar",
+          "url": "skin-support-4.0.6.aar",
+          "size": 74051,
+          "sha512": "02d254aa0c91556399178191f118743cfa11ef8c6cb477763200c1fd548e067bb16d07606dfc4897f6904d4cb8c68d4c8bdecae3f7900986ecd9dd47d3d04e03",
+          "sha256": "d03604f63e085e573ff211c8a4449c42af1670517b760b632a172f895dbeec6e",
+          "sha1": "1f584c25641a34e9a45ad2790fc7ba4e8987279f",
+          "md5": "1fb53bca751336d6ed93743837fd4012"
+        }
+      ]
+    }
+  ]
+}

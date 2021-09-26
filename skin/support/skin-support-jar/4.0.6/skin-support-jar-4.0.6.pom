@@ -8,9 +8,9 @@
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
   <groupId>skin.support</groupId>
-  <artifactId>skin-support</artifactId>
+  <artifactId>skin-support-jar</artifactId>
   <version>4.0.6</version>
-  <packaging>aar</packaging>
+  <packaging>pom</packaging>
   <name>skin-support</name>
   <licenses>
     <license>
