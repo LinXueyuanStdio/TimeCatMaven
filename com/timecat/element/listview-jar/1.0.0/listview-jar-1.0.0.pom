@@ -27,9 +27,9 @@
   </developers>
   <dependencies>
     <dependency>
-      <groupId>com.yanzhenjie</groupId>
-      <artifactId>recyclerview-swipe</artifactId>
-      <version>1.0.2</version>
+      <groupId>androidx.swiperefreshlayout</groupId>
+      <artifactId>swiperefreshlayout</artifactId>
+      <version>1.1.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

@@ -24,10 +24,10 @@
       },
       "dependencies": [
         {
-          "group": "com.yanzhenjie",
-          "module": "recyclerview-swipe",
+          "group": "androidx.swiperefreshlayout",
+          "module": "swiperefreshlayout",
           "version": {
-            "requires": "1.0.2"
+            "requires": "1.1.0"
           }
         },
         {
@@ -49,11 +49,11 @@
         {
           "name": "listview-1.0.0.aar",
           "url": "listview-1.0.0.aar",
-          "size": 18440,
-          "sha512": "95b6a43f638001856d3f473594b8db7be23422568191203eb741e434f1333db4f7400a618e4ca104874aa57d5305dd6006cf944a0f2b94ede5834fc046a6f452",
-          "sha256": "daf74f897c298ac74e274dc592e5af2013a27f2ef723287206e6f534f2e74fd1",
-          "sha1": "3af1d0f4598fc877f2487f2434ac969bd7ec8951",
-          "md5": "4dbbe058ccc2eacf435db53c1846ae4c"
+          "size": 18607,
+          "sha512": "90fd637a3fa49fd9725f6d32722944ee3e2838cd3740d2808da5bf5cc4954e2997f5a8a318c4b4c5649321c9ce666ff55d657907521b2116fc3c1e956dbb5a74",
+          "sha256": "2063e5f43bd1753ee5d03ecccb0ac1b9804bc3e154462f598160564718562d68",
+          "sha1": "6d87e8dcce2061bdb5cebd54efd7dca81a497cf3",
+          "md5": "33b456de931b4f2b8cc6ea4122e1d3c2"
         }
       ]
     },
@@ -67,10 +67,10 @@
       },
       "dependencies": [
         {
-          "group": "com.yanzhenjie",
-          "module": "recyclerview-swipe",
+          "group": "androidx.swiperefreshlayout",
+          "module": "swiperefreshlayout",
           "version": {
-            "requires": "1.0.2"
+            "requires": "1.1.0"
           }
         },
         {
@@ -92,11 +92,11 @@
         {
           "name": "listview-1.0.0.aar",
           "url": "listview-1.0.0.aar",
-          "size": 18440,
-          "sha512": "95b6a43f638001856d3f473594b8db7be23422568191203eb741e434f1333db4f7400a618e4ca104874aa57d5305dd6006cf944a0f2b94ede5834fc046a6f452",
-          "sha256": "daf74f897c298ac74e274dc592e5af2013a27f2ef723287206e6f534f2e74fd1",
-          "sha1": "3af1d0f4598fc877f2487f2434ac969bd7ec8951",
-          "md5": "4dbbe058ccc2eacf435db53c1846ae4c"
+          "size": 18607,
+          "sha512": "90fd637a3fa49fd9725f6d32722944ee3e2838cd3740d2808da5bf5cc4954e2997f5a8a318c4b4c5649321c9ce666ff55d657907521b2116fc3c1e956dbb5a74",
+          "sha256": "2063e5f43bd1753ee5d03ecccb0ac1b9804bc3e154462f598160564718562d68",
+          "sha1": "6d87e8dcce2061bdb5cebd54efd7dca81a497cf3",
+          "md5": "33b456de931b4f2b8cc6ea4122e1d3c2"
         }
       ]
     }
