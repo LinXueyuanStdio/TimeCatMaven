@@ -123,9 +123,9 @@
       </exclusions>
     </dependency>
     <dependency>
-      <groupId>com.timecat.module</groupId>
+      <groupId>com.timecat.middle</groupId>
       <artifactId>download</artifactId>
-      <version>1.0.0</version>
+      <version>+</version>
       <scope>compile</scope>
       <exclusions>
         <exclusion>

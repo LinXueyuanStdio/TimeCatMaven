@@ -128,10 +128,10 @@
           ]
         },
         {
-          "group": "com.timecat.module",
+          "group": "com.timecat.middle",
           "module": "download",
           "version": {
-            "requires": "1.0.0"
+            "requires": "+"
           },
           "excludes": [
             {
@@ -197,11 +197,11 @@
         {
           "name": "module-plugin-1.0.0.aar",
           "url": "module-plugin-1.0.0.aar",
-          "size": 314098,
-          "sha512": "598eb1a9268fa869435299f355148c29688f621396054af50c089edfd6bb8dff92f170ed87fa9a76d79b9239b0ec6cf42f7eb009ea9295ac7f17b0f916b87614",
-          "sha256": "ecc38933929c0857d7aacd2ed44281c72eb88cd5394b55f0723d15c3445ad227",
-          "sha1": "a842684c214819b99bd6f024c786a214f0f11b25",
-          "md5": "94aae965a2432d7086b766c94c3b8b00"
+          "size": 300218,
+          "sha512": "98c6c014e51015e1395d5deed0045f1502ee18b44e102017e38ed51dae24ed772646d249d6a600aaa8628a1d5dc12f4f36d2f6f05cd066583dc41f94ce2f49d0",
+          "sha256": "5c7da4ef1d63a9febd82a1a6a0a2c6e2ad95ce6d93fa47efc998a3886e9fcf99",
+          "sha1": "fa0464cc46d47ae9be1d618cc9d48c95d16deceb",
+          "md5": "d781aa2a99c3db9b44b07e6390c848f9"
         }
       ]
     },
@@ -319,10 +319,10 @@
           ]
         },
         {
-          "group": "com.timecat.module",
+          "group": "com.timecat.middle",
           "module": "download",
           "version": {
-            "requires": "1.0.0"
+            "requires": "+"
           },
           "excludes": [
             {
@@ -388,11 +388,11 @@
         {
           "name": "module-plugin-1.0.0.aar",
           "url": "module-plugin-1.0.0.aar",
-          "size": 314098,
-          "sha512": "598eb1a9268fa869435299f355148c29688f621396054af50c089edfd6bb8dff92f170ed87fa9a76d79b9239b0ec6cf42f7eb009ea9295ac7f17b0f916b87614",
-          "sha256": "ecc38933929c0857d7aacd2ed44281c72eb88cd5394b55f0723d15c3445ad227",
-          "sha1": "a842684c214819b99bd6f024c786a214f0f11b25",
-          "md5": "94aae965a2432d7086b766c94c3b8b00"
+          "size": 300218,
+          "sha512": "98c6c014e51015e1395d5deed0045f1502ee18b44e102017e38ed51dae24ed772646d249d6a600aaa8628a1d5dc12f4f36d2f6f05cd066583dc41f94ce2f49d0",
+          "sha256": "5c7da4ef1d63a9febd82a1a6a0a2c6e2ad95ce6d93fa47efc998a3886e9fcf99",
+          "sha1": "fa0464cc46d47ae9be1d618cc9d48c95d16deceb",
+          "md5": "d781aa2a99c3db9b44b07e6390c848f9"
         }
       ]
     }
