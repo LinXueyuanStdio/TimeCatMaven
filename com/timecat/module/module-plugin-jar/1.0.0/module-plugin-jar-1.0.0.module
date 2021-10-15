@@ -128,8 +128,8 @@
           ]
         },
         {
-          "group": "com.github.Z-P-J",
-          "module": "ZDownloader",
+          "group": "com.timecat.module",
+          "module": "download",
           "version": {
             "requires": "1.0.0"
           },
@@ -197,11 +197,11 @@
         {
           "name": "module-plugin-jar-1.0.0.aar",
           "url": "module-plugin-jar-1.0.0.aar",
-          "size": 301750,
-          "sha512": "db7eff4ee1a0821f4b5adf420a134c02f0faeaa4f31a6b73695b93c3904400f1ffb47d14da7063a071234ce1561d288e625c9f6970db94ae4064cff18744e8c7",
-          "sha256": "049f640e9e9f3a4f30d921bd128ce9e7b6773953f8022d3551e349241dd9789c",
-          "sha1": "0c0491ca715e19d4bfe6e1a31a9bab4c1c74af7f",
-          "md5": "43c1ce16184abc84349d4b6189c36208"
+          "size": 314098,
+          "sha512": "598eb1a9268fa869435299f355148c29688f621396054af50c089edfd6bb8dff92f170ed87fa9a76d79b9239b0ec6cf42f7eb009ea9295ac7f17b0f916b87614",
+          "sha256": "ecc38933929c0857d7aacd2ed44281c72eb88cd5394b55f0723d15c3445ad227",
+          "sha1": "a842684c214819b99bd6f024c786a214f0f11b25",
+          "md5": "94aae965a2432d7086b766c94c3b8b00"
         }
       ]
     },
@@ -319,8 +319,8 @@
           ]
         },
         {
-          "group": "com.github.Z-P-J",
-          "module": "ZDownloader",
+          "group": "com.timecat.module",
+          "module": "download",
           "version": {
             "requires": "1.0.0"
           },
@@ -388,11 +388,11 @@
         {
           "name": "module-plugin-jar-1.0.0.aar",
           "url": "module-plugin-jar-1.0.0.aar",
-          "size": 301750,
-          "sha512": "db7eff4ee1a0821f4b5adf420a134c02f0faeaa4f31a6b73695b93c3904400f1ffb47d14da7063a071234ce1561d288e625c9f6970db94ae4064cff18744e8c7",
-          "sha256": "049f640e9e9f3a4f30d921bd128ce9e7b6773953f8022d3551e349241dd9789c",
-          "sha1": "0c0491ca715e19d4bfe6e1a31a9bab4c1c74af7f",
-          "md5": "43c1ce16184abc84349d4b6189c36208"
+          "size": 314098,
+          "sha512": "598eb1a9268fa869435299f355148c29688f621396054af50c089edfd6bb8dff92f170ed87fa9a76d79b9239b0ec6cf42f7eb009ea9295ac7f17b0f916b87614",
+          "sha256": "ecc38933929c0857d7aacd2ed44281c72eb88cd5394b55f0723d15c3445ad227",
+          "sha1": "a842684c214819b99bd6f024c786a214f0f11b25",
+          "md5": "94aae965a2432d7086b766c94c3b8b00"
         }
       ]
     }
