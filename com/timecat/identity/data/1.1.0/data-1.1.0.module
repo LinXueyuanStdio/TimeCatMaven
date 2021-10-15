@@ -34,14 +34,14 @@
           "group": "com.alibaba",
           "module": "fastjson",
           "version": {
-            "requires": "1.2.9"
+            "requires": "1.2.51"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         }
       ],
@@ -49,11 +49,11 @@
         {
           "name": "data-1.1.0.aar",
           "url": "data-1.1.0.aar",
-          "size": 329788,
-          "sha512": "57282cbce1351629b89fdb7f5f81b0008d2c98fc33c5038b6276ba4c53981099d77fbe2cf0c8598deaa5bd859b94b10f0ad4d9a2e3b3a23b142a0344e95cd56e",
-          "sha256": "794962998a883f75bf5cb33c6b626b2c93976e09d674f68e258c541c27b88750",
-          "sha1": "46a49616148cfece3ec27a868c5e1cea6c5b0fcd",
-          "md5": "b716bbd3aab28ab22815dee1f7ca6e55"
+          "size": 334430,
+          "sha512": "1a06ba9ad5448bfdf47d692119893557e80247dcd265c2bfaef6f4fbd3b5b1fe2453ea23965cf322f56cb8e2a660271a022ecd827437ec168f7670ea6ed1a804",
+          "sha256": "8172006c160cc1f81e4c30f152821baacf69829f368a9e3d60caa5459b1034f8",
+          "sha1": "cd3b24a4842464f0483051a2b84cb7f04002259d",
+          "md5": "8ab21f0afa9e33b1f9b237a2a2e38e63"
         }
       ]
     },
@@ -77,14 +77,14 @@
           "group": "com.alibaba",
           "module": "fastjson",
           "version": {
-            "requires": "1.2.9"
+            "requires": "1.2.51"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         }
       ],
@@ -92,11 +92,11 @@
         {
           "name": "data-1.1.0.aar",
           "url": "data-1.1.0.aar",
-          "size": 329788,
-          "sha512": "57282cbce1351629b89fdb7f5f81b0008d2c98fc33c5038b6276ba4c53981099d77fbe2cf0c8598deaa5bd859b94b10f0ad4d9a2e3b3a23b142a0344e95cd56e",
-          "sha256": "794962998a883f75bf5cb33c6b626b2c93976e09d674f68e258c541c27b88750",
-          "sha1": "46a49616148cfece3ec27a868c5e1cea6c5b0fcd",
-          "md5": "b716bbd3aab28ab22815dee1f7ca6e55"
+          "size": 334430,
+          "sha512": "1a06ba9ad5448bfdf47d692119893557e80247dcd265c2bfaef6f4fbd3b5b1fe2453ea23965cf322f56cb8e2a660271a022ecd827437ec168f7670ea6ed1a804",
+          "sha256": "8172006c160cc1f81e4c30f152821baacf69829f368a9e3d60caa5459b1034f8",
+          "sha1": "cd3b24a4842464f0483051a2b84cb7f04002259d",
+          "md5": "8ab21f0afa9e33b1f9b237a2a2e38e63"
         }
       ]
     }
