@@ -159,6 +159,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>androidx.media</groupId>
+      <artifactId>media</artifactId>
+      <version>1.2.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.mikepenz</groupId>
       <artifactId>materialdrawer</artifactId>
       <version>8.0.3</version>

@@ -178,6 +178,13 @@
           }
         },
         {
+          "group": "androidx.media",
+          "module": "media",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
           "group": "com.mikepenz",
           "module": "materialdrawer",
           "version": {
@@ -258,11 +265,11 @@
         {
           "name": "module-master-1.1.0.aar",
           "url": "module-master-1.1.0.aar",
-          "size": 4563936,
-          "sha512": "983225aefe3d371242cc0a803c1720fa0646046a539fa7bc1284049d982fe303dd4fd77790c56009b67c36ebbb6132ba79b6f8b34b0863b19c1ae2e73642f74f",
-          "sha256": "33a4308e324930bbc778d4bc1e0bffb8147bee48c49eb3738e0b125e6a26056e",
-          "sha1": "250dbfb81917ecf21581c00d8ebe2cdd9d1b4552",
-          "md5": "b17cae25c025103b8efc17a1e06ac0a8"
+          "size": 4555574,
+          "sha512": "92d95ddaeb0adc7ca71e71bcc4d4acbd0ff3271ede2d1f020eab3bfce5aa429e648e9a666946e3b9da19ed70b90964a030d3d397a84d38271351571a9fce1703",
+          "sha256": "041787934a31bbad01cbcdb99dc1bd17a238ee623d5a633d462478ccd0100da7",
+          "sha1": "11a5cd89bb7a17476a1d423b4ff8e267c00c72ad",
+          "md5": "3042367bd3b43200dd68d0de727cf905"
         }
       ]
     },
@@ -437,6 +444,13 @@
           }
         },
         {
+          "group": "androidx.media",
+          "module": "media",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
           "group": "com.mikepenz",
           "module": "materialdrawer",
           "version": {
@@ -517,11 +531,11 @@
         {
           "name": "module-master-1.1.0.aar",
           "url": "module-master-1.1.0.aar",
-          "size": 4563936,
-          "sha512": "983225aefe3d371242cc0a803c1720fa0646046a539fa7bc1284049d982fe303dd4fd77790c56009b67c36ebbb6132ba79b6f8b34b0863b19c1ae2e73642f74f",
-          "sha256": "33a4308e324930bbc778d4bc1e0bffb8147bee48c49eb3738e0b125e6a26056e",
-          "sha1": "250dbfb81917ecf21581c00d8ebe2cdd9d1b4552",
-          "md5": "b17cae25c025103b8efc17a1e06ac0a8"
+          "size": 4555574,
+          "sha512": "92d95ddaeb0adc7ca71e71bcc4d4acbd0ff3271ede2d1f020eab3bfce5aa429e648e9a666946e3b9da19ed70b90964a030d3d397a84d38271351571a9fce1703",
+          "sha256": "041787934a31bbad01cbcdb99dc1bd17a238ee623d5a633d462478ccd0100da7",
+          "sha1": "11a5cd89bb7a17476a1d423b4ff8e267c00c72ad",
+          "md5": "3042367bd3b43200dd68d0de727cf905"
         }
       ]
     }

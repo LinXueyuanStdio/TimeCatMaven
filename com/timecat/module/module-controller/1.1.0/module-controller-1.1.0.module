@@ -31,6 +31,62 @@
           }
         },
         {
+          "group": "androidx.media",
+          "module": "media",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
+          "group": "androidx.cardview",
+          "module": "cardview",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.browser",
+          "module": "browser",
+          "version": {
+            "requires": "1.3.0"
+          }
+        },
+        {
+          "group": "androidx.preference",
+          "module": "preference",
+          "version": {
+            "requires": "1.1.1"
+          }
+        },
+        {
+          "group": "androidx.palette",
+          "module": "palette",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.recyclerview",
+          "module": "recyclerview",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.0.1"
+          }
+        },
+        {
+          "group": "com.yanzhenjie",
+          "module": "recyclerview-swipe",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
           "group": "com.timecat.middle",
           "module": "block",
           "version": {
@@ -119,11 +175,11 @@
         {
           "name": "module-controller-1.1.0.aar",
           "url": "module-controller-1.1.0.aar",
-          "size": 1947505,
-          "sha512": "e988f883cf865f86c49d417e7911cf2dc069cfe83f2a27914fc4acc4f167d3433d4e1f2c4c2773812391d6ce9862d1f5a562df2271bca025c03807889a9fe143",
-          "sha256": "e443f068159c49bbad615e4e99e8fbf81329dc61684a6dce8caafff42b4495e6",
-          "sha1": "da1cec30c32e454aa44e6f6fbe4251046a94b157",
-          "md5": "2596602b2ae9fba4dd1ae3b76318bce9"
+          "size": 1956343,
+          "sha512": "38c97d5e6945f53715e09ccf20ff0918fc4ed74179f7165117b97740b677b3ff7f1254a7db3a433351629fefd1e4e6198b3e28afb744307dbcd986f4c90b8958",
+          "sha256": "619fef0af709e3de15a49e161e7377432844ad0167ccfc3ee4c3f0586db96ffc",
+          "sha1": "5354e3ca292d67f7d5f9a5e95551268a4d1e2d61",
+          "md5": "978efd8a747b6ca4fabb5730172d2947"
         }
       ]
     },
@@ -141,6 +197,62 @@
           "module": "kotlin-stdlib-jdk8",
           "version": {
             "requires": "1.5.30"
+          }
+        },
+        {
+          "group": "androidx.media",
+          "module": "media",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
+          "group": "androidx.cardview",
+          "module": "cardview",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.browser",
+          "module": "browser",
+          "version": {
+            "requires": "1.3.0"
+          }
+        },
+        {
+          "group": "androidx.preference",
+          "module": "preference",
+          "version": {
+            "requires": "1.1.1"
+          }
+        },
+        {
+          "group": "androidx.palette",
+          "module": "palette",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.recyclerview",
+          "module": "recyclerview",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.0.1"
+          }
+        },
+        {
+          "group": "com.yanzhenjie",
+          "module": "recyclerview-swipe",
+          "version": {
+            "requires": "1.0.2"
           }
         },
         {
@@ -225,48 +337,6 @@
           "module": "databinding-ktx",
           "version": {
             "requires": "7.0.0"
-          }
-        },
-        {
-          "group": "androidx.cardview",
-          "module": "cardview",
-          "version": {
-            "requires": "1.0.0"
-          }
-        },
-        {
-          "group": "androidx.browser",
-          "module": "browser",
-          "version": {
-            "requires": "1.3.0"
-          }
-        },
-        {
-          "group": "androidx.preference",
-          "module": "preference",
-          "version": {
-            "requires": "1.1.1"
-          }
-        },
-        {
-          "group": "androidx.palette",
-          "module": "palette",
-          "version": {
-            "requires": "1.0.0"
-          }
-        },
-        {
-          "group": "androidx.recyclerview",
-          "module": "recyclerview",
-          "version": {
-            "requires": "1.2.1"
-          }
-        },
-        {
-          "group": "androidx.constraintlayout",
-          "module": "constraintlayout",
-          "version": {
-            "requires": "2.0.1"
           }
         },
         {
@@ -330,11 +400,11 @@
         {
           "name": "module-controller-1.1.0.aar",
           "url": "module-controller-1.1.0.aar",
-          "size": 1947505,
-          "sha512": "e988f883cf865f86c49d417e7911cf2dc069cfe83f2a27914fc4acc4f167d3433d4e1f2c4c2773812391d6ce9862d1f5a562df2271bca025c03807889a9fe143",
-          "sha256": "e443f068159c49bbad615e4e99e8fbf81329dc61684a6dce8caafff42b4495e6",
-          "sha1": "da1cec30c32e454aa44e6f6fbe4251046a94b157",
-          "md5": "2596602b2ae9fba4dd1ae3b76318bce9"
+          "size": 1956343,
+          "sha512": "38c97d5e6945f53715e09ccf20ff0918fc4ed74179f7165117b97740b677b3ff7f1254a7db3a433351629fefd1e4e6198b3e28afb744307dbcd986f4c90b8958",
+          "sha256": "619fef0af709e3de15a49e161e7377432844ad0167ccfc3ee4c3f0586db96ffc",
+          "sha1": "5354e3ca292d67f7d5f9a5e95551268a4d1e2d61",
+          "md5": "978efd8a747b6ca4fabb5730172d2947"
         }
       ]
     }

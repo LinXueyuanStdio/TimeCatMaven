@@ -33,6 +33,54 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>androidx.media</groupId>
+      <artifactId>media</artifactId>
+      <version>1.2.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.cardview</groupId>
+      <artifactId>cardview</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.browser</groupId>
+      <artifactId>browser</artifactId>
+      <version>1.3.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.preference</groupId>
+      <artifactId>preference</artifactId>
+      <version>1.1.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.palette</groupId>
+      <artifactId>palette</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.recyclerview</groupId>
+      <artifactId>recyclerview</artifactId>
+      <version>1.2.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.constraintlayout</groupId>
+      <artifactId>constraintlayout</artifactId>
+      <version>2.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.yanzhenjie</groupId>
+      <artifactId>recyclerview-swipe</artifactId>
+      <version>1.0.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.timecat.middle</groupId>
       <artifactId>block</artifactId>
       <version>+</version>
@@ -97,42 +145,6 @@
       <artifactId>databinding-ktx</artifactId>
       <version>7.0.0</version>
       <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.cardview</groupId>
-      <artifactId>cardview</artifactId>
-      <version>1.0.0</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.browser</groupId>
-      <artifactId>browser</artifactId>
-      <version>1.3.0</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.preference</groupId>
-      <artifactId>preference</artifactId>
-      <version>1.1.1</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.palette</groupId>
-      <artifactId>palette</artifactId>
-      <version>1.0.0</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.recyclerview</groupId>
-      <artifactId>recyclerview</artifactId>
-      <version>1.2.1</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.constraintlayout</groupId>
-      <artifactId>constraintlayout</artifactId>
-      <version>2.0.1</version>
-      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.larswerkman</groupId>
