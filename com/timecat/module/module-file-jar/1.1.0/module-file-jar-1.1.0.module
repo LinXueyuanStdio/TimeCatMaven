@@ -27,7 +27,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         },
         {
@@ -97,28 +97,28 @@
           "group": "androidx.core",
           "module": "core",
           "version": {
-            "requires": "1.5.0-alpha01"
+            "requires": "1.6.0"
           }
         },
         {
           "group": "androidx.core",
           "module": "core-ktx",
           "version": {
-            "requires": "1.5.0-alpha01"
+            "requires": "1.6.0"
           }
         },
         {
           "group": "androidx.fragment",
           "module": "fragment",
           "version": {
-            "requires": "1.2.5"
+            "requires": "1.3.6"
           }
         },
         {
           "group": "androidx.fragment",
           "module": "fragment-ktx",
           "version": {
-            "requires": "1.2.5"
+            "requires": "1.3.6"
           }
         },
         {
@@ -196,11 +196,11 @@
         {
           "name": "module-file-jar-1.1.0.aar",
           "url": "module-file-jar-1.1.0.aar",
-          "size": 2895912,
-          "sha512": "7a2104aeb21f663ea923a554077ada338a6adcdafefd91821b917e502683d10199a54e71369e4ee45930193870edc206c34dde5af5ccf489656fc4fb18e791a8",
-          "sha256": "0a47e993866bbb2fadcc8ede4dbdd37ad67f1ab8c8d9d752447e6ea5e2910e3d",
-          "sha1": "e18a681f8fc3d42d4205b8d5aa96e15d56d3613f",
-          "md5": "69d452e656b1033e649bbce257aedb12"
+          "size": 2888725,
+          "sha512": "1f68a6a60d935fc0cf445f9d073c3bbd8e0746a0cf319a23a2ead9c8efe7893d6f5f0d81c9d4f85c1b9cb74928bf08a824392b6b94deea12be7e9920823ef187",
+          "sha256": "8ea7714de6439ddac4026cd9615b9560161a73b43be468bbea387f8a43247688",
+          "sha1": "8579d61f95bcc1317c86b9ca5dda1dc7d09f9c8e",
+          "md5": "99cb384778b7923321b4a5cd8f4a2065"
         }
       ]
     },
@@ -217,7 +217,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-parcelize-runtime",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         },
         {
@@ -231,7 +231,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         },
         {
@@ -301,28 +301,28 @@
           "group": "androidx.core",
           "module": "core",
           "version": {
-            "requires": "1.5.0-alpha01"
+            "requires": "1.6.0"
           }
         },
         {
           "group": "androidx.core",
           "module": "core-ktx",
           "version": {
-            "requires": "1.5.0-alpha01"
+            "requires": "1.6.0"
           }
         },
         {
           "group": "androidx.fragment",
           "module": "fragment",
           "version": {
-            "requires": "1.2.5"
+            "requires": "1.3.6"
           }
         },
         {
           "group": "androidx.fragment",
           "module": "fragment-ktx",
           "version": {
-            "requires": "1.2.5"
+            "requires": "1.3.6"
           }
         },
         {
@@ -637,11 +637,11 @@
         {
           "name": "module-file-jar-1.1.0.aar",
           "url": "module-file-jar-1.1.0.aar",
-          "size": 2895912,
-          "sha512": "7a2104aeb21f663ea923a554077ada338a6adcdafefd91821b917e502683d10199a54e71369e4ee45930193870edc206c34dde5af5ccf489656fc4fb18e791a8",
-          "sha256": "0a47e993866bbb2fadcc8ede4dbdd37ad67f1ab8c8d9d752447e6ea5e2910e3d",
-          "sha1": "e18a681f8fc3d42d4205b8d5aa96e15d56d3613f",
-          "md5": "69d452e656b1033e649bbce257aedb12"
+          "size": 2888725,
+          "sha512": "1f68a6a60d935fc0cf445f9d073c3bbd8e0746a0cf319a23a2ead9c8efe7893d6f5f0d81c9d4f85c1b9cb74928bf08a824392b6b94deea12be7e9920823ef187",
+          "sha256": "8ea7714de6439ddac4026cd9615b9560161a73b43be468bbea387f8a43247688",
+          "sha1": "8579d61f95bcc1317c86b9ca5dda1dc7d09f9c8e",
+          "md5": "99cb384778b7923321b4a5cd8f4a2065"
         }
       ]
     }
