@@ -1,0 +1,202 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.module",
+    "module": "module-guide-jar",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
+        },
+        {
+          "group": "com.timecat.page",
+          "module": "base",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.layout",
+          "module": "ui",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.data",
+          "module": "system",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "router",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "service",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "anim",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "guide-api",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "guide-view",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.tbuonomo.andrui",
+          "module": "viewpagerdotsindicator",
+          "version": {
+            "requires": "4.1.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "module-guide-jar-1.0.0.aar",
+          "url": "module-guide-jar-1.0.0.aar",
+          "size": 202412,
+          "sha512": "8edd93bb1422f8826221d3732ea374da05eb253c9a9ff3af3415dbd30d3c787aad8993bdd2483e866c23130108c7073f446582748f7453201280ed6a24706e65",
+          "sha256": "6d375ee8d7e55cb2ea02142564683d42e7b2c6f7c37bb7056ce3699bfc0adefe",
+          "sha1": "f3ca6e15a4178ff4d3b60b04fe531a51c1bb6ef0",
+          "md5": "37d9535180a7862338b4757e6f1dda80"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
+        },
+        {
+          "group": "com.timecat.page",
+          "module": "base",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.layout",
+          "module": "ui",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.data",
+          "module": "system",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "router",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "service",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "anim",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "guide-api",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "guide-view",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.tbuonomo.andrui",
+          "module": "viewpagerdotsindicator",
+          "version": {
+            "requires": "4.1.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "module-guide-jar-1.0.0.aar",
+          "url": "module-guide-jar-1.0.0.aar",
+          "size": 202412,
+          "sha512": "8edd93bb1422f8826221d3732ea374da05eb253c9a9ff3af3415dbd30d3c787aad8993bdd2483e866c23130108c7073f446582748f7453201280ed6a24706e65",
+          "sha256": "6d375ee8d7e55cb2ea02142564683d42e7b2c6f7c37bb7056ce3699bfc0adefe",
+          "sha1": "f3ca6e15a4178ff4d3b60b04fe531a51c1bb6ef0",
+          "md5": "37d9535180a7862338b4757e6f1dda80"
+        }
+      ]
+    }
+  ]
+}

@@ -27,7 +27,7 @@
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.2.0"
+            "requires": "1.3.1"
           }
         },
         {
@@ -49,11 +49,11 @@
         {
           "name": "resources-jar-1.0.0.aar",
           "url": "resources-jar-1.0.0.aar",
-          "size": 2404078,
-          "sha512": "9a755d63b91c123225642afd40fc5354f1dd1d741dc5cc5a2bd3406e7b5ac762ab4e4aa104c9df3d0252e2c66a31e273307906df182c08f01beb59469f55473e",
-          "sha256": "e045975870aa6e9d8e885ccb6581c89955f2d45f39c869b3dc9c737d4ec14f47",
-          "sha1": "86316a0e8650ba4850599b8552b8f470fb5f1765",
-          "md5": "4be3a9bbee7f8d5a19c0b3d2ce9607ed"
+          "size": 2148360,
+          "sha512": "ca8a2a7c0f1ac225c5b251148188496b6954f9ed718c319ee3b108397189233977a9cf13c9bfc8fcc4255c853bb40e21223e170be7fb60d3eec6516e2a2d0398",
+          "sha256": "7521030c1fbec5e22d375aa5f0672f229020c6d426d76dd2f88faea6921ab961",
+          "sha1": "08d8e1d04d7422e2b484a188d091cf600e310bd5",
+          "md5": "43ee7ada455602dd3fec623d81137829"
         }
       ]
     },
@@ -70,7 +70,7 @@
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.2.0"
+            "requires": "1.3.1"
           }
         },
         {
@@ -92,11 +92,11 @@
         {
           "name": "resources-jar-1.0.0.aar",
           "url": "resources-jar-1.0.0.aar",
-          "size": 2404078,
-          "sha512": "9a755d63b91c123225642afd40fc5354f1dd1d741dc5cc5a2bd3406e7b5ac762ab4e4aa104c9df3d0252e2c66a31e273307906df182c08f01beb59469f55473e",
-          "sha256": "e045975870aa6e9d8e885ccb6581c89955f2d45f39c869b3dc9c737d4ec14f47",
-          "sha1": "86316a0e8650ba4850599b8552b8f470fb5f1765",
-          "md5": "4be3a9bbee7f8d5a19c0b3d2ce9607ed"
+          "size": 2148360,
+          "sha512": "ca8a2a7c0f1ac225c5b251148188496b6954f9ed718c319ee3b108397189233977a9cf13c9bfc8fcc4255c853bb40e21223e170be7fb60d3eec6516e2a2d0398",
+          "sha256": "7521030c1fbec5e22d375aa5f0672f229020c6d426d76dd2f88faea6921ab961",
+          "sha1": "08d8e1d04d7422e2b484a188d091cf600e310bd5",
+          "md5": "43ee7ada455602dd3fec623d81137829"
         }
       ]
     }

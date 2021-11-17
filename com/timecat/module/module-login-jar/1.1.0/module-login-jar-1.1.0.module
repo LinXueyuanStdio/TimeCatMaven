@@ -27,7 +27,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         },
         {
@@ -70,11 +70,11 @@
         {
           "name": "module-login-jar-1.1.0.aar",
           "url": "module-login-jar-1.1.0.aar",
-          "size": 192446,
-          "sha512": "b8ddc9853c9b3f6791c69a5283f58f2d05349726959a5c14b3236fef54d5262b532eb4cac86fe7ff6b715e488c0fcf7fafd633a68ec8569f92783539a6fb54e6",
-          "sha256": "29bfde73ae2d01de2e34329ac9e2632526d4da7ce6aa542e524eadb879d04a54",
-          "sha1": "d6f68031f82a36c9d79f8cc31b2e7a6cf800db6e",
-          "md5": "01d97743e8d387fd51e91eafe0dc0486"
+          "size": 192992,
+          "sha512": "7d86af3067f6450a1739cab26274ccc125031ed1ecd54c5b6caa3d2a75c381d5d62f9018c1e0e5b9a5f06025a822aaa871c4fdec506bab3919f067eaf2270cdf",
+          "sha256": "dc5be9315ad6a05b2ac3e826a10c90ba0856092950043e5549f0b9d2643ff750",
+          "sha1": "e28cedb98ad3d5c467e740546ffbd8238526a245",
+          "md5": "abe4f4bfe70afa755547d245f414264e"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         },
         {
@@ -134,11 +134,11 @@
         {
           "name": "module-login-jar-1.1.0.aar",
           "url": "module-login-jar-1.1.0.aar",
-          "size": 192446,
-          "sha512": "b8ddc9853c9b3f6791c69a5283f58f2d05349726959a5c14b3236fef54d5262b532eb4cac86fe7ff6b715e488c0fcf7fafd633a68ec8569f92783539a6fb54e6",
-          "sha256": "29bfde73ae2d01de2e34329ac9e2632526d4da7ce6aa542e524eadb879d04a54",
-          "sha1": "d6f68031f82a36c9d79f8cc31b2e7a6cf800db6e",
-          "md5": "01d97743e8d387fd51e91eafe0dc0486"
+          "size": 192992,
+          "sha512": "7d86af3067f6450a1739cab26274ccc125031ed1ecd54c5b6caa3d2a75c381d5d62f9018c1e0e5b9a5f06025a822aaa871c4fdec506bab3919f067eaf2270cdf",
+          "sha256": "dc5be9315ad6a05b2ac3e826a10c90ba0856092950043e5549f0b9d2643ff750",
+          "sha1": "e28cedb98ad3d5c467e740546ffbd8238526a245",
+          "md5": "abe4f4bfe70afa755547d245f414264e"
         }
       ]
     }

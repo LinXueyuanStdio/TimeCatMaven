@@ -27,7 +27,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         },
         {
@@ -77,11 +77,11 @@
         {
           "name": "module-welcome-jar-1.1.0.aar",
           "url": "module-welcome-jar-1.1.0.aar",
-          "size": 136292,
-          "sha512": "15d4cb8a61ea4fa4684e67ec051c8b247d8dcab8a288750e78fcf203c385413fa6f61459db7d4b6d1a46f0f1ce5f2254420edccc140f13c8fd17625f924f3eef",
-          "sha256": "1bed2e31d4333875ef290d649c466ae8108e432736e47f133ec00011ba56802a",
-          "sha1": "2744e6dc15a10ea16e78bdbb082b7f68749e0f4e",
-          "md5": "c7cd6c4f462108339b1e63830209e878"
+          "size": 180173,
+          "sha512": "f95340a09338f56047cd51682ffaf6f56665e2844a79046d299c026291fc0be80a54a0bc84471da242747dcba58b83a5876394013f0fa3321efa4c99ab50bebe",
+          "sha256": "1f74feee9c94675c9b2a5f16a52687f4c0898223b4ac06fe2fbd8cdfa0c99625",
+          "sha1": "a98b77bcef809f9ff9f65779aced9411c7691ae5",
+          "md5": "f5306b0222ad217ee336204e9adf6a92"
         }
       ]
     },
@@ -98,7 +98,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.5.30"
           }
         },
         {
@@ -149,17 +149,38 @@
           "version": {
             "requires": "1.0.5"
           }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-core",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-intro",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-font",
+          "version": {
+            "requires": "+"
+          }
         }
       ],
       "files": [
         {
           "name": "module-welcome-jar-1.1.0.aar",
           "url": "module-welcome-jar-1.1.0.aar",
-          "size": 136292,
-          "sha512": "15d4cb8a61ea4fa4684e67ec051c8b247d8dcab8a288750e78fcf203c385413fa6f61459db7d4b6d1a46f0f1ce5f2254420edccc140f13c8fd17625f924f3eef",
-          "sha256": "1bed2e31d4333875ef290d649c466ae8108e432736e47f133ec00011ba56802a",
-          "sha1": "2744e6dc15a10ea16e78bdbb082b7f68749e0f4e",
-          "md5": "c7cd6c4f462108339b1e63830209e878"
+          "size": 180173,
+          "sha512": "f95340a09338f56047cd51682ffaf6f56665e2844a79046d299c026291fc0be80a54a0bc84471da242747dcba58b83a5876394013f0fa3321efa4c99ab50bebe",
+          "sha256": "1f74feee9c94675c9b2a5f16a52687f4c0898223b4ac06fe2fbd8cdfa0c99625",
+          "sha1": "a98b77bcef809f9ff9f65779aced9411c7691ae5",
+          "md5": "f5306b0222ad217ee336204e9adf6a92"
         }
       ]
     }

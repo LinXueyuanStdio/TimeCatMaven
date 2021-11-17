@@ -26,11 +26,11 @@
         {
           "name": "MView-core-1.0.1.aar",
           "url": "MView-core-1.0.1.aar",
-          "size": 326157,
-          "sha512": "f261158334700067639bb57927d8647cfedac06e6ce80a41162f3da7e37cf5f7361e6307b988ccab0272e64de414b1af5f33ca1e5f5c2c36c18fb7d4dd1ccc31",
-          "sha256": "95ee33e8ca72de66729b29b8c4c242a216f7c6d6a98fa0dbbe07674917e3955b",
-          "sha1": "fb0a532fd20f39f0a89d0a91555731634a38165a",
-          "md5": "b7994dacc3252254920037560a7602b7"
+          "size": 326299,
+          "sha512": "a74f2158782a1abf64c1620517ab496dc96c749fe74d3bff60c96d0c733b8925d8aa19943fe2a72d5f14a0417d069024e30317aaf2025dbe162de5058a0261b5",
+          "sha256": "0de97b1e6456eb8f171f15ecca0d1db485686f0789ad58739da22d54476efebf",
+          "sha1": "6104500f9e96387e8760678ee7db5ce1c15d74e7",
+          "md5": "aa87f5e204406065caaab9291f73dcc4"
         }
       ]
     },
@@ -55,11 +55,11 @@
         {
           "name": "MView-core-1.0.1.aar",
           "url": "MView-core-1.0.1.aar",
-          "size": 326157,
-          "sha512": "f261158334700067639bb57927d8647cfedac06e6ce80a41162f3da7e37cf5f7361e6307b988ccab0272e64de414b1af5f33ca1e5f5c2c36c18fb7d4dd1ccc31",
-          "sha256": "95ee33e8ca72de66729b29b8c4c242a216f7c6d6a98fa0dbbe07674917e3955b",
-          "sha1": "fb0a532fd20f39f0a89d0a91555731634a38165a",
-          "md5": "b7994dacc3252254920037560a7602b7"
+          "size": 326299,
+          "sha512": "a74f2158782a1abf64c1620517ab496dc96c749fe74d3bff60c96d0c733b8925d8aa19943fe2a72d5f14a0417d069024e30317aaf2025dbe162de5058a0261b5",
+          "sha256": "0de97b1e6456eb8f171f15ecca0d1db485686f0789ad58739da22d54476efebf",
+          "sha1": "6104500f9e96387e8760678ee7db5ce1c15d74e7",
+          "md5": "aa87f5e204406065caaab9291f73dcc4"
         }
       ]
     }
