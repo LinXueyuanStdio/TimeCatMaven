@@ -1,0 +1,104 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.component",
+    "module": "engine-js-jar",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "com.facebook",
+          "module": "jni",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "engine-js-jar-1.0.0.aar",
+          "url": "engine-js-jar-1.0.0.aar",
+          "size": 3017975,
+          "sha512": "f510284db186d35eb05946cb338e38ffc446963ffb3477b8a293a0b7d2b735a0e0248e3bf5f798a9efd40b0b4c789aad49f3f0f500a71682e832f151187deb74",
+          "sha256": "c60f2fe1240ce3c014d1be9c43036b3b1bba6ea506e9bf2d84512ed8da417824",
+          "sha1": "21abcd782efa6d36f912fc05edba115cc99442da",
+          "md5": "966a3c1779e85feb54204cf7eec6b400"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "com.facebook",
+          "module": "jni",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "engine-js-jar-1.0.0.aar",
+          "url": "engine-js-jar-1.0.0.aar",
+          "size": 3017975,
+          "sha512": "f510284db186d35eb05946cb338e38ffc446963ffb3477b8a293a0b7d2b735a0e0248e3bf5f798a9efd40b0b4c789aad49f3f0f500a71682e832f151187deb74",
+          "sha256": "c60f2fe1240ce3c014d1be9c43036b3b1bba6ea506e9bf2d84512ed8da417824",
+          "sha1": "21abcd782efa6d36f912fc05edba115cc99442da",
+          "md5": "966a3c1779e85feb54204cf7eec6b400"
+        }
+      ]
+    }
+  ]
+}
