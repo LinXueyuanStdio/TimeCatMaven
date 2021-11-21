@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.middle",
+    "module": "text-jar",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "block",
+          "version": {
+            "requires": "+"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "text-1.0.0.aar",
+          "url": "text-1.0.0.aar",
+          "size": 133915,
+          "sha512": "7750a76922b41353305c6eb928acaee36baf12dbe7eac7ba6c5e5f47f3504d80ef015ee2e3f7160900f358e08614582c1d99f45e6697917bcf0e8c9015a11b4e",
+          "sha256": "aa19191a5316c89263c3aee84d22ffab41f0f00aa5c24d7a0c74fbe39058b71e",
+          "sha1": "7190f4582fe4b0a51ebf5ee73db498313e9b3d27",
+          "md5": "ad970a78ab6b0b6106ffc4c9a69778aa"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "block",
+          "version": {
+            "requires": "+"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "text-1.0.0.aar",
+          "url": "text-1.0.0.aar",
+          "size": 133915,
+          "sha512": "7750a76922b41353305c6eb928acaee36baf12dbe7eac7ba6c5e5f47f3504d80ef015ee2e3f7160900f358e08614582c1d99f45e6697917bcf0e8c9015a11b4e",
+          "sha256": "aa19191a5316c89263c3aee84d22ffab41f0f00aa5c24d7a0c74fbe39058b71e",
+          "sha1": "7190f4582fe4b0a51ebf5ee73db498313e9b3d27",
+          "md5": "ad970a78ab6b0b6106ffc4c9a69778aa"
+        }
+      ]
+    }
+  ]
+}
