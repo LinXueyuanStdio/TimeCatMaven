@@ -1,0 +1,286 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.module",
+    "module": "module-runner-jar",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "block",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "form",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "selector",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "font",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "readonly",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "sdk",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "data",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.data",
+          "module": "room",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "MView-same",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-font",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MLang",
+          "version": {
+            "requires": "2.0.2"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "text",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "record-ext",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.media",
+          "module": "media",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
+          "group": "xyz.aprildown",
+          "module": "HmsPickerView",
+          "version": {
+            "requires": "0.2.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "module-runner-1.0.0.aar",
+          "url": "module-runner-1.0.0.aar",
+          "size": 715719,
+          "sha512": "9a4b850e667f29651c19e184e7db9da83e224f1634d9d0b41737ea8e38a909306fe2350f8850f720c86ef943b35e1d90e56fbd3f8bc87cde42042cadbea3fbfa",
+          "sha256": "df52bff4ebc645d349f78a1e13bd79e52d30f0b95fa45ca40fb90f87de181439",
+          "sha1": "88361c9a82af0b66f770ee2fe7eea267d858db00",
+          "md5": "f040ce00d41369afb55f51a5403e9a02"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "block",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "form",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "selector",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "font",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "readonly",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "sdk",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.identity",
+          "module": "data",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.data",
+          "module": "room",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "MView-same",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MView-font",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "MLang",
+          "version": {
+            "requires": "2.0.2"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "text",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "record-ext",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.media",
+          "module": "media",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
+          "group": "xyz.aprildown",
+          "module": "HmsPickerView",
+          "version": {
+            "requires": "0.2.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "module-runner-1.0.0.aar",
+          "url": "module-runner-1.0.0.aar",
+          "size": 715719,
+          "sha512": "9a4b850e667f29651c19e184e7db9da83e224f1634d9d0b41737ea8e38a909306fe2350f8850f720c86ef943b35e1d90e56fbd3f8bc87cde42042cadbea3fbfa",
+          "sha256": "df52bff4ebc645d349f78a1e13bd79e52d30f0b95fa45ca40fb90f87de181439",
+          "sha1": "88361c9a82af0b66f770ee2fe7eea267d858db00",
+          "md5": "f040ce00d41369afb55f51a5403e9a02"
+        }
+      ]
+    }
+  ]
+}

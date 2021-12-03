@@ -26,11 +26,11 @@
         {
           "name": "readonly-jar-1.1.0.aar",
           "url": "readonly-jar-1.1.0.aar",
-          "size": 27121,
-          "sha512": "644a34b66391f41a2c74dfc70711f4a902b081aa5bf0d84c94d00b380275059ce54d0d0e474027a7feed293a40635e93e28f1062fefff6e5a721aeecaeec32af",
-          "sha256": "e3f5ad56ebfd05136bc6ce9f6184e807dbb4ad244301b5d9fde666695a0c4fe8",
-          "sha1": "1614e537bee51a0008f338a1b4b4d21dc78f1a29",
-          "md5": "983de1c61ac122e7769e99f13115e598"
+          "size": 27167,
+          "sha512": "53cdd36eb5182e0043071022621fdd76aeb39d56eb5398fcf4d92a18dde8b513386e408fcd9f6a767e9f85dfab737cf9bd8129cbad7045c86c65e7fa1c08f4b6",
+          "sha256": "5c5da6717c9f1ef7f0d283b55b5f6a6606577e9595e98e87b198773f0a146337",
+          "sha1": "636cd912987d49d9c61fbf0addf137b76032a5a5",
+          "md5": "372ac8cc63e04588962ffe977226a2f6"
         }
       ]
     },
@@ -46,11 +46,11 @@
         {
           "name": "readonly-jar-1.1.0.aar",
           "url": "readonly-jar-1.1.0.aar",
-          "size": 27121,
-          "sha512": "644a34b66391f41a2c74dfc70711f4a902b081aa5bf0d84c94d00b380275059ce54d0d0e474027a7feed293a40635e93e28f1062fefff6e5a721aeecaeec32af",
-          "sha256": "e3f5ad56ebfd05136bc6ce9f6184e807dbb4ad244301b5d9fde666695a0c4fe8",
-          "sha1": "1614e537bee51a0008f338a1b4b4d21dc78f1a29",
-          "md5": "983de1c61ac122e7769e99f13115e598"
+          "size": 27167,
+          "sha512": "53cdd36eb5182e0043071022621fdd76aeb39d56eb5398fcf4d92a18dde8b513386e408fcd9f6a767e9f85dfab737cf9bd8129cbad7045c86c65e7fa1c08f4b6",
+          "sha256": "5c5da6717c9f1ef7f0d283b55b5f6a6606577e9595e98e87b198773f0a146337",
+          "sha1": "636cd912987d49d9c61fbf0addf137b76032a5a5",
+          "md5": "372ac8cc63e04588962ffe977226a2f6"
         }
       ]
     }
