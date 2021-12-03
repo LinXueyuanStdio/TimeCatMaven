@@ -55,7 +55,7 @@
           "group": "com.timecat.middle",
           "module": "text",
           "version": {
-            "requires": "1.0.0"
+            "requires": "+"
           }
         },
         {
@@ -168,7 +168,7 @@
           "group": "com.timecat.middle",
           "module": "text",
           "version": {
-            "requires": "1.0.0"
+            "requires": "+"
           }
         },
         {

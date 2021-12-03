@@ -99,6 +99,18 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.timecat.middle</groupId>
+      <artifactId>text</artifactId>
+      <version>+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.timecat.middle</groupId>
+      <artifactId>record-ext</artifactId>
+      <version>+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.timecat.widget</groupId>
       <artifactId>board</artifactId>
       <version>+</version>
@@ -120,12 +132,6 @@
       <groupId>com.otaliastudios</groupId>
       <artifactId>autocomplete</artifactId>
       <version>1.1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>xyz.aprildown</groupId>
-      <artifactId>HmsPickerView</artifactId>
-      <version>0.2.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -187,12 +193,6 @@
       <groupId>com.github.florent37</groupId>
       <artifactId>viewtooltip</artifactId>
       <version>1.1.8</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.getkeepsafe.taptargetview</groupId>
-      <artifactId>taptargetview</artifactId>
-      <version>1.12.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

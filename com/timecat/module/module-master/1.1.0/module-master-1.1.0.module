@@ -108,6 +108,20 @@
           }
         },
         {
+          "group": "com.timecat.middle",
+          "module": "text",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "record-ext",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
           "group": "com.timecat.widget",
           "module": "board",
           "version": {
@@ -133,13 +147,6 @@
           "module": "autocomplete",
           "version": {
             "requires": "1.1.0"
-          }
-        },
-        {
-          "group": "xyz.aprildown",
-          "module": "HmsPickerView",
-          "version": {
-            "requires": "0.2.0"
           }
         },
         {
@@ -219,13 +226,6 @@
           }
         },
         {
-          "group": "com.getkeepsafe.taptargetview",
-          "module": "taptargetview",
-          "version": {
-            "requires": "1.12.0"
-          }
-        },
-        {
           "group": "com.effective.android",
           "module": "panelSwitchHelper-androidx",
           "version": {
@@ -265,11 +265,11 @@
         {
           "name": "module-master-1.1.0.aar",
           "url": "module-master-1.1.0.aar",
-          "size": 4770713,
-          "sha512": "cf76be6e41eadf782a76d7db6c541620fe121e2de2014b0f1000927b805afeeda80b3a508d9cfc8d2eed3b05d6f165b63b218b0d8e50b26417a55e96070c6cc5",
-          "sha256": "e14c42b3c19a8091e639c86ac9e0a74cb955ebaf935ab6b4a89242a38a464910",
-          "sha1": "010da66c0908b4c1a1a9f875a6b4e2740275830b",
-          "md5": "03e8a5857726fe8b48b98a168656967f"
+          "size": 3788155,
+          "sha512": "57a49ed6e4622059f57788e710496ceb6d9adc32797bbc912df55ae11cc029f95f6889b1987aa1afd0b62788f1e872a6dff415623b02bd96d6f5fb9a4516accf",
+          "sha256": "a295e607b7c9f0516f2307beffbd9a30a035e80dc08ae94fa1ae0d8a3d6a9081",
+          "sha1": "c8a8f45a3bd23ec19a65df9c4a88cdfe23e50d82",
+          "md5": "c752733b4a00f53113df52730f7cc1ed"
         }
       ]
     },
@@ -374,6 +374,20 @@
           }
         },
         {
+          "group": "com.timecat.middle",
+          "module": "text",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "record-ext",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
           "group": "com.timecat.widget",
           "module": "board",
           "version": {
@@ -399,13 +413,6 @@
           "module": "autocomplete",
           "version": {
             "requires": "1.1.0"
-          }
-        },
-        {
-          "group": "xyz.aprildown",
-          "module": "HmsPickerView",
-          "version": {
-            "requires": "0.2.0"
           }
         },
         {
@@ -485,13 +492,6 @@
           }
         },
         {
-          "group": "com.getkeepsafe.taptargetview",
-          "module": "taptargetview",
-          "version": {
-            "requires": "1.12.0"
-          }
-        },
-        {
           "group": "com.effective.android",
           "module": "panelSwitchHelper-androidx",
           "version": {
@@ -531,11 +531,11 @@
         {
           "name": "module-master-1.1.0.aar",
           "url": "module-master-1.1.0.aar",
-          "size": 4770713,
-          "sha512": "cf76be6e41eadf782a76d7db6c541620fe121e2de2014b0f1000927b805afeeda80b3a508d9cfc8d2eed3b05d6f165b63b218b0d8e50b26417a55e96070c6cc5",
-          "sha256": "e14c42b3c19a8091e639c86ac9e0a74cb955ebaf935ab6b4a89242a38a464910",
-          "sha1": "010da66c0908b4c1a1a9f875a6b4e2740275830b",
-          "md5": "03e8a5857726fe8b48b98a168656967f"
+          "size": 3788155,
+          "sha512": "57a49ed6e4622059f57788e710496ceb6d9adc32797bbc912df55ae11cc029f95f6889b1987aa1afd0b62788f1e872a6dff415623b02bd96d6f5fb9a4516accf",
+          "sha256": "a295e607b7c9f0516f2307beffbd9a30a035e80dc08ae94fa1ae0d8a3d6a9081",
+          "sha1": "c8a8f45a3bd23ec19a65df9c4a88cdfe23e50d82",
+          "md5": "c752733b4a00f53113df52730f7cc1ed"
         }
       ]
     }

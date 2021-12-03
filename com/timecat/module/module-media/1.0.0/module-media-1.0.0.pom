@@ -53,7 +53,7 @@
     <dependency>
       <groupId>com.timecat.middle</groupId>
       <artifactId>text</artifactId>
-      <version>1.0.0</version>
+      <version>+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
