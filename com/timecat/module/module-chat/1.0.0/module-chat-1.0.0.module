@@ -112,11 +112,11 @@
         {
           "name": "module-chat-1.0.0.aar",
           "url": "module-chat-1.0.0.aar",
-          "size": 469065,
-          "sha512": "932c82d8938d7b2813504d5cef3f5c58ecb5c8e91f5c2d721128bd09494d9ee2bbe9edf0e005bdeab6aee0296f1646183e5a594e091a3af8c7473995a2918afe",
-          "sha256": "aab41b35bfd45932527c5efa2f9879c24c38fb09c911bbad02b07833e1ba6fee",
-          "sha1": "c26e5aece004d4f59b30176c8e8371c2913eeb17",
-          "md5": "2074bf8db8ba6275faf4007d9e31fe82"
+          "size": 469113,
+          "sha512": "a5e3f7a029954035d29fef34525d0f793d63900c102375bf50c3dda8c2ab9fde8d03cc48489b00c66fa28876fc111abcb86c6797f8c4019df26680109ce3e4d3",
+          "sha256": "ffaeedb0f85285c266aab78d86b0161bc18b11dec9d6ae983f9bd57312adde10",
+          "sha1": "d2926153fb1b0a4ae7e6c28a2a477ba90c543616",
+          "md5": "73001f9f38759612dc16a5cfe6714599"
         }
       ]
     },
@@ -218,11 +218,11 @@
         {
           "name": "module-chat-1.0.0.aar",
           "url": "module-chat-1.0.0.aar",
-          "size": 469065,
-          "sha512": "932c82d8938d7b2813504d5cef3f5c58ecb5c8e91f5c2d721128bd09494d9ee2bbe9edf0e005bdeab6aee0296f1646183e5a594e091a3af8c7473995a2918afe",
-          "sha256": "aab41b35bfd45932527c5efa2f9879c24c38fb09c911bbad02b07833e1ba6fee",
-          "sha1": "c26e5aece004d4f59b30176c8e8371c2913eeb17",
-          "md5": "2074bf8db8ba6275faf4007d9e31fe82"
+          "size": 469113,
+          "sha512": "a5e3f7a029954035d29fef34525d0f793d63900c102375bf50c3dda8c2ab9fde8d03cc48489b00c66fa28876fc111abcb86c6797f8c4019df26680109ce3e4d3",
+          "sha256": "ffaeedb0f85285c266aab78d86b0161bc18b11dec9d6ae983f9bd57312adde10",
+          "sha1": "d2926153fb1b0a4ae7e6c28a2a477ba90c543616",
+          "md5": "73001f9f38759612dc16a5cfe6714599"
         }
       ]
     }
