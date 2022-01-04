@@ -293,11 +293,11 @@
         {
           "name": "module-note-org-jar-1.1.0.aar",
           "url": "module-note-org-jar-1.1.0.aar",
-          "size": 4935312,
-          "sha512": "78b1a5fcfd1b6e6f854989b74fcfea8155c5e47a879e8d37b86238c6f7be0f3dff39001c0f98bad3148d59e732582e1ea439ff36430af769fa8c43693eb4f7be",
-          "sha256": "5896e00e457a4efce8443d985dcf9d546500ba560f44313415bbf11a9a5c8cac",
-          "sha1": "6c673442184707a91267e2b82c3c2d43f2d6f8f7",
-          "md5": "84d9af31be989488b9daa6701d53ad36"
+          "size": 4935454,
+          "sha512": "1a6978e7d7021ca22f0303116944013af5f63495977e178d2804312abe69af36ef6a0e10d42638530a9e69a6449117a9fd68b91b77d6f7edc4c527e530551c63",
+          "sha256": "c0f668dfc85e14b56584f3a71e9ac05c8b02dae600e98706427a3009113b293a",
+          "sha1": "51b8523d54e122ca314233f25c4e0edc9cc1e0a2",
+          "md5": "fbae4c96bc1f27a84058527c947fefd4"
         }
       ]
     },
@@ -580,11 +580,11 @@
         {
           "name": "module-note-org-jar-1.1.0.aar",
           "url": "module-note-org-jar-1.1.0.aar",
-          "size": 4935312,
-          "sha512": "78b1a5fcfd1b6e6f854989b74fcfea8155c5e47a879e8d37b86238c6f7be0f3dff39001c0f98bad3148d59e732582e1ea439ff36430af769fa8c43693eb4f7be",
-          "sha256": "5896e00e457a4efce8443d985dcf9d546500ba560f44313415bbf11a9a5c8cac",
-          "sha1": "6c673442184707a91267e2b82c3c2d43f2d6f8f7",
-          "md5": "84d9af31be989488b9daa6701d53ad36"
+          "size": 4935454,
+          "sha512": "1a6978e7d7021ca22f0303116944013af5f63495977e178d2804312abe69af36ef6a0e10d42638530a9e69a6449117a9fd68b91b77d6f7edc4c527e530551c63",
+          "sha256": "c0f668dfc85e14b56584f3a71e9ac05c8b02dae600e98706427a3009113b293a",
+          "sha1": "51b8523d54e122ca314233f25c4e0edc9cc1e0a2",
+          "md5": "fbae4c96bc1f27a84058527c947fefd4"
         }
       ]
     }
