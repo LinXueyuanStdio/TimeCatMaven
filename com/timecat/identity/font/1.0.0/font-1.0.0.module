@@ -10,47 +10,121 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.0.2"
+      "version": "7.4"
     }
   },
   "variants": [
     {
-      "name": "releaseApiPublication",
+      "name": "releaseVariantReleaseApiPublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
         "org.gradle.libraryelements": "aar",
         "org.gradle.usage": "java-api"
       },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
+        }
+      ],
       "files": [
         {
           "name": "font-1.0.0.aar",
           "url": "font-1.0.0.aar",
-          "size": 260258,
-          "sha512": "e963966e1cf6211e4f92c2fcc0082266c3b7dd5c804afbf8eb4cf8d75a8e345c3f5723bc21e339551db21439b162856028feded6e7b330eb91d4c5f0a13de0e7",
-          "sha256": "31b40589fe0d91f7701a2fb5d3eed1eb0cb6ea74cf6af43dcc2c1bae38b88102",
-          "sha1": "bf6f0a9dfe1d5ee3388c0579f8302f841769cc44",
-          "md5": "445bba97b12fc8bb3b165652bb672e91"
+          "size": 276929,
+          "sha512": "9829c4bc2dee053558499126d6617181c9ef7a7d1a0f34ff58aa242c321ea3031ee9b2bf5bcbde8a8474e7da7dfa1481068ea2603a75eef69f7494d618027937",
+          "sha256": "69e68a756aa718a90f3d3614c207ac3823ffb6fbaa935f30c3cf9b4624a3f57b",
+          "sha1": "4d09a317248e0bf8d0ff6c51abd964f1661834c6",
+          "md5": "22f4a5c04a95e20546a59234dff8bffb"
         }
       ]
     },
     {
-      "name": "releaseRuntimePublication",
+      "name": "releaseVariantReleaseRuntimePublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
         "org.gradle.libraryelements": "aar",
         "org.gradle.usage": "java-runtime"
       },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
+        }
+      ],
       "files": [
         {
           "name": "font-1.0.0.aar",
           "url": "font-1.0.0.aar",
-          "size": 260258,
-          "sha512": "e963966e1cf6211e4f92c2fcc0082266c3b7dd5c804afbf8eb4cf8d75a8e345c3f5723bc21e339551db21439b162856028feded6e7b330eb91d4c5f0a13de0e7",
-          "sha256": "31b40589fe0d91f7701a2fb5d3eed1eb0cb6ea74cf6af43dcc2c1bae38b88102",
-          "sha1": "bf6f0a9dfe1d5ee3388c0579f8302f841769cc44",
-          "md5": "445bba97b12fc8bb3b165652bb672e91"
+          "size": 276929,
+          "sha512": "9829c4bc2dee053558499126d6617181c9ef7a7d1a0f34ff58aa242c321ea3031ee9b2bf5bcbde8a8474e7da7dfa1481068ea2603a75eef69f7494d618027937",
+          "sha256": "69e68a756aa718a90f3d3614c207ac3823ffb6fbaa935f30c3cf9b4624a3f57b",
+          "sha1": "4d09a317248e0bf8d0ff6c51abd964f1661834c6",
+          "md5": "22f4a5c04a95e20546a59234dff8bffb"
         }
       ]
     }

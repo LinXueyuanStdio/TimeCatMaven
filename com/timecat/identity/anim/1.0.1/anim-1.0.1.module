@@ -10,12 +10,12 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.0.2"
+      "version": "7.4"
     }
   },
   "variants": [
     {
-      "name": "releaseApiPublication",
+      "name": "releaseVariantReleaseApiPublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -24,17 +24,45 @@
       },
       "dependencies": [
         {
-          "group": "androidx.appcompat",
-          "module": "appcompat",
-          "version": {
-            "requires": "1.3.1"
-          }
-        },
-        {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.7.20"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.5.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
           }
         }
       ],
@@ -42,16 +70,16 @@
         {
           "name": "anim-1.0.1.aar",
           "url": "anim-1.0.1.aar",
-          "size": 27270,
-          "sha512": "9552ab9ca8e9d517da9177268ae0ea9c555b78321a01d2e9d73f56aaf9f30c25abe9d64bf487743aa62dedd87d692edbd08f0f73f34506ae0130db308ebe4a21",
-          "sha256": "1fdd43efe0269796c022e673b5c8cb0b9e5a67b347c8a8342aed6b992e416bfa",
-          "sha1": "dbd61576f2475ba5d28c2a04742694f6d4501363",
-          "md5": "520bf098a44d0ab3341aabba3e6c0320"
+          "size": 43345,
+          "sha512": "127e6657cc73aeb94c672cce9353303e4620627828f7e957e733a63f6bfb6eb742c4f09effd840d1bfc348802681eb8938ac3593bae0deb9504ee12c58d68435",
+          "sha256": "e96707c308e62e240c85c2b5a06297e943f99f4d5d753744706b086e5ae27ae7",
+          "sha1": "5accc93100ffc8919ab0ec2c7aed62e5f3d89dab",
+          "md5": "55e8c2892b24a2f39a5452640b581d68"
         }
       ]
     },
     {
-      "name": "releaseRuntimePublication",
+      "name": "releaseVariantReleaseRuntimePublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -60,17 +88,45 @@
       },
       "dependencies": [
         {
-          "group": "androidx.appcompat",
-          "module": "appcompat",
-          "version": {
-            "requires": "1.3.1"
-          }
-        },
-        {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.7.20"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.5.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
           }
         }
       ],
@@ -78,11 +134,11 @@
         {
           "name": "anim-1.0.1.aar",
           "url": "anim-1.0.1.aar",
-          "size": 27270,
-          "sha512": "9552ab9ca8e9d517da9177268ae0ea9c555b78321a01d2e9d73f56aaf9f30c25abe9d64bf487743aa62dedd87d692edbd08f0f73f34506ae0130db308ebe4a21",
-          "sha256": "1fdd43efe0269796c022e673b5c8cb0b9e5a67b347c8a8342aed6b992e416bfa",
-          "sha1": "dbd61576f2475ba5d28c2a04742694f6d4501363",
-          "md5": "520bf098a44d0ab3341aabba3e6c0320"
+          "size": 43345,
+          "sha512": "127e6657cc73aeb94c672cce9353303e4620627828f7e957e733a63f6bfb6eb742c4f09effd840d1bfc348802681eb8938ac3593bae0deb9504ee12c58d68435",
+          "sha256": "e96707c308e62e240c85c2b5a06297e943f99f4d5d753744706b086e5ae27ae7",
+          "sha1": "5accc93100ffc8919ab0ec2c7aed62e5f3d89dab",
+          "md5": "55e8c2892b24a2f39a5452640b581d68"
         }
       ]
     }
