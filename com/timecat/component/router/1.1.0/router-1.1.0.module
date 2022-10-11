@@ -10,12 +10,12 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.0.2"
+      "version": "7.4"
     }
   },
   "variants": [
     {
-      "name": "releaseApiPublication",
+      "name": "releaseVariantReleaseApiPublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -24,10 +24,24 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "com.timecat.extend",
           "module": "arms",
           "version": {
             "requires": "+"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.5.1"
           }
         },
         {
@@ -36,22 +50,50 @@
           "version": {
             "requires": "v1.9.2-androidx-java8"
           }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
         }
       ],
       "files": [
         {
           "name": "router-1.1.0.aar",
           "url": "router-1.1.0.aar",
-          "size": 29223,
-          "sha512": "b5d53564ab32f898630ce12f5e1075eb069e1ce82bfa9e99991e77c493110f86b4ba724042ca4c44bbc666ea9355d47cb42f507be785990139439886ee468631",
-          "sha256": "0337a4a83d23e2592d58f57a1751fdf7c70ffe903c45efaf8cd15f2a0e6c863b",
-          "sha1": "8d398102cef4f316a15db4474d87eba8aea2bd1b",
-          "md5": "a5d1c062313dfe2b62d0c558c61935c4"
+          "size": 34241,
+          "sha512": "8cca116e4254c485ea355755a0baef7cbb6e533c44c6b3ec2563429d4beb55b14979f34dfd1f4659a3e4fe3aac775db44dca962cc55fa5c227bb36727e3c782d",
+          "sha256": "f7e6b9548c4b7d94d8da688ce1d0e56db7af0b22458558e19513aa20a8dac78e",
+          "sha1": "e3779d8be231a6a30835a5902a6825e8fc7869f2",
+          "md5": "1b25918e72722f05a912ff460532f01e"
         }
       ]
     },
     {
-      "name": "releaseRuntimePublication",
+      "name": "releaseVariantReleaseRuntimePublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -60,10 +102,24 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "com.timecat.extend",
           "module": "arms",
           "version": {
             "requires": "+"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.5.1"
           }
         },
         {
@@ -72,17 +128,45 @@
           "version": {
             "requires": "v1.9.2-androidx-java8"
           }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
         }
       ],
       "files": [
         {
           "name": "router-1.1.0.aar",
           "url": "router-1.1.0.aar",
-          "size": 29223,
-          "sha512": "b5d53564ab32f898630ce12f5e1075eb069e1ce82bfa9e99991e77c493110f86b4ba724042ca4c44bbc666ea9355d47cb42f507be785990139439886ee468631",
-          "sha256": "0337a4a83d23e2592d58f57a1751fdf7c70ffe903c45efaf8cd15f2a0e6c863b",
-          "sha1": "8d398102cef4f316a15db4474d87eba8aea2bd1b",
-          "md5": "a5d1c062313dfe2b62d0c558c61935c4"
+          "size": 34241,
+          "sha512": "8cca116e4254c485ea355755a0baef7cbb6e533c44c6b3ec2563429d4beb55b14979f34dfd1f4659a3e4fe3aac775db44dca962cc55fa5c227bb36727e3c782d",
+          "sha256": "f7e6b9548c4b7d94d8da688ce1d0e56db7af0b22458558e19513aa20a8dac78e",
+          "sha1": "e3779d8be231a6a30835a5902a6825e8fc7869f2",
+          "md5": "1b25918e72722f05a912ff460532f01e"
         }
       ]
     }

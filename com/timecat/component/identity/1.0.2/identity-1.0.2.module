@@ -10,12 +10,12 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.0.2"
+      "version": "7.4"
     }
   },
   "variants": [
     {
-      "name": "releaseApiPublication",
+      "name": "releaseVariantReleaseApiPublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -24,6 +24,13 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "com.timecat.identity",
           "module": "resources",
           "version": {
@@ -71,22 +78,50 @@
           "version": {
             "requires": "+"
           }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
         }
       ],
       "files": [
         {
           "name": "identity-1.0.2.aar",
           "url": "identity-1.0.2.aar",
-          "size": 71937,
-          "sha512": "d0e30b7966735cce094f980a6e6962a635f0f829f84c0f521e4935f203821fee0dfab8f9505a7d6bc91cab44619e0469c0be95b89a2c0b75550c4352ef651c27",
-          "sha256": "277f2f46734b1f0c380748dd29c40d6eb7ef9be4ae4f1bad6aa8887c19e7bd48",
-          "sha1": "edfed5e666e12d45609d23bd6a90acd24a0599d0",
-          "md5": "6622f1c8d7bbf81f3c46956419c1553b"
+          "size": 79661,
+          "sha512": "358e2b8626c1e4ec817b718930d349eafd14fb11e6e19ba04ecca4fbd10ef697696e528b18300cf336083ed7e6736d398b2750d089ed5c997991481671aff952",
+          "sha256": "a0ea119bc706fae44ab7a344d9631b1afa53f79a432996ca716555f922a45006",
+          "sha1": "a95c75e76da1ad9bed59e2ad0ba880416fbd0f60",
+          "md5": "bcb9f988f1d571092277ad1e61c3d7f5"
         }
       ]
     },
     {
-      "name": "releaseRuntimePublication",
+      "name": "releaseVariantReleaseRuntimePublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -95,6 +130,13 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "com.timecat.identity",
           "module": "resources",
           "version": {
@@ -142,17 +184,45 @@
           "version": {
             "requires": "+"
           }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
         }
       ],
       "files": [
         {
           "name": "identity-1.0.2.aar",
           "url": "identity-1.0.2.aar",
-          "size": 71937,
-          "sha512": "d0e30b7966735cce094f980a6e6962a635f0f829f84c0f521e4935f203821fee0dfab8f9505a7d6bc91cab44619e0469c0be95b89a2c0b75550c4352ef651c27",
-          "sha256": "277f2f46734b1f0c380748dd29c40d6eb7ef9be4ae4f1bad6aa8887c19e7bd48",
-          "sha1": "edfed5e666e12d45609d23bd6a90acd24a0599d0",
-          "md5": "6622f1c8d7bbf81f3c46956419c1553b"
+          "size": 79661,
+          "sha512": "358e2b8626c1e4ec817b718930d349eafd14fb11e6e19ba04ecca4fbd10ef697696e528b18300cf336083ed7e6736d398b2750d089ed5c997991481671aff952",
+          "sha256": "a0ea119bc706fae44ab7a344d9631b1afa53f79a432996ca716555f922a45006",
+          "sha1": "a95c75e76da1ad9bed59e2ad0ba880416fbd0f60",
+          "md5": "bcb9f988f1d571092277ad1e61c3d7f5"
         }
       ]
     }
