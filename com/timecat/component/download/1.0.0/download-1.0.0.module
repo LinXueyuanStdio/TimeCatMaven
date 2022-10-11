@@ -10,12 +10,12 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.0.2"
+      "version": "7.4"
     }
   },
   "variants": [
     {
-      "name": "releaseApiPublication",
+      "name": "releaseVariantReleaseApiPublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -27,7 +27,28 @@
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.3.1"
+            "requires": "1.5.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
           }
         }
       ],
@@ -35,16 +56,16 @@
         {
           "name": "download-1.0.0.aar",
           "url": "download-1.0.0.aar",
-          "size": 93498,
-          "sha512": "2d735474095faf0e931087d69494b65dac9338aea822882a87adb30d837d87e9bdb4dd43f8694eebeb83b806b57f8737797426fb8e7c8ace53e79a597ae93596",
-          "sha256": "6a5669397994baffa08d58e7fed540ffadb7b13d415e8ab52be283cc135de685",
-          "sha1": "a24e307292685703619ddb2aa75a35077438bafa",
-          "md5": "a204a90413226f3abc093152da5ecd34"
+          "size": 98247,
+          "sha512": "a6d4287ed93e0ce531ae4a09b314127b88248bfe2eaca8e42a179875a07c87f0235535f1e8bd810d50e8e4ad5397c807d3cba89341fc9028f13a362fb5b47d40",
+          "sha256": "8aac1eb42c081e782aa33723d0e6a69e7d20d78bcd735afab23f4e94579da2eb",
+          "sha1": "c88b8d2459ecab37979c4c378ecaf34dcbe0bbbe",
+          "md5": "4ddb20640cac8dec84c99c5f5c402f9c"
         }
       ]
     },
     {
-      "name": "releaseRuntimePublication",
+      "name": "releaseVariantReleaseRuntimePublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -56,7 +77,28 @@
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.3.1"
+            "requires": "1.5.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
           }
         }
       ],
@@ -64,11 +106,11 @@
         {
           "name": "download-1.0.0.aar",
           "url": "download-1.0.0.aar",
-          "size": 93498,
-          "sha512": "2d735474095faf0e931087d69494b65dac9338aea822882a87adb30d837d87e9bdb4dd43f8694eebeb83b806b57f8737797426fb8e7c8ace53e79a597ae93596",
-          "sha256": "6a5669397994baffa08d58e7fed540ffadb7b13d415e8ab52be283cc135de685",
-          "sha1": "a24e307292685703619ddb2aa75a35077438bafa",
-          "md5": "a204a90413226f3abc093152da5ecd34"
+          "size": 98247,
+          "sha512": "a6d4287ed93e0ce531ae4a09b314127b88248bfe2eaca8e42a179875a07c87f0235535f1e8bd810d50e8e4ad5397c807d3cba89341fc9028f13a362fb5b47d40",
+          "sha256": "8aac1eb42c081e782aa33723d0e6a69e7d20d78bcd735afab23f4e94579da2eb",
+          "sha1": "c88b8d2459ecab37979c4c378ecaf34dcbe0bbbe",
+          "md5": "4ddb20640cac8dec84c99c5f5c402f9c"
         }
       ]
     }

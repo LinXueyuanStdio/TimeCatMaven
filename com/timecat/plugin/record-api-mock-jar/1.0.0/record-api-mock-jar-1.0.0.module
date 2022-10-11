@@ -1,0 +1,160 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.plugin",
+    "module": "record-api-mock-jar",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.timecat.plugin",
+          "module": "record-api",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.plugin",
+          "module": "record-api-holder",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "record-api-mock-jar-1.0.0.aar",
+          "url": "record-api-mock-jar-1.0.0.aar",
+          "size": 107179,
+          "sha512": "5edbe4e7017a200e5f04e28673e8532143d3b5188ac6498a1174843cb3b0e8d9300017a7c155b6453f5cbf830fd45cd5f88ca129683d4a0237ffc667e48d115c",
+          "sha256": "3903219d55949bfc49a762f1ffd51481ed86807d8c3a517789941094a8ef749c",
+          "sha1": "282dfc0b9ac5d7f66e8363fc6a64d7435f495aa3",
+          "md5": "bd032f0e9151ca453bba2234bb65c4e2"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.timecat.plugin",
+          "module": "record-api",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.plugin",
+          "module": "record-api-holder",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "record-api-mock-jar-1.0.0.aar",
+          "url": "record-api-mock-jar-1.0.0.aar",
+          "size": 107179,
+          "sha512": "5edbe4e7017a200e5f04e28673e8532143d3b5188ac6498a1174843cb3b0e8d9300017a7c155b6453f5cbf830fd45cd5f88ca129683d4a0237ffc667e48d115c",
+          "sha256": "3903219d55949bfc49a762f1ffd51481ed86807d8c3a517789941094a8ef749c",
+          "sha1": "282dfc0b9ac5d7f66e8363fc6a64d7435f495aa3",
+          "md5": "bd032f0e9151ca453bba2234bb65c4e2"
+        }
+      ]
+    }
+  ]
+}

@@ -10,12 +10,12 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.0.2"
+      "version": "7.4"
     }
   },
   "variants": [
     {
-      "name": "releaseApiPublication",
+      "name": "releaseVariantReleaseApiPublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -27,7 +27,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.30"
+            "requires": "1.7.20"
           },
           "excludes": [
             {
@@ -144,7 +144,7 @@
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "7.0.0"
+            "requires": "7.3.0"
           },
           "excludes": [
             {
@@ -157,7 +157,7 @@
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "7.0.0"
+            "requires": "7.3.0"
           },
           "excludes": [
             {
@@ -170,7 +170,7 @@
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "7.0.0"
+            "requires": "7.3.0"
           },
           "excludes": [
             {
@@ -183,7 +183,7 @@
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "7.0.0"
+            "requires": "7.3.0"
           },
           "excludes": [
             {
@@ -197,16 +197,16 @@
         {
           "name": "module-plugin-1.0.0.aar",
           "url": "module-plugin-1.0.0.aar",
-          "size": 304838,
-          "sha512": "259bb1865f34403e559307c926777375ab19d61ac768d15e7d992314725d81a8966ffb28720719092b5d989402f4891b9d79fbf1492ab81ff0b4c7ba342c4d92",
-          "sha256": "6227e0a48637921f86d89586d753194aa262e34b08e3057cf67a1df884f3b387",
-          "sha1": "0fc02c8bcd1a51d9a133f5b876e417b34f897325",
-          "md5": "0e8e956afd5e4c17cea3b9ac63299322"
+          "size": 311197,
+          "sha512": "f5d3623b2e28c26471c29166a2ff006afe602aa614295962611dda28e9292a131058ec478b2737d4aadf6a6ffc7be64ae01df4772d4efda63ac0f3bc10ac8e78",
+          "sha256": "9528068dae854b96b82f983b991ea2396120630088351fe656deb9e170074ba8",
+          "sha1": "4cc68a965e7e23b55967086602d2a718cc3d660d",
+          "md5": "fbfa119f02da52d19e41cbac61d61e48"
         }
       ]
     },
     {
-      "name": "releaseRuntimePublication",
+      "name": "releaseVariantReleaseRuntimePublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -218,7 +218,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.30"
+            "requires": "1.7.20"
           },
           "excludes": [
             {
@@ -335,7 +335,7 @@
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "7.0.0"
+            "requires": "7.3.0"
           },
           "excludes": [
             {
@@ -348,7 +348,7 @@
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "7.0.0"
+            "requires": "7.3.0"
           },
           "excludes": [
             {
@@ -361,7 +361,7 @@
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "7.0.0"
+            "requires": "7.3.0"
           },
           "excludes": [
             {
@@ -374,7 +374,7 @@
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "7.0.0"
+            "requires": "7.3.0"
           },
           "excludes": [
             {
@@ -388,11 +388,11 @@
         {
           "name": "module-plugin-1.0.0.aar",
           "url": "module-plugin-1.0.0.aar",
-          "size": 304838,
-          "sha512": "259bb1865f34403e559307c926777375ab19d61ac768d15e7d992314725d81a8966ffb28720719092b5d989402f4891b9d79fbf1492ab81ff0b4c7ba342c4d92",
-          "sha256": "6227e0a48637921f86d89586d753194aa262e34b08e3057cf67a1df884f3b387",
-          "sha1": "0fc02c8bcd1a51d9a133f5b876e417b34f897325",
-          "md5": "0e8e956afd5e4c17cea3b9ac63299322"
+          "size": 311197,
+          "sha512": "f5d3623b2e28c26471c29166a2ff006afe602aa614295962611dda28e9292a131058ec478b2737d4aadf6a6ffc7be64ae01df4772d4efda63ac0f3bc10ac8e78",
+          "sha256": "9528068dae854b96b82f983b991ea2396120630088351fe656deb9e170074ba8",
+          "sha1": "4cc68a965e7e23b55967086602d2a718cc3d660d",
+          "md5": "fbfa119f02da52d19e41cbac61d61e48"
         }
       ]
     }
