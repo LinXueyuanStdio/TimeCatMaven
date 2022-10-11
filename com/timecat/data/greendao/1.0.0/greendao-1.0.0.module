@@ -10,12 +10,12 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.0.2"
+      "version": "7.4"
     }
   },
   "variants": [
     {
-      "name": "releaseApiPublication",
+      "name": "releaseVariantReleaseApiPublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -24,6 +24,13 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
@@ -34,7 +41,7 @@
           "group": "joda-time",
           "module": "joda-time",
           "version": {
-            "requires": "2.10.1"
+            "requires": "2.10.10"
           }
         },
         {
@@ -50,22 +57,50 @@
           "version": {
             "requires": "v2.1.0"
           }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
         }
       ],
       "files": [
         {
           "name": "greendao-1.0.0.aar",
           "url": "greendao-1.0.0.aar",
-          "size": 35297,
-          "sha512": "7736b68c59c938c08dfaf627c9939cf671901d8e71c07dfb2357a443c4b16918a54ef97805119c72a980effbd1f2dd2ba880eaf57ba0f414f5757f5e6e566a8c",
-          "sha256": "4fae8c03f2d52a0c45f79ac1656f5bd83d339a4d1e46e12549085d5a9f37b386",
-          "sha1": "b82cb414dc9f01d22a69c40e6f019c298096cd92",
-          "md5": "ae68a41e64d2188e5444280da21566f7"
+          "size": 39725,
+          "sha512": "920fbf33130661b20fa71ba002587c941d093d5c2f93073ca025db278191eb2369b1046287d548cc26780a802caf554068305cac461b514b578c472c3d5b648b",
+          "sha256": "d76c4bc2f6c12075b92033a2592068103a32a7b7edd61b05dc0786d25ae2c7cd",
+          "sha1": "d04fd3f80659531a1e2b59b3efc862b7ec6062b9",
+          "md5": "a5e5ab28c0edd4c980934a02fb2793a5"
         }
       ]
     },
     {
-      "name": "releaseRuntimePublication",
+      "name": "releaseVariantReleaseRuntimePublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -74,6 +109,13 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
@@ -84,7 +126,7 @@
           "group": "joda-time",
           "module": "joda-time",
           "version": {
-            "requires": "2.10.1"
+            "requires": "2.10.10"
           }
         },
         {
@@ -100,17 +142,45 @@
           "version": {
             "requires": "v2.1.0"
           }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
         }
       ],
       "files": [
         {
           "name": "greendao-1.0.0.aar",
           "url": "greendao-1.0.0.aar",
-          "size": 35297,
-          "sha512": "7736b68c59c938c08dfaf627c9939cf671901d8e71c07dfb2357a443c4b16918a54ef97805119c72a980effbd1f2dd2ba880eaf57ba0f414f5757f5e6e566a8c",
-          "sha256": "4fae8c03f2d52a0c45f79ac1656f5bd83d339a4d1e46e12549085d5a9f37b386",
-          "sha1": "b82cb414dc9f01d22a69c40e6f019c298096cd92",
-          "md5": "ae68a41e64d2188e5444280da21566f7"
+          "size": 39725,
+          "sha512": "920fbf33130661b20fa71ba002587c941d093d5c2f93073ca025db278191eb2369b1046287d548cc26780a802caf554068305cac461b514b578c472c3d5b648b",
+          "sha256": "d76c4bc2f6c12075b92033a2592068103a32a7b7edd61b05dc0786d25ae2c7cd",
+          "sha1": "d04fd3f80659531a1e2b59b3efc862b7ec6062b9",
+          "md5": "a5e5ab28c0edd4c980934a02fb2793a5"
         }
       ]
     }

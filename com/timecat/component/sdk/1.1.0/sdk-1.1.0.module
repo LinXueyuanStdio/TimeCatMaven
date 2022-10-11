@@ -10,12 +10,12 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.0.2"
+      "version": "7.4"
     }
   },
   "variants": [
     {
-      "name": "releaseApiPublication",
+      "name": "releaseVariantReleaseApiPublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -24,6 +24,13 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "com.timecat.extend",
           "module": "arms",
           "version": {
@@ -41,21 +48,21 @@
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.3.1"
+            "requires": "1.5.1"
           }
         },
         {
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.4.0"
+            "requires": "1.6.1"
           }
         },
         {
           "group": "androidx.core",
           "module": "core",
           "version": {
-            "requires": "1.6.0"
+            "requires": "1.9.0"
           }
         },
         {
@@ -142,10 +149,31 @@
           }
         },
         {
-          "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
+          "group": "androidx.databinding",
+          "module": "databinding-common",
           "version": {
-            "requires": "1.5.30"
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
           }
         }
       ],
@@ -153,16 +181,16 @@
         {
           "name": "sdk-1.1.0.aar",
           "url": "sdk-1.1.0.aar",
-          "size": 382222,
-          "sha512": "fafd1b5cce8df890a8da4ead7c39156b3419edd90e5422a0c84f314e852f1beb21cc2d3f6ec9c7c18b33aca046e80853a79aa41955f941b17848fa84680fe0e2",
-          "sha256": "977ed77092ccabfe027d533f88338cb4e26488b949e2e6d25727ddb9e6a89dc5",
-          "sha1": "31bf8346418fa9454ad8e6d6751e6a43833221b2",
-          "md5": "4a849b2053f1483ecc4be7a84fcd1a2a"
+          "size": 390170,
+          "sha512": "2e256a3d3a646806652dc1cfb99fe54567e05e1f00b37f34929fdc9649b1958cdf50d64178a03fa04c298bf1876ce9be4f27664fffed86d1136caa06474f1e07",
+          "sha256": "dc82c95e0d2e8849f3e7802d4f9ed8df798308c46e109ff31688ba6703eb7d5e",
+          "sha1": "80fae3567950c1ab3b356cb0b5d26ce2d4bdb5ef",
+          "md5": "cc60f9fbd683c6b0733871bdfe98f62d"
         }
       ]
     },
     {
-      "name": "releaseRuntimePublication",
+      "name": "releaseVariantReleaseRuntimePublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -171,6 +199,13 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "com.timecat.extend",
           "module": "arms",
           "version": {
@@ -188,21 +223,21 @@
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.3.1"
+            "requires": "1.5.1"
           }
         },
         {
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.4.0"
+            "requires": "1.6.1"
           }
         },
         {
           "group": "androidx.core",
           "module": "core",
           "version": {
-            "requires": "1.6.0"
+            "requires": "1.9.0"
           }
         },
         {
@@ -289,10 +324,31 @@
           }
         },
         {
-          "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
+          "group": "androidx.databinding",
+          "module": "databinding-common",
           "version": {
-            "requires": "1.5.30"
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
           }
         }
       ],
@@ -300,11 +356,11 @@
         {
           "name": "sdk-1.1.0.aar",
           "url": "sdk-1.1.0.aar",
-          "size": 382222,
-          "sha512": "fafd1b5cce8df890a8da4ead7c39156b3419edd90e5422a0c84f314e852f1beb21cc2d3f6ec9c7c18b33aca046e80853a79aa41955f941b17848fa84680fe0e2",
-          "sha256": "977ed77092ccabfe027d533f88338cb4e26488b949e2e6d25727ddb9e6a89dc5",
-          "sha1": "31bf8346418fa9454ad8e6d6751e6a43833221b2",
-          "md5": "4a849b2053f1483ecc4be7a84fcd1a2a"
+          "size": 390170,
+          "sha512": "2e256a3d3a646806652dc1cfb99fe54567e05e1f00b37f34929fdc9649b1958cdf50d64178a03fa04c298bf1876ce9be4f27664fffed86d1136caa06474f1e07",
+          "sha256": "dc82c95e0d2e8849f3e7802d4f9ed8df798308c46e109ff31688ba6703eb7d5e",
+          "sha1": "80fae3567950c1ab3b356cb0b5d26ce2d4bdb5ef",
+          "md5": "cc60f9fbd683c6b0733871bdfe98f62d"
         }
       ]
     }

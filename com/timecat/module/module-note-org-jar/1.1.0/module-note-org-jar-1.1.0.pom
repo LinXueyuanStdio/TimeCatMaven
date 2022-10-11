@@ -29,7 +29,7 @@
     <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
       <artifactId>kotlin-stdlib-jdk8</artifactId>
-      <version>1.5.30</version>
+      <version>1.7.20</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -83,7 +83,7 @@
     <dependency>
       <groupId>com.github.chrisbanes</groupId>
       <artifactId>PhotoView</artifactId>
-      <version>2.0.0</version>
+      <version>2.3.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -137,13 +137,13 @@
     <dependency>
       <groupId>androidx.appcompat</groupId>
       <artifactId>appcompat</artifactId>
-      <version>1.3.1</version>
+      <version>1.5.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.google.android.material</groupId>
       <artifactId>material</artifactId>
-      <version>1.4.0</version>
+      <version>1.6.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -155,7 +155,7 @@
     <dependency>
       <groupId>androidx.preference</groupId>
       <artifactId>preference</artifactId>
-      <version>1.1.1</version>
+      <version>1.2.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -179,19 +179,13 @@
     <dependency>
       <groupId>androidx.localbroadcastmanager</groupId>
       <artifactId>localbroadcastmanager</artifactId>
-      <version>1.0.0</version>
+      <version>1.1.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.room</groupId>
       <artifactId>room-runtime</artifactId>
-      <version>2.3.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.lifecycle</groupId>
-      <artifactId>lifecycle-extensions</artifactId>
-      <version>2.2.0</version>
+      <version>2.4.3</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -233,25 +227,25 @@
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-common</artifactId>
-      <version>7.0.0</version>
+      <version>7.3.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-runtime</artifactId>
-      <version>7.0.0</version>
+      <version>7.3.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-adapters</artifactId>
-      <version>7.0.0</version>
+      <version>7.3.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-ktx</artifactId>
-      <version>7.0.0</version>
+      <version>7.3.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>

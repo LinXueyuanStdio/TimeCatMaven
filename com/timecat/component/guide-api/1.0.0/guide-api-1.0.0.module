@@ -10,47 +10,93 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.0.2"
+      "version": "7.4"
     }
   },
   "variants": [
     {
-      "name": "releaseApiPublication",
+      "name": "releaseVariantReleaseApiPublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
         "org.gradle.libraryelements": "aar",
         "org.gradle.usage": "java-api"
       },
+      "dependencies": [
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        }
+      ],
       "files": [
         {
           "name": "guide-api-1.0.0.aar",
           "url": "guide-api-1.0.0.aar",
-          "size": 2383,
-          "sha512": "b5fd066557d6f6257f81dd60f4dabe178f0d20c14f4a2f5382b5c4404d49e0fccc425e57ab00e10f8052885019454fa7aebe83e06c8de9ac6535907af12f9d85",
-          "sha256": "6037e96fb7e6b88e847d0fadc0277200d633bab90e35aa6f39e567ca3776cee7",
-          "sha1": "92daa32fa1ff1de3780bc5e46069a25721e32a5e",
-          "md5": "8d181a854d7fccbb5d4831e3b4c2689d"
+          "size": 17442,
+          "sha512": "cbc8bcaa953e11eb98b4f267296c966aab1b7628356e43f9a3c05a1a6bfcaec4030358118e41e7f3559a5f78c9b554e9e4ab8fd776efb9ef2bd332df39ee6871",
+          "sha256": "67cbcc1c077257126d30661ec618981573d62f9333e9484c27316ec69ae9addb",
+          "sha1": "fdeaa8a8fbac736c71b9e047b7f610ea42b81355",
+          "md5": "79e74375db47e5963089f564dd2b287d"
         }
       ]
     },
     {
-      "name": "releaseRuntimePublication",
+      "name": "releaseVariantReleaseRuntimePublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
         "org.gradle.libraryelements": "aar",
         "org.gradle.usage": "java-runtime"
       },
+      "dependencies": [
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        }
+      ],
       "files": [
         {
           "name": "guide-api-1.0.0.aar",
           "url": "guide-api-1.0.0.aar",
-          "size": 2383,
-          "sha512": "b5fd066557d6f6257f81dd60f4dabe178f0d20c14f4a2f5382b5c4404d49e0fccc425e57ab00e10f8052885019454fa7aebe83e06c8de9ac6535907af12f9d85",
-          "sha256": "6037e96fb7e6b88e847d0fadc0277200d633bab90e35aa6f39e567ca3776cee7",
-          "sha1": "92daa32fa1ff1de3780bc5e46069a25721e32a5e",
-          "md5": "8d181a854d7fccbb5d4831e3b4c2689d"
+          "size": 17442,
+          "sha512": "cbc8bcaa953e11eb98b4f267296c966aab1b7628356e43f9a3c05a1a6bfcaec4030358118e41e7f3559a5f78c9b554e9e4ab8fd776efb9ef2bd332df39ee6871",
+          "sha256": "67cbcc1c077257126d30661ec618981573d62f9333e9484c27316ec69ae9addb",
+          "sha1": "fdeaa8a8fbac736c71b9e047b7f610ea42b81355",
+          "md5": "79e74375db47e5963089f564dd2b287d"
         }
       ]
     }

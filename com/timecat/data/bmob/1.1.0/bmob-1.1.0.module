@@ -10,12 +10,12 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.0.2"
+      "version": "7.4"
     }
   },
   "variants": [
     {
-      "name": "releaseApiPublication",
+      "name": "releaseVariantReleaseApiPublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -24,6 +24,13 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "com.timecat.extend",
           "module": "arms",
           "version": {
@@ -80,10 +87,31 @@
           }
         },
         {
-          "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
+          "group": "androidx.databinding",
+          "module": "databinding-common",
           "version": {
-            "requires": "1.5.30"
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
           }
         }
       ],
@@ -91,16 +119,16 @@
         {
           "name": "bmob-1.1.0.aar",
           "url": "bmob-1.1.0.aar",
-          "size": 1708384,
-          "sha512": "979e70ee0dc11f53522ab108a36a1f6a344947af18fa6bfd70a3c61921eeec4637f4a06d512ae2ddf4f92b1e21a4e3f5989ac816eda85ced83bc3be700a3e3f2",
-          "sha256": "a790569678fb7314a9c7bb0539e23932c407be7f0b6483b7e72b91b499698c7a",
-          "sha1": "1b9947e688cd1f6d344b3c87e1dfd8b04f9ea9bb",
-          "md5": "c3be6db0105dec76fc843c1a21caaf1a"
+          "size": 1735474,
+          "sha512": "f40e08dd012823dbd77855ba3a84910a7e314f34c4b24b0f038b4e946a4073b4b4111e51e20bc74357bdc76db52742ad3acfd07b290b1d7a4cdcc47faf46bb73",
+          "sha256": "5b874a21fbddddceea509844135605f495a064735041cb4e390ebf0e2733df60",
+          "sha1": "426495f9f71105c050e556430666a94dddfeb03c",
+          "md5": "4a3007e336f5fbe43d7f9476f06340d6"
         }
       ]
     },
     {
-      "name": "releaseRuntimePublication",
+      "name": "releaseVariantReleaseRuntimePublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -109,6 +137,13 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "com.timecat.extend",
           "module": "arms",
           "version": {
@@ -165,10 +200,31 @@
           }
         },
         {
-          "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
+          "group": "androidx.databinding",
+          "module": "databinding-common",
           "version": {
-            "requires": "1.5.30"
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
           }
         }
       ],
@@ -176,11 +232,11 @@
         {
           "name": "bmob-1.1.0.aar",
           "url": "bmob-1.1.0.aar",
-          "size": 1708384,
-          "sha512": "979e70ee0dc11f53522ab108a36a1f6a344947af18fa6bfd70a3c61921eeec4637f4a06d512ae2ddf4f92b1e21a4e3f5989ac816eda85ced83bc3be700a3e3f2",
-          "sha256": "a790569678fb7314a9c7bb0539e23932c407be7f0b6483b7e72b91b499698c7a",
-          "sha1": "1b9947e688cd1f6d344b3c87e1dfd8b04f9ea9bb",
-          "md5": "c3be6db0105dec76fc843c1a21caaf1a"
+          "size": 1735474,
+          "sha512": "f40e08dd012823dbd77855ba3a84910a7e314f34c4b24b0f038b4e946a4073b4b4111e51e20bc74357bdc76db52742ad3acfd07b290b1d7a4cdcc47faf46bb73",
+          "sha256": "5b874a21fbddddceea509844135605f495a064735041cb4e390ebf0e2733df60",
+          "sha1": "426495f9f71105c050e556430666a94dddfeb03c",
+          "md5": "4a3007e336f5fbe43d7f9476f06340d6"
         }
       ]
     }
