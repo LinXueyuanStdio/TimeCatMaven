@@ -10,12 +10,12 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.0.2"
+      "version": "7.4"
     }
   },
   "variants": [
     {
-      "name": "releaseApiPublication",
+      "name": "releaseVariantReleaseApiPublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -27,7 +27,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.7.20"
           }
         },
         {
@@ -83,7 +83,7 @@
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.3.1"
+            "requires": "1.5.1"
           }
         },
         {
@@ -120,22 +120,50 @@
           "version": {
             "requires": "2.9.0"
           }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
         }
       ],
       "files": [
         {
           "name": "module-timetable-jar-1.1.0.aar",
           "url": "module-timetable-jar-1.1.0.aar",
-          "size": 647324,
-          "sha512": "cb33d0a33249c0b2cec8c837eb10cec4b26d838510d9ed7cbce9ee15bec3f2dedf2016807af31c2e4b87fff3d7d02a1d81d0b6cd962ff62a6eaeaecd6f7b088e",
-          "sha256": "4a719e73d127f009d92ccf73a9435032aa37cfbd19f081a180f53959dc168be7",
-          "sha1": "45e14c4262e84597ce2954cc557b4cf50aa865b9",
-          "md5": "6845cea6db5b7ca3a9713fb333c6add3"
+          "size": 655406,
+          "sha512": "0e3d3e66c70ca0b0042b57528c3b5b95304501308a495a5d651c3e0b5fbf2c1173a8bda3a028ae5a8de628f58a13e895af4c9eb6256caaa5009aadfc6ec44df7",
+          "sha256": "c7280733fe106d60d37a82348b584c500595cbc20d14b7fab1aff5c13f3c6385",
+          "sha1": "f996d24131ecd470747ec9226693d4b061746a6f",
+          "md5": "bf2d31e47d422b4e1e59d25aa4161537"
         }
       ]
     },
     {
-      "name": "releaseRuntimePublication",
+      "name": "releaseVariantReleaseRuntimePublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -147,7 +175,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.5.21"
+            "requires": "1.7.20"
           }
         },
         {
@@ -203,7 +231,7 @@
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.3.1"
+            "requires": "1.5.1"
           }
         },
         {
@@ -239,6 +267,34 @@
           "module": "converter-gson",
           "version": {
             "requires": "2.9.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
           }
         },
         {
@@ -287,7 +343,7 @@
           "group": "org.greenrobot",
           "module": "eventbus",
           "version": {
-            "requires": "3.1.1"
+            "requires": "3.2.0"
           }
         }
       ],
@@ -295,11 +351,11 @@
         {
           "name": "module-timetable-jar-1.1.0.aar",
           "url": "module-timetable-jar-1.1.0.aar",
-          "size": 647324,
-          "sha512": "cb33d0a33249c0b2cec8c837eb10cec4b26d838510d9ed7cbce9ee15bec3f2dedf2016807af31c2e4b87fff3d7d02a1d81d0b6cd962ff62a6eaeaecd6f7b088e",
-          "sha256": "4a719e73d127f009d92ccf73a9435032aa37cfbd19f081a180f53959dc168be7",
-          "sha1": "45e14c4262e84597ce2954cc557b4cf50aa865b9",
-          "md5": "6845cea6db5b7ca3a9713fb333c6add3"
+          "size": 655406,
+          "sha512": "0e3d3e66c70ca0b0042b57528c3b5b95304501308a495a5d651c3e0b5fbf2c1173a8bda3a028ae5a8de628f58a13e895af4c9eb6256caaa5009aadfc6ec44df7",
+          "sha256": "c7280733fe106d60d37a82348b584c500595cbc20d14b7fab1aff5c13f3c6385",
+          "sha1": "f996d24131ecd470747ec9226693d4b061746a6f",
+          "md5": "bf2d31e47d422b4e1e59d25aa4161537"
         }
       ]
     }
