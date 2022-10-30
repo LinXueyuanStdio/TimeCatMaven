@@ -33,17 +33,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <artifactId>ocrsdk</artifactId>
-      <type>aar</type>
-      <scope>compile</scope>
-      <exclusions>
-        <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
-        </exclusion>
-      </exclusions>
-    </dependency>
-    <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-common</artifactId>
       <version>7.3.0</version>

@@ -63,11 +63,11 @@
         {
           "name": "xunfei-1.0.0.aar",
           "url": "xunfei-1.0.0.aar",
-          "size": 3173080,
-          "sha512": "19616d0664ee8d3fe273df466297243c8845aa37a51902928432327fb50a82b8fec4fc2fb6c9e5239fcdeb1e248fe96b8b435bc3d7a8c651aba14048cde534e6",
-          "sha256": "d2278e87bf148db93709cbc99c2c50360f1a5cfc19448a59f7aeb7b2907db57d",
-          "sha1": "8d6d9fe5edf3ede38b6e87f456c8eeeea11ab1e1",
-          "md5": "a70b376575a3715c5e7ce96bf873b2e8"
+          "size": 3173088,
+          "sha512": "a613d49407f3b91d4cc97218d4589b3edaeb600fa5f1b4a1abccfd7fafb0083688363cc5ffac6c72bcdd3199a2c3e19f477285c0dae23dcad1246ddec268d414",
+          "sha256": "0d01afa2943dce9988624f2674b3e9eba8cbc39a8d28aa9534dda6956a81a309",
+          "sha1": "dd570e7ac5df160e7cdc664a1b1bd4f2ccca8852",
+          "md5": "a4ddb8b3c6cc690a9be2918e3013baa1"
         }
       ]
     },
@@ -120,11 +120,11 @@
         {
           "name": "xunfei-1.0.0.aar",
           "url": "xunfei-1.0.0.aar",
-          "size": 3173080,
-          "sha512": "19616d0664ee8d3fe273df466297243c8845aa37a51902928432327fb50a82b8fec4fc2fb6c9e5239fcdeb1e248fe96b8b435bc3d7a8c651aba14048cde534e6",
-          "sha256": "d2278e87bf148db93709cbc99c2c50360f1a5cfc19448a59f7aeb7b2907db57d",
-          "sha1": "8d6d9fe5edf3ede38b6e87f456c8eeeea11ab1e1",
-          "md5": "a70b376575a3715c5e7ce96bf873b2e8"
+          "size": 3173088,
+          "sha512": "a613d49407f3b91d4cc97218d4589b3edaeb600fa5f1b4a1abccfd7fafb0083688363cc5ffac6c72bcdd3199a2c3e19f477285c0dae23dcad1246ddec268d414",
+          "sha256": "0d01afa2943dce9988624f2674b3e9eba8cbc39a8d28aa9534dda6956a81a309",
+          "sha1": "dd570e7ac5df160e7cdc664a1b1bd4f2ccca8852",
+          "md5": "a4ddb8b3c6cc690a9be2918e3013baa1"
         }
       ]
     }

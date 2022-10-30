@@ -76,7 +76,7 @@
           "group": "androidx.constraintlayout",
           "module": "constraintlayout",
           "version": {
-            "requires": "2.0.1"
+            "requires": "2.1.4"
           }
         },
         {
@@ -203,11 +203,11 @@
         {
           "name": "ui-jar-1.0.7.aar",
           "url": "ui-jar-1.0.7.aar",
-          "size": 1044133,
-          "sha512": "677dbd6d0f5bb5995be717aea508b3da08cca8da8f4016be51562129eacaf4f2e66c91157ecca13cf2927e5355852bec19c030aa83648bd08a210b07e90321c1",
-          "sha256": "25424e3d74db1ee92ca053817ca4f6d6cd3e09a8990329341f6fa61cf10e4793",
-          "sha1": "93d325126cbbdcdcdb16bf2c4c7b286368b0ae42",
-          "md5": "70d24fa1d24bd6d6ad4bf84c0b52769a"
+          "size": 1048528,
+          "sha512": "04ff5d2c6cb94a20df1d6e0b115c531b46d9bf53369f7f851921904cc402b59f94378770062d21e0ebc45fcff02f1aa5f14009f0d5b8a72cc77c67900c1f4b5e",
+          "sha256": "74ef13356beb6f394ae6e292dcdaeded788beeed1a9612faedff2ac2999cca2d",
+          "sha1": "683b074a5aa0183907a9b47752dbeaacee2f21d9",
+          "md5": "bf8f0d46f012d464135a5accf80fac3e"
         }
       ]
     },
@@ -280,7 +280,7 @@
           "group": "androidx.constraintlayout",
           "module": "constraintlayout",
           "version": {
-            "requires": "2.0.1"
+            "requires": "2.1.4"
           }
         },
         {
@@ -407,11 +407,11 @@
         {
           "name": "ui-jar-1.0.7.aar",
           "url": "ui-jar-1.0.7.aar",
-          "size": 1044133,
-          "sha512": "677dbd6d0f5bb5995be717aea508b3da08cca8da8f4016be51562129eacaf4f2e66c91157ecca13cf2927e5355852bec19c030aa83648bd08a210b07e90321c1",
-          "sha256": "25424e3d74db1ee92ca053817ca4f6d6cd3e09a8990329341f6fa61cf10e4793",
-          "sha1": "93d325126cbbdcdcdb16bf2c4c7b286368b0ae42",
-          "md5": "70d24fa1d24bd6d6ad4bf84c0b52769a"
+          "size": 1048528,
+          "sha512": "04ff5d2c6cb94a20df1d6e0b115c531b46d9bf53369f7f851921904cc402b59f94378770062d21e0ebc45fcff02f1aa5f14009f0d5b8a72cc77c67900c1f4b5e",
+          "sha256": "74ef13356beb6f394ae6e292dcdaeded788beeed1a9612faedff2ac2999cca2d",
+          "sha1": "683b074a5aa0183907a9b47752dbeaacee2f21d9",
+          "md5": "bf8f0d46f012d464135a5accf80fac3e"
         }
       ]
     }

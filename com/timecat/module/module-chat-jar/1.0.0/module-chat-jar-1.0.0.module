@@ -133,11 +133,11 @@
         {
           "name": "module-chat-jar-1.0.0.aar",
           "url": "module-chat-jar-1.0.0.aar",
-          "size": 409478,
-          "sha512": "1df3268047727503fd30916617845f5fb44cf958e435484fa2ad0830f5b2a5141bdc3d2afe4ad75c6925ebddedbcc0f623afca10fc515c8ccc2b4d83d00699f0",
-          "sha256": "79608c32c05442c238111945ca032f4de185039f80bac82657a81b04cb15f5aa",
-          "sha1": "36750fcbc1e4d5c88fd79c3a7d280873312dbfc5",
-          "md5": "7f2a206b5bd77d6a7af35964151c78c7"
+          "size": 411139,
+          "sha512": "7350ac54f069406ad49ca162d1fd4fcdff4ecff97dd83679fc656d90cf0f43b15da3f4f603a64feccc51431c4f99fafa831671427cbd4ffb339a2efdd6be58e5",
+          "sha256": "89f5b3ae078f8a5a1f6a621657ff1887e7398228360d34e89bba1f9ee0a0bafc",
+          "sha1": "d1c476d2e0c3c20df0e93ac5a5bccdc764cfb755",
+          "md5": "4a4c4dec318e9190d7d1e59607501773"
         }
       ]
     },
@@ -260,11 +260,11 @@
         {
           "name": "module-chat-jar-1.0.0.aar",
           "url": "module-chat-jar-1.0.0.aar",
-          "size": 409478,
-          "sha512": "1df3268047727503fd30916617845f5fb44cf958e435484fa2ad0830f5b2a5141bdc3d2afe4ad75c6925ebddedbcc0f623afca10fc515c8ccc2b4d83d00699f0",
-          "sha256": "79608c32c05442c238111945ca032f4de185039f80bac82657a81b04cb15f5aa",
-          "sha1": "36750fcbc1e4d5c88fd79c3a7d280873312dbfc5",
-          "md5": "7f2a206b5bd77d6a7af35964151c78c7"
+          "size": 411139,
+          "sha512": "7350ac54f069406ad49ca162d1fd4fcdff4ecff97dd83679fc656d90cf0f43b15da3f4f603a64feccc51431c4f99fafa831671427cbd4ffb339a2efdd6be58e5",
+          "sha256": "89f5b3ae078f8a5a1f6a621657ff1887e7398228360d34e89bba1f9ee0a0bafc",
+          "sha1": "d1c476d2e0c3c20df0e93ac5a5bccdc764cfb755",
+          "md5": "4a4c4dec318e9190d7d1e59607501773"
         }
       ]
     }

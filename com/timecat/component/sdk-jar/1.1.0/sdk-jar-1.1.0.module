@@ -55,7 +55,7 @@
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.7.0"
           }
         },
         {
@@ -181,11 +181,11 @@
         {
           "name": "sdk-jar-1.1.0.aar",
           "url": "sdk-jar-1.1.0.aar",
-          "size": 390249,
-          "sha512": "4158fc6414c111d193223882ea6ccbf4fe4c27354fa729173561a32d03b8e1c52ce9136cf396fdfe1ceaf5eb3c70f97f2e15d65aec6fef0ef55b322b7bb76a84",
-          "sha256": "0a3ae06bb08ea1d2ee5d335f01a4f529d94abd27f5ccfb0b4d66b56d2124eda1",
-          "sha1": "dd9fad0cdb2fc5b0c9294534fc8ec41eb9903d01",
-          "md5": "2c96c2419e1ccfee92447eecf6243c62"
+          "size": 391036,
+          "sha512": "5b16aa7f7cf6d5294b288c0683a6d7defa726d0243f19e18a17332622a89a35731e5b86e454d8331070a51154730325421eb763ce88e62d51433b80871734985",
+          "sha256": "937a50d4c90055042467ebc03af92576718c783726f130ebb8acd5f7d5467086",
+          "sha1": "34f1e31ab91cd7942010d62eb2d5620449d20bf6",
+          "md5": "4ba7c2525d172663ed8133ba6b8dc71c"
         }
       ]
     },
@@ -230,7 +230,7 @@
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.7.0"
           }
         },
         {
@@ -356,11 +356,11 @@
         {
           "name": "sdk-jar-1.1.0.aar",
           "url": "sdk-jar-1.1.0.aar",
-          "size": 390249,
-          "sha512": "4158fc6414c111d193223882ea6ccbf4fe4c27354fa729173561a32d03b8e1c52ce9136cf396fdfe1ceaf5eb3c70f97f2e15d65aec6fef0ef55b322b7bb76a84",
-          "sha256": "0a3ae06bb08ea1d2ee5d335f01a4f529d94abd27f5ccfb0b4d66b56d2124eda1",
-          "sha1": "dd9fad0cdb2fc5b0c9294534fc8ec41eb9903d01",
-          "md5": "2c96c2419e1ccfee92447eecf6243c62"
+          "size": 391036,
+          "sha512": "5b16aa7f7cf6d5294b288c0683a6d7defa726d0243f19e18a17332622a89a35731e5b86e454d8331070a51154730325421eb763ce88e62d51433b80871734985",
+          "sha256": "937a50d4c90055042467ebc03af92576718c783726f130ebb8acd5f7d5467086",
+          "sha1": "34f1e31ab91cd7942010d62eb2d5620449d20bf6",
+          "md5": "4ba7c2525d172663ed8133ba6b8dc71c"
         }
       ]
     }

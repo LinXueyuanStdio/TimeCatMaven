@@ -52,8 +52,8 @@
           }
         },
         {
-          "group": "com.timecat.component",
-          "module": "SelfXunfei",
+          "group": "com.timecat.extend",
+          "module": "xunfei",
           "version": {
             "requires": "+"
           }
@@ -181,14 +181,14 @@
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.7.0"
           }
         },
         {
           "group": "androidx.constraintlayout",
           "module": "constraintlayout",
           "version": {
-            "requires": "2.0.1"
+            "requires": "2.1.4"
           }
         },
         {
@@ -266,11 +266,11 @@
         {
           "name": "block-1.1.2.aar",
           "url": "block-1.1.2.aar",
-          "size": 1604870,
-          "sha512": "288dcf01aaa5cf738c6dccbe1e9dafdb89cc9293a5476a5cd512e2a711708f29e9bc6701d3f6a5c63ca0cf93755fdaeffadc157b6ba879f178cff89fe84f28f3",
-          "sha256": "7fa1c513de6f38ded84cd3c1daf8b76f3d2b99d481378c354a8dad53f6160a98",
-          "sha1": "0c7d260036898eff4192da8db6c1463878a19553",
-          "md5": "44f8e4fcaea0d413b7d690b8788038e1"
+          "size": 1606554,
+          "sha512": "be6759f64d6d281a6e679e2be9cc1e4cc550e4856eb265771cf4df7eddf58f61342170b2ee619861819e38b0267a7f0f0bd397d216af78e6a45b21116ac83ef0",
+          "sha256": "7d6c2f065b697f927d1c55fd78982c9bb73bc808a7452e20d0761b28eab7b559",
+          "sha1": "201c7b46f7501aa11ca8cadf9ab645804c742052",
+          "md5": "c28fbe70d0e87a9a2dc9bce6e7f7b8f2"
         }
       ]
     },
@@ -312,8 +312,8 @@
           }
         },
         {
-          "group": "com.timecat.component",
-          "module": "SelfXunfei",
+          "group": "com.timecat.extend",
+          "module": "xunfei",
           "version": {
             "requires": "+"
           }
@@ -441,14 +441,14 @@
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.7.0"
           }
         },
         {
           "group": "androidx.constraintlayout",
           "module": "constraintlayout",
           "version": {
-            "requires": "2.0.1"
+            "requires": "2.1.4"
           }
         },
         {
@@ -526,11 +526,11 @@
         {
           "name": "block-1.1.2.aar",
           "url": "block-1.1.2.aar",
-          "size": 1604870,
-          "sha512": "288dcf01aaa5cf738c6dccbe1e9dafdb89cc9293a5476a5cd512e2a711708f29e9bc6701d3f6a5c63ca0cf93755fdaeffadc157b6ba879f178cff89fe84f28f3",
-          "sha256": "7fa1c513de6f38ded84cd3c1daf8b76f3d2b99d481378c354a8dad53f6160a98",
-          "sha1": "0c7d260036898eff4192da8db6c1463878a19553",
-          "md5": "44f8e4fcaea0d413b7d690b8788038e1"
+          "size": 1606554,
+          "sha512": "be6759f64d6d281a6e679e2be9cc1e4cc550e4856eb265771cf4df7eddf58f61342170b2ee619861819e38b0267a7f0f0bd397d216af78e6a45b21116ac83ef0",
+          "sha256": "7d6c2f065b697f927d1c55fd78982c9bb73bc808a7452e20d0761b28eab7b559",
+          "sha1": "201c7b46f7501aa11ca8cadf9ab645804c742052",
+          "md5": "c28fbe70d0e87a9a2dc9bce6e7f7b8f2"
         }
       ]
     }

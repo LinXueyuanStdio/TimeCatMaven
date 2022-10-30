@@ -34,7 +34,7 @@
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.7.0"
           }
         },
         {
@@ -91,11 +91,11 @@
         {
           "name": "setting-1.1.0.aar",
           "url": "setting-1.1.0.aar",
-          "size": 96460,
-          "sha512": "a18d1862a6da6c5fa792331427a76e10479887b9833c336ee8dd1bf33e835d31eff45fffe401deb07660e2ffa8802c0167511295cbffa4f05fcbbed9711c1c85",
-          "sha256": "3c837f43405082497902f9f53e13613c7c006711be14dd9ab4bbb613a3cb755a",
-          "sha1": "e9874f984d150b937897d9d86d20fae5bc5c9529",
-          "md5": "176120ddb11c9c99c00991fed1ce6a75"
+          "size": 97221,
+          "sha512": "76e10a9e4754c4b09f2f8fc9a2a387680bbe2e03552c0ae7984e41e0f9608783d81f1deb1cc028162ed70574da2b9349bda8da337599dbc76f0c9d2852f36543",
+          "sha256": "858b479bb78c78c18626fd2b6606f9ac1ea5ef9a739780d286785a3c893108ea",
+          "sha1": "6d6b2c90fe72c8371eadab6b63110793ef328e47",
+          "md5": "bd6207a6b59b9f4f8bbda302ff817b05"
         }
       ]
     },
@@ -119,7 +119,7 @@
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.7.0"
           }
         },
         {
@@ -176,11 +176,11 @@
         {
           "name": "setting-1.1.0.aar",
           "url": "setting-1.1.0.aar",
-          "size": 96460,
-          "sha512": "a18d1862a6da6c5fa792331427a76e10479887b9833c336ee8dd1bf33e835d31eff45fffe401deb07660e2ffa8802c0167511295cbffa4f05fcbbed9711c1c85",
-          "sha256": "3c837f43405082497902f9f53e13613c7c006711be14dd9ab4bbb613a3cb755a",
-          "sha1": "e9874f984d150b937897d9d86d20fae5bc5c9529",
-          "md5": "176120ddb11c9c99c00991fed1ce6a75"
+          "size": 97221,
+          "sha512": "76e10a9e4754c4b09f2f8fc9a2a387680bbe2e03552c0ae7984e41e0f9608783d81f1deb1cc028162ed70574da2b9349bda8da337599dbc76f0c9d2852f36543",
+          "sha256": "858b479bb78c78c18626fd2b6606f9ac1ea5ef9a739780d286785a3c893108ea",
+          "sha1": "6d6b2c90fe72c8371eadab6b63110793ef328e47",
+          "md5": "bd6207a6b59b9f4f8bbda302ff817b05"
         }
       ]
     }

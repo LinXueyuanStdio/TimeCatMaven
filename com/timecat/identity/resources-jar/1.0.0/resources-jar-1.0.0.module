@@ -41,7 +41,7 @@
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.7.0"
           }
         },
         {
@@ -77,11 +77,11 @@
         {
           "name": "resources-jar-1.0.0.aar",
           "url": "resources-jar-1.0.0.aar",
-          "size": 2173265,
-          "sha512": "31dcd37c438ff57e68e9cac9b586f5bbb798826708c0fd881f682459d960de6ba740f7b391d6a38f3343cf0be84b6c0a34c82ed971cde62240e73a8815bd5fe3",
-          "sha256": "eb9bb8989843c4d201c0156e76a3127b69bdbd2357369cd3b28ebfd89d50162b",
-          "sha1": "bf329f619c077577d05492aa28bc96bdf9d376a2",
-          "md5": "8ba533bb5ed4741d666b2bc3b3521194"
+          "size": 2174192,
+          "sha512": "f5f68489490680e06943ed265262ffafc3e30f01d878427a38d5756e81294b40746e63cbbd0fd299cea0c43f365c2c37a9ca0d08417537b87d0f3f09ad818f83",
+          "sha256": "c2aaf80387edc4cc03140dc91e381aab8875880be8169df6e170e6c9296b06fd",
+          "sha1": "830d5842d241e7a5d1ff0efc9d5113f4d9b2fd28",
+          "md5": "f5a36d19407e4189fa1f0c5b74faf759"
         }
       ]
     },
@@ -112,7 +112,7 @@
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.7.0"
           }
         },
         {
@@ -148,11 +148,11 @@
         {
           "name": "resources-jar-1.0.0.aar",
           "url": "resources-jar-1.0.0.aar",
-          "size": 2173265,
-          "sha512": "31dcd37c438ff57e68e9cac9b586f5bbb798826708c0fd881f682459d960de6ba740f7b391d6a38f3343cf0be84b6c0a34c82ed971cde62240e73a8815bd5fe3",
-          "sha256": "eb9bb8989843c4d201c0156e76a3127b69bdbd2357369cd3b28ebfd89d50162b",
-          "sha1": "bf329f619c077577d05492aa28bc96bdf9d376a2",
-          "md5": "8ba533bb5ed4741d666b2bc3b3521194"
+          "size": 2174192,
+          "sha512": "f5f68489490680e06943ed265262ffafc3e30f01d878427a38d5756e81294b40746e63cbbd0fd299cea0c43f365c2c37a9ca0d08417537b87d0f3f09ad818f83",
+          "sha256": "c2aaf80387edc4cc03140dc91e381aab8875880be8169df6e170e6c9296b06fd",
+          "sha1": "830d5842d241e7a5d1ff0efc9d5113f4d9b2fd28",
+          "md5": "f5a36d19407e4189fa1f0c5b74faf759"
         }
       ]
     }

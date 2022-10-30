@@ -84,11 +84,11 @@
         {
           "name": "module-developer-1.1.0.aar",
           "url": "module-developer-1.1.0.aar",
-          "size": 172208,
-          "sha512": "4a261db65b8dd9b41f3dd4f0b08747318694a8f1ed70901286677f363b2851fc132ef0131da4334e538a0975fbba7db4499db5bed37ac2f8f65e9c95696d44ef",
-          "sha256": "5b1862af3f0642da63b4985815ed8e42c354e94aa76bc3939764f8ae02dc510c",
-          "sha1": "bd6ed7b4597498c3dc0d2fed76d6a329c232c19b",
-          "md5": "242668f5f42a8834cdff42263fd7345d"
+          "size": 173874,
+          "sha512": "87ff76ceb270bb7efe382578f72a24ea4d1e9daebc7ea4332f1faf7e1003a4b090a3352f413f61f8b9d8a325ab9d552e1b822b35df4ca43b4bb6414489d38230",
+          "sha256": "18a5eaa65acded0992380854baad8dfe8c773839ff256bfbad94c3d96b452625",
+          "sha1": "9fad67fcaaf63f0bd09b87d2b6b5fcefc0e636dd",
+          "md5": "319d9445046b11cce81178ca90029326"
         }
       ]
     },
@@ -182,7 +182,7 @@
           "group": "androidx.constraintlayout",
           "module": "constraintlayout",
           "version": {
-            "requires": "2.0.1"
+            "requires": "2.1.4"
           }
         },
         {
@@ -197,11 +197,11 @@
         {
           "name": "module-developer-1.1.0.aar",
           "url": "module-developer-1.1.0.aar",
-          "size": 172208,
-          "sha512": "4a261db65b8dd9b41f3dd4f0b08747318694a8f1ed70901286677f363b2851fc132ef0131da4334e538a0975fbba7db4499db5bed37ac2f8f65e9c95696d44ef",
-          "sha256": "5b1862af3f0642da63b4985815ed8e42c354e94aa76bc3939764f8ae02dc510c",
-          "sha1": "bd6ed7b4597498c3dc0d2fed76d6a329c232c19b",
-          "md5": "242668f5f42a8834cdff42263fd7345d"
+          "size": 173874,
+          "sha512": "87ff76ceb270bb7efe382578f72a24ea4d1e9daebc7ea4332f1faf7e1003a4b090a3352f413f61f8b9d8a325ab9d552e1b822b35df4ca43b4bb6414489d38230",
+          "sha256": "18a5eaa65acded0992380854baad8dfe8c773839ff256bfbad94c3d96b452625",
+          "sha1": "9fad67fcaaf63f0bd09b87d2b6b5fcefc0e636dd",
+          "md5": "319d9445046b11cce81178ca90029326"
         }
       ]
     }

@@ -31,23 +31,6 @@
           }
         },
         {
-          "group": null,
-          "module": "ocrsdk",
-          "excludes": [
-            {
-              "group": "*",
-              "module": "*"
-            }
-          ],
-          "thirdPartyCompatibility": {
-            "artifactSelector": {
-              "name": "ocrsdk",
-              "type": "aar",
-              "extension": "aar"
-            }
-          }
-        },
-        {
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
@@ -80,11 +63,11 @@
         {
           "name": "baidu-1.0.0.aar",
           "url": "baidu-1.0.0.aar",
-          "size": 34639,
-          "sha512": "36c27ca9bbdff5bbbccd45a77875c1d5ec7761ef8523dd145f315552f07b4e382f9180cc4c92bdf89d3d57b1dd06ad7af437fdbe6e4623aed36e0f3b94c6c25b",
-          "sha256": "bbfe0d74edbff249ddcf8024e0181581bf87ec89522cf59b8361ea3877170351",
-          "sha1": "482bb813bb93d9a46708be850d667257bce8856c",
-          "md5": "c33ff3796e8da75d0fa1be18bcc129e9"
+          "size": 34635,
+          "sha512": "a567755bfc4ab4286439d93e1464dabbb8bd1ecb65e7a87391e5529da8879a2fa923b108af2cdc9e3ccda6dbb0a3bc4c572d26920bcb1cfcd3c32a531b18892a",
+          "sha256": "15d77e0aa643afddc94cd7f774e9e39b2f14eb09e85a209704a2cff3803e86a1",
+          "sha1": "a24d82dce12eba74a2f7d2bfff9e4b8015a39f10",
+          "md5": "ab3bd6cbea40f9b789755b6f1738a4c5"
         }
       ]
     },
@@ -105,23 +88,6 @@
           }
         },
         {
-          "group": null,
-          "module": "ocrsdk",
-          "excludes": [
-            {
-              "group": "*",
-              "module": "*"
-            }
-          ],
-          "thirdPartyCompatibility": {
-            "artifactSelector": {
-              "name": "ocrsdk",
-              "type": "aar",
-              "extension": "aar"
-            }
-          }
-        },
-        {
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
@@ -154,11 +120,11 @@
         {
           "name": "baidu-1.0.0.aar",
           "url": "baidu-1.0.0.aar",
-          "size": 34639,
-          "sha512": "36c27ca9bbdff5bbbccd45a77875c1d5ec7761ef8523dd145f315552f07b4e382f9180cc4c92bdf89d3d57b1dd06ad7af437fdbe6e4623aed36e0f3b94c6c25b",
-          "sha256": "bbfe0d74edbff249ddcf8024e0181581bf87ec89522cf59b8361ea3877170351",
-          "sha1": "482bb813bb93d9a46708be850d667257bce8856c",
-          "md5": "c33ff3796e8da75d0fa1be18bcc129e9"
+          "size": 34635,
+          "sha512": "a567755bfc4ab4286439d93e1464dabbb8bd1ecb65e7a87391e5529da8879a2fa923b108af2cdc9e3ccda6dbb0a3bc4c572d26920bcb1cfcd3c32a531b18892a",
+          "sha256": "15d77e0aa643afddc94cd7f774e9e39b2f14eb09e85a209704a2cff3803e86a1",
+          "sha1": "a24d82dce12eba74a2f7d2bfff9e4b8015a39f10",
+          "md5": "ab3bd6cbea40f9b789755b6f1738a4c5"
         }
       ]
     }

@@ -119,11 +119,11 @@
         {
           "name": "bmob-1.1.0.aar",
           "url": "bmob-1.1.0.aar",
-          "size": 1740612,
-          "sha512": "d368a461de25bec50c403b7feb92dc5036ed19a87f5150b63d1deb8bf7098981375cf864a79ac710b637faa122ca8fc789d35272140fce4e709590f6280dc876",
-          "sha256": "e0a157350a4477090312ca08f7a14912506d948f12ef7b46c2c6e1ab79fbab96",
-          "sha1": "1414bfa682134d2dc1ecd3dc82249235f10f799c",
-          "md5": "8940b58a4a4378f60cd90a159372f160"
+          "size": 1740208,
+          "sha512": "ae9089427215b9f7b8a345f36e1a5603cc1b9bc07956fb3f6b5690d0053505364c67ec8e84276d30e6dc66827492757542e512e93865a6ec50831f61c802fae2",
+          "sha256": "14c27fd62d508c4aad8b0bbb8f4584d73b1860fdb9584e85a3ab154581a178af",
+          "sha1": "60c5b96e532b09d5ffe10d4911d51d88041831ba",
+          "md5": "d8501f0e29f94af7e18560470aa8e7cb"
         }
       ]
     },
@@ -232,11 +232,11 @@
         {
           "name": "bmob-1.1.0.aar",
           "url": "bmob-1.1.0.aar",
-          "size": 1740612,
-          "sha512": "d368a461de25bec50c403b7feb92dc5036ed19a87f5150b63d1deb8bf7098981375cf864a79ac710b637faa122ca8fc789d35272140fce4e709590f6280dc876",
-          "sha256": "e0a157350a4477090312ca08f7a14912506d948f12ef7b46c2c6e1ab79fbab96",
-          "sha1": "1414bfa682134d2dc1ecd3dc82249235f10f799c",
-          "md5": "8940b58a4a4378f60cd90a159372f160"
+          "size": 1740208,
+          "sha512": "ae9089427215b9f7b8a345f36e1a5603cc1b9bc07956fb3f6b5690d0053505364c67ec8e84276d30e6dc66827492757542e512e93865a6ec50831f61c802fae2",
+          "sha256": "14c27fd62d508c4aad8b0bbb8f4584d73b1860fdb9584e85a3ab154581a178af",
+          "sha1": "60c5b96e532b09d5ffe10d4911d51d88041831ba",
+          "md5": "d8501f0e29f94af7e18560470aa8e7cb"
         }
       ]
     }
