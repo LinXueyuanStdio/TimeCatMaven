@@ -46,13 +46,6 @@
         },
         {
           "group": "com.timecat.middle",
-          "module": "selector",
-          "version": {
-            "requires": "+"
-          }
-        },
-        {
-          "group": "com.timecat.middle",
           "module": "text",
           "version": {
             "requires": "+"
@@ -147,11 +140,11 @@
         {
           "name": "module-media-jar-1.0.0.aar",
           "url": "module-media-jar-1.0.0.aar",
-          "size": 276572,
-          "sha512": "9cfd5c7658a726a64b03b7952e05f99d5d754aa9a2db0e99a4f0a721da9630198fe1fb17dcf001033de0548b921618901ceb495f99fe5073afab624765b78648",
-          "sha256": "3b19441fb6d593172b4fdd5dca0c7302f89e0c273420bacf224796ffb50d19f4",
-          "sha1": "bed44aaa0efb849e45b9053c89e7398156710b8a",
-          "md5": "db6ac4fd427ce98e945917062528239b"
+          "size": 370227,
+          "sha512": "db77e7b55eb6e220c4d80c4effe13891b3aa5d83b703781eb37111f5756d96bb487b562f2d618e643a8b03250ce0dfc040b4b9f53d9c9d7e826b94eb07951499",
+          "sha256": "2a97c63a549e848af7ff322eb6f205a5c6699d2b7029d18a72c2475f676875e2",
+          "sha1": "09e484286a11e386d762a750917018c1ffaada0e",
+          "md5": "77ea2b73e5e5acc9f2fd33f9976edc7d"
         }
       ]
     },
@@ -187,13 +180,6 @@
         },
         {
           "group": "com.timecat.middle",
-          "module": "selector",
-          "version": {
-            "requires": "+"
-          }
-        },
-        {
-          "group": "com.timecat.middle",
           "module": "text",
           "version": {
             "requires": "+"
@@ -288,11 +274,11 @@
         {
           "name": "module-media-jar-1.0.0.aar",
           "url": "module-media-jar-1.0.0.aar",
-          "size": 276572,
-          "sha512": "9cfd5c7658a726a64b03b7952e05f99d5d754aa9a2db0e99a4f0a721da9630198fe1fb17dcf001033de0548b921618901ceb495f99fe5073afab624765b78648",
-          "sha256": "3b19441fb6d593172b4fdd5dca0c7302f89e0c273420bacf224796ffb50d19f4",
-          "sha1": "bed44aaa0efb849e45b9053c89e7398156710b8a",
-          "md5": "db6ac4fd427ce98e945917062528239b"
+          "size": 370227,
+          "sha512": "db77e7b55eb6e220c4d80c4effe13891b3aa5d83b703781eb37111f5756d96bb487b562f2d618e643a8b03250ce0dfc040b4b9f53d9c9d7e826b94eb07951499",
+          "sha256": "2a97c63a549e848af7ff322eb6f205a5c6699d2b7029d18a72c2475f676875e2",
+          "sha1": "09e484286a11e386d762a750917018c1ffaada0e",
+          "md5": "77ea2b73e5e5acc9f2fd33f9976edc7d"
         }
       ]
     }

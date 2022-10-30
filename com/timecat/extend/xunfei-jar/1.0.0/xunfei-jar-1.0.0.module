@@ -1,0 +1,132 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.extend",
+    "module": "xunfei-jar",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "xunfei-jar-1.0.0.aar",
+          "url": "xunfei-jar-1.0.0.aar",
+          "size": 3173080,
+          "sha512": "19616d0664ee8d3fe273df466297243c8845aa37a51902928432327fb50a82b8fec4fc2fb6c9e5239fcdeb1e248fe96b8b435bc3d7a8c651aba14048cde534e6",
+          "sha256": "d2278e87bf148db93709cbc99c2c50360f1a5cfc19448a59f7aeb7b2907db57d",
+          "sha1": "8d6d9fe5edf3ede38b6e87f456c8eeeea11ab1e1",
+          "md5": "a70b376575a3715c5e7ce96bf873b2e8"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "xunfei-jar-1.0.0.aar",
+          "url": "xunfei-jar-1.0.0.aar",
+          "size": 3173080,
+          "sha512": "19616d0664ee8d3fe273df466297243c8845aa37a51902928432327fb50a82b8fec4fc2fb6c9e5239fcdeb1e248fe96b8b435bc3d7a8c651aba14048cde534e6",
+          "sha256": "d2278e87bf148db93709cbc99c2c50360f1a5cfc19448a59f7aeb7b2907db57d",
+          "sha1": "8d6d9fe5edf3ede38b6e87f456c8eeeea11ab1e1",
+          "md5": "a70b376575a3715c5e7ce96bf873b2e8"
+        }
+      ]
+    }
+  ]
+}

@@ -45,13 +45,6 @@
           }
         },
         {
-          "group": "com.timecat.middle",
-          "module": "selector",
-          "version": {
-            "requires": "+"
-          }
-        },
-        {
           "group": "com.timecat.identity",
           "module": "font",
           "version": {
@@ -168,11 +161,11 @@
         {
           "name": "module-runner-jar-1.0.0.aar",
           "url": "module-runner-jar-1.0.0.aar",
-          "size": 728177,
-          "sha512": "e53e0260af744e46a551f1f405dda57e8b27ecde189e3c2e4ddae653b37fb60c8283882d22a93c334ac719a64f89b27b1bb3a95a50578bbf016a9f7faf983664",
-          "sha256": "a2158341152a0be8c6389cee01fd83e13788d330a4f09fb109c221843a74e736",
-          "sha1": "c2e17be265508962ed6af5fe46558c47841185c3",
-          "md5": "baf525d0bbf1798ff8d9baef1a4bb4e5"
+          "size": 693853,
+          "sha512": "57675fd16fdae6beb4e77f598b63fa5e98585097ccb91e1ccaff73116971c873bf8deef02e24d83a034dbdcaf761e6416006b40949693a6f5089a3270c577f89",
+          "sha256": "3612321713ed34a95dc8bcc12ff8c36e598bd9cb46d573df539ac038ee0b81b4",
+          "sha1": "bf859ad4f42312e7ea4717df107038f22d533b9e",
+          "md5": "6ae40857f6d54dd472216b744cbb64c4"
         }
       ]
     },
@@ -207,13 +200,6 @@
           }
         },
         {
-          "group": "com.timecat.middle",
-          "module": "selector",
-          "version": {
-            "requires": "+"
-          }
-        },
-        {
           "group": "com.timecat.identity",
           "module": "font",
           "version": {
@@ -330,11 +316,11 @@
         {
           "name": "module-runner-jar-1.0.0.aar",
           "url": "module-runner-jar-1.0.0.aar",
-          "size": 728177,
-          "sha512": "e53e0260af744e46a551f1f405dda57e8b27ecde189e3c2e4ddae653b37fb60c8283882d22a93c334ac719a64f89b27b1bb3a95a50578bbf016a9f7faf983664",
-          "sha256": "a2158341152a0be8c6389cee01fd83e13788d330a4f09fb109c221843a74e736",
-          "sha1": "c2e17be265508962ed6af5fe46558c47841185c3",
-          "md5": "baf525d0bbf1798ff8d9baef1a4bb4e5"
+          "size": 693853,
+          "sha512": "57675fd16fdae6beb4e77f598b63fa5e98585097ccb91e1ccaff73116971c873bf8deef02e24d83a034dbdcaf761e6416006b40949693a6f5089a3270c577f89",
+          "sha256": "3612321713ed34a95dc8bcc12ff8c36e598bd9cb46d573df539ac038ee0b81b4",
+          "sha1": "bf859ad4f42312e7ea4717df107038f22d533b9e",
+          "md5": "6ae40857f6d54dd472216b744cbb64c4"
         }
       ]
     }

@@ -203,11 +203,11 @@
         {
           "name": "ui-jar-1.0.7.aar",
           "url": "ui-jar-1.0.7.aar",
-          "size": 1049599,
-          "sha512": "8ed4a2ca876c7427704a201dc2d2e85dc042b05e1ebe34ff7b3a462a59b258da13728bad56592c8c3fce69ccdd8dfc347c9010059326d8dbdd0eb85c85f5fb46",
-          "sha256": "3ddf3018ee1b70731c19a1a982e26b8f2fb6f61c0986d188daec8e7a2e6efeb4",
-          "sha1": "3ecdb0a2dea66a84ed40d199489bf76383f0c1d8",
-          "md5": "7b91209136856c64f629d8f548f68c5d"
+          "size": 1044133,
+          "sha512": "677dbd6d0f5bb5995be717aea508b3da08cca8da8f4016be51562129eacaf4f2e66c91157ecca13cf2927e5355852bec19c030aa83648bd08a210b07e90321c1",
+          "sha256": "25424e3d74db1ee92ca053817ca4f6d6cd3e09a8990329341f6fa61cf10e4793",
+          "sha1": "93d325126cbbdcdcdb16bf2c4c7b286368b0ae42",
+          "md5": "70d24fa1d24bd6d6ad4bf84c0b52769a"
         }
       ]
     },
@@ -407,11 +407,11 @@
         {
           "name": "ui-jar-1.0.7.aar",
           "url": "ui-jar-1.0.7.aar",
-          "size": 1049599,
-          "sha512": "8ed4a2ca876c7427704a201dc2d2e85dc042b05e1ebe34ff7b3a462a59b258da13728bad56592c8c3fce69ccdd8dfc347c9010059326d8dbdd0eb85c85f5fb46",
-          "sha256": "3ddf3018ee1b70731c19a1a982e26b8f2fb6f61c0986d188daec8e7a2e6efeb4",
-          "sha1": "3ecdb0a2dea66a84ed40d199489bf76383f0c1d8",
-          "md5": "7b91209136856c64f629d8f548f68c5d"
+          "size": 1044133,
+          "sha512": "677dbd6d0f5bb5995be717aea508b3da08cca8da8f4016be51562129eacaf4f2e66c91157ecca13cf2927e5355852bec19c030aa83648bd08a210b07e90321c1",
+          "sha256": "25424e3d74db1ee92ca053817ca4f6d6cd3e09a8990329341f6fa61cf10e4793",
+          "sha1": "93d325126cbbdcdcdb16bf2c4c7b286368b0ae42",
+          "md5": "70d24fa1d24bd6d6ad4bf84c0b52769a"
         }
       ]
     }

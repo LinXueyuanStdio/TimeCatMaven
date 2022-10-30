@@ -91,11 +91,11 @@
         {
           "name": "greendao-1.0.0.aar",
           "url": "greendao-1.0.0.aar",
-          "size": 39725,
-          "sha512": "920fbf33130661b20fa71ba002587c941d093d5c2f93073ca025db278191eb2369b1046287d548cc26780a802caf554068305cac461b514b578c472c3d5b648b",
-          "sha256": "d76c4bc2f6c12075b92033a2592068103a32a7b7edd61b05dc0786d25ae2c7cd",
-          "sha1": "d04fd3f80659531a1e2b59b3efc862b7ec6062b9",
-          "md5": "a5e5ab28c0edd4c980934a02fb2793a5"
+          "size": 29623,
+          "sha512": "b43b31f0d5c48aa1005d43f5c736d99386063e28b187037678d2154817ec89c767a0f70e780ee7dabc2885d998c509504b196c67cda2c071fbe9bacc855f4a2c",
+          "sha256": "e256a932dc57157451fdd1fd41d4719118d039bef7052381ab4f8cfa6fa2aa5b",
+          "sha1": "af866d26f8968728b2276a3e03e7d5cf89d2c8ad",
+          "md5": "13fb1fcc48bf88db3a6c4bd61c3c6d0c"
         }
       ]
     },
@@ -176,11 +176,11 @@
         {
           "name": "greendao-1.0.0.aar",
           "url": "greendao-1.0.0.aar",
-          "size": 39725,
-          "sha512": "920fbf33130661b20fa71ba002587c941d093d5c2f93073ca025db278191eb2369b1046287d548cc26780a802caf554068305cac461b514b578c472c3d5b648b",
-          "sha256": "d76c4bc2f6c12075b92033a2592068103a32a7b7edd61b05dc0786d25ae2c7cd",
-          "sha1": "d04fd3f80659531a1e2b59b3efc862b7ec6062b9",
-          "md5": "a5e5ab28c0edd4c980934a02fb2793a5"
+          "size": 29623,
+          "sha512": "b43b31f0d5c48aa1005d43f5c736d99386063e28b187037678d2154817ec89c767a0f70e780ee7dabc2885d998c509504b196c67cda2c071fbe9bacc855f4a2c",
+          "sha256": "e256a932dc57157451fdd1fd41d4719118d039bef7052381ab4f8cfa6fa2aa5b",
+          "sha1": "af866d26f8968728b2276a3e03e7d5cf89d2c8ad",
+          "md5": "13fb1fcc48bf88db3a6c4bd61c3c6d0c"
         }
       ]
     }

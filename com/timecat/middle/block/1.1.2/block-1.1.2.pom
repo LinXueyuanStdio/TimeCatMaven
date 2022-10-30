@@ -57,6 +57,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.timecat.extend</groupId>
+      <artifactId>image</artifactId>
+      <version>+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.timecat.data</groupId>
       <artifactId>greendao</artifactId>
       <version>+</version>
@@ -114,6 +120,12 @@
       <groupId>com.gauravk.audiovisualizer</groupId>
       <artifactId>audiovisualizer</artifactId>
       <version>0.9.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.github.smuyyh</groupId>
+      <artifactId>JsonViewer</artifactId>
+      <version>1.0.7</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

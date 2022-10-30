@@ -112,11 +112,11 @@
         {
           "name": "room-jar-1.0.5.aar",
           "url": "room-jar-1.0.5.aar",
-          "size": 390510,
-          "sha512": "5d1b1d91298cc8245b7185c10a5f2f6d4ab06da1d6ddea5ccee4ddc49675590cabfefa9fe4ee0c59d16e2367f4361ee415ef947c352a87be52662f4b6054033d",
-          "sha256": "1a4e4f75154d53381b6a1c8b6eba452aa33387f4c8f638e30b90128e188134a3",
-          "sha1": "8dc80ac35c3b56706173eec6d3e0d719b8035aa2",
-          "md5": "0d50b6c709bed7bc6906474746718287"
+          "size": 321434,
+          "sha512": "9a2dfe2eadcc9d9ab0312091deaf685f6da8073cea07d08c00ec121d2100e9a7741762174939f6ccd4f65e4d835e552de33b554d9d78145efa53381190a7a416",
+          "sha256": "1939f2da69e2b0b21bdcbc29036be2408136e84ca4f72cd5c1db4fa4754e0afa",
+          "sha1": "074a084f3beb00f8b56a120d55b87a9b638a01b5",
+          "md5": "908f1aa926656c7053e1ecec740fa4f4"
         }
       ]
     },
@@ -218,11 +218,11 @@
         {
           "name": "room-jar-1.0.5.aar",
           "url": "room-jar-1.0.5.aar",
-          "size": 390510,
-          "sha512": "5d1b1d91298cc8245b7185c10a5f2f6d4ab06da1d6ddea5ccee4ddc49675590cabfefa9fe4ee0c59d16e2367f4361ee415ef947c352a87be52662f4b6054033d",
-          "sha256": "1a4e4f75154d53381b6a1c8b6eba452aa33387f4c8f638e30b90128e188134a3",
-          "sha1": "8dc80ac35c3b56706173eec6d3e0d719b8035aa2",
-          "md5": "0d50b6c709bed7bc6906474746718287"
+          "size": 321434,
+          "sha512": "9a2dfe2eadcc9d9ab0312091deaf685f6da8073cea07d08c00ec121d2100e9a7741762174939f6ccd4f65e4d835e552de33b554d9d78145efa53381190a7a416",
+          "sha256": "1939f2da69e2b0b21bdcbc29036be2408136e84ca4f72cd5c1db4fa4754e0afa",
+          "sha1": "074a084f3beb00f8b56a120d55b87a9b638a01b5",
+          "md5": "908f1aa926656c7053e1ecec740fa4f4"
         }
       ]
     }

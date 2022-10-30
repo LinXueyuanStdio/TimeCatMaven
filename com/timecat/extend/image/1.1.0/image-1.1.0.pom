@@ -35,7 +35,43 @@
     <dependency>
       <groupId>io.github.lucksiege</groupId>
       <artifactId>pictureselector</artifactId>
-      <version>v2.7.2</version>
+      <version>v3.10.6</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.github.lucksiege</groupId>
+      <artifactId>compress</artifactId>
+      <version>v3.10.6</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.github.lucksiege</groupId>
+      <artifactId>ucrop</artifactId>
+      <version>v3.10.6</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.databinding</groupId>
+      <artifactId>databinding-common</artifactId>
+      <version>7.3.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.databinding</groupId>
+      <artifactId>databinding-runtime</artifactId>
+      <version>7.3.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.databinding</groupId>
+      <artifactId>databinding-adapters</artifactId>
+      <version>7.3.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.databinding</groupId>
+      <artifactId>databinding-ktx</artifactId>
+      <version>7.3.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

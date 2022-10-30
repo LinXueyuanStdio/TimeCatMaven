@@ -184,17 +184,38 @@
           "version": {
             "requires": "4.7.1"
           }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
         }
       ],
       "files": [
         {
           "name": "arms-jar-1.1.0.aar",
           "url": "arms-jar-1.1.0.aar",
-          "size": 127897,
-          "sha512": "31405f28b08fe90b4d16878b8dae2b488b107f0c2bb3c80f14cd243483c75d426ef364fd8f6f061c13d62ce94a1e0fd0bca3afb73ae400a39bc2be96dd898489",
-          "sha256": "6db67d55d974d1ddc76fa57fc04177cbbe0303d9b968906af72341819db11a71",
-          "sha1": "c52d357b6b855f614244996165196863e5333269",
-          "md5": "dc2442d8f6d146f72fd60adaf20b6936"
+          "size": 141528,
+          "sha512": "3cbc74a103768f0914e74bff7b48fb6246ff0e2b1ccc14470dfd8450123d9ea5e42ff8f7e47b3ce21bc6e50da6e89549dadd57e779a3b0bd6485d73a8434a409",
+          "sha256": "60806436d36f46c73e931ac3017747394bba78618fa8b933fa213a6564ef7059",
+          "sha1": "8fa6f3d32f8e4555290c5256f40d81883ccd246d",
+          "md5": "0bb9c01b39ee89982be069022d9ddf76"
         }
       ]
     },
@@ -431,17 +452,38 @@
           "version": {
             "requires": "4.7.1"
           }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
         }
       ],
       "files": [
         {
           "name": "arms-jar-1.1.0.aar",
           "url": "arms-jar-1.1.0.aar",
-          "size": 127897,
-          "sha512": "31405f28b08fe90b4d16878b8dae2b488b107f0c2bb3c80f14cd243483c75d426ef364fd8f6f061c13d62ce94a1e0fd0bca3afb73ae400a39bc2be96dd898489",
-          "sha256": "6db67d55d974d1ddc76fa57fc04177cbbe0303d9b968906af72341819db11a71",
-          "sha1": "c52d357b6b855f614244996165196863e5333269",
-          "md5": "dc2442d8f6d146f72fd60adaf20b6936"
+          "size": 141528,
+          "sha512": "3cbc74a103768f0914e74bff7b48fb6246ff0e2b1ccc14470dfd8450123d9ea5e42ff8f7e47b3ce21bc6e50da6e89549dadd57e779a3b0bd6485d73a8434a409",
+          "sha256": "60806436d36f46c73e931ac3017747394bba78618fa8b933fa213a6564ef7059",
+          "sha1": "8fa6f3d32f8e4555290c5256f40d81883ccd246d",
+          "md5": "0bb9c01b39ee89982be069022d9ddf76"
         }
       ]
     }

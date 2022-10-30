@@ -34,7 +34,49 @@
           "group": "io.github.lucksiege",
           "module": "pictureselector",
           "version": {
-            "requires": "v2.7.2"
+            "requires": "v3.10.6"
+          }
+        },
+        {
+          "group": "io.github.lucksiege",
+          "module": "compress",
+          "version": {
+            "requires": "v3.10.6"
+          }
+        },
+        {
+          "group": "io.github.lucksiege",
+          "module": "ucrop",
+          "version": {
+            "requires": "v3.10.6"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
           }
         },
         {
@@ -49,11 +91,11 @@
         {
           "name": "image-1.1.0.aar",
           "url": "image-1.1.0.aar",
-          "size": 49835,
-          "sha512": "44edce0b4f0240ad8769f8d420947ba080ab739e58c8b0bd6692499073dabc2dc69665c6cd7fa9b60cf7e822e405dd10a45c0b86286197837b82591d18618844",
-          "sha256": "dbe46bb7d2b60ca09763c59d3a162405533ff3d0ef31e36ce63b8693bf981695",
-          "sha1": "8fa1f070706702f248ee38f631d1967532e43a68",
-          "md5": "43d7e97288dbee6759390d7b86f1f929"
+          "size": 66856,
+          "sha512": "4e6b371c58e544c44d1500b589f4d56c7f731a5d91e4893e880687e79214be1e16d65b2a553e32903d863de904df96dcbc71214a9dad1a57c319869375208dd1",
+          "sha256": "8678c029fb74bd3c46820218cde9b96b20f784d2831ad96fb3f5a2d4039bf685",
+          "sha1": "c3ed776e0a61113910bb92f0a44a867cdf9f3bdd",
+          "md5": "36b11caa0f9a2633a6cf5a51d3954d25"
         }
       ]
     },
@@ -77,7 +119,49 @@
           "group": "io.github.lucksiege",
           "module": "pictureselector",
           "version": {
-            "requires": "v2.7.2"
+            "requires": "v3.10.6"
+          }
+        },
+        {
+          "group": "io.github.lucksiege",
+          "module": "compress",
+          "version": {
+            "requires": "v3.10.6"
+          }
+        },
+        {
+          "group": "io.github.lucksiege",
+          "module": "ucrop",
+          "version": {
+            "requires": "v3.10.6"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
           }
         },
         {
@@ -92,11 +176,11 @@
         {
           "name": "image-1.1.0.aar",
           "url": "image-1.1.0.aar",
-          "size": 49835,
-          "sha512": "44edce0b4f0240ad8769f8d420947ba080ab739e58c8b0bd6692499073dabc2dc69665c6cd7fa9b60cf7e822e405dd10a45c0b86286197837b82591d18618844",
-          "sha256": "dbe46bb7d2b60ca09763c59d3a162405533ff3d0ef31e36ce63b8693bf981695",
-          "sha1": "8fa1f070706702f248ee38f631d1967532e43a68",
-          "md5": "43d7e97288dbee6759390d7b86f1f929"
+          "size": 66856,
+          "sha512": "4e6b371c58e544c44d1500b589f4d56c7f731a5d91e4893e880687e79214be1e16d65b2a553e32903d863de904df96dcbc71214a9dad1a57c319869375208dd1",
+          "sha256": "8678c029fb74bd3c46820218cde9b96b20f784d2831ad96fb3f5a2d4039bf685",
+          "sha1": "c3ed776e0a61113910bb92f0a44a867cdf9f3bdd",
+          "md5": "36b11caa0f9a2633a6cf5a51d3954d25"
         }
       ]
     }

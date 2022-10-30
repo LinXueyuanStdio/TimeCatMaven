@@ -87,12 +87,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.timecat.middle</groupId>
-      <artifactId>selector</artifactId>
-      <version>+</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.timecat.component</groupId>
       <artifactId>setting</artifactId>
       <version>+</version>

@@ -84,11 +84,11 @@
         {
           "name": "router-1.1.0.aar",
           "url": "router-1.1.0.aar",
-          "size": 34241,
-          "sha512": "8cca116e4254c485ea355755a0baef7cbb6e533c44c6b3ec2563429d4beb55b14979f34dfd1f4659a3e4fe3aac775db44dca962cc55fa5c227bb36727e3c782d",
-          "sha256": "f7e6b9548c4b7d94d8da688ce1d0e56db7af0b22458558e19513aa20a8dac78e",
-          "sha1": "e3779d8be231a6a30835a5902a6825e8fc7869f2",
-          "md5": "1b25918e72722f05a912ff460532f01e"
+          "size": 34309,
+          "sha512": "21ae31ec351b6dabe085e91acc94936f400393699586895e751a389aff2e548e66244097df6d4aa73df79d73e04ce4e98c29dc55f34d91de7863fec6fd5a56ae",
+          "sha256": "d92fcbc5c21b1bcdcbde450ca8c8b57e434b8ba61ec77c15fcc4d9ae1e383704",
+          "sha1": "85c2171916557c59d41bde3236524db9e09e24b4",
+          "md5": "6271fae9c7f6704b4b005a5bf976ebdb"
         }
       ]
     },
@@ -162,11 +162,11 @@
         {
           "name": "router-1.1.0.aar",
           "url": "router-1.1.0.aar",
-          "size": 34241,
-          "sha512": "8cca116e4254c485ea355755a0baef7cbb6e533c44c6b3ec2563429d4beb55b14979f34dfd1f4659a3e4fe3aac775db44dca962cc55fa5c227bb36727e3c782d",
-          "sha256": "f7e6b9548c4b7d94d8da688ce1d0e56db7af0b22458558e19513aa20a8dac78e",
-          "sha1": "e3779d8be231a6a30835a5902a6825e8fc7869f2",
-          "md5": "1b25918e72722f05a912ff460532f01e"
+          "size": 34309,
+          "sha512": "21ae31ec351b6dabe085e91acc94936f400393699586895e751a389aff2e548e66244097df6d4aa73df79d73e04ce4e98c29dc55f34d91de7863fec6fd5a56ae",
+          "sha256": "d92fcbc5c21b1bcdcbde450ca8c8b57e434b8ba61ec77c15fcc4d9ae1e383704",
+          "sha1": "85c2171916557c59d41bde3236524db9e09e24b4",
+          "md5": "6271fae9c7f6704b4b005a5bf976ebdb"
         }
       ]
     }

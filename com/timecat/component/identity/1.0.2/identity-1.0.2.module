@@ -112,11 +112,11 @@
         {
           "name": "identity-1.0.2.aar",
           "url": "identity-1.0.2.aar",
-          "size": 79661,
-          "sha512": "358e2b8626c1e4ec817b718930d349eafd14fb11e6e19ba04ecca4fbd10ef697696e528b18300cf336083ed7e6736d398b2750d089ed5c997991481671aff952",
-          "sha256": "a0ea119bc706fae44ab7a344d9631b1afa53f79a432996ca716555f922a45006",
-          "sha1": "a95c75e76da1ad9bed59e2ad0ba880416fbd0f60",
-          "md5": "bcb9f988f1d571092277ad1e61c3d7f5"
+          "size": 79721,
+          "sha512": "fa1d3f1e5d25ffadf7b077b52426fabffd35066a9817eabca467e1947c19023e486d790a6308f816d73445045ad5f5f9f05444ae477bf9ce1dce3e084e6d0b28",
+          "sha256": "2bcad8f3dff6de3b01bfe05a4c443e0f42196719984eb0d93bfd20c38cb6973d",
+          "sha1": "5f04e7b7bd8cdf00a1ef03b0c44c03997871f53c",
+          "md5": "df3276dc4269ee6045dcd96bee6a50f2"
         }
       ]
     },
@@ -218,11 +218,11 @@
         {
           "name": "identity-1.0.2.aar",
           "url": "identity-1.0.2.aar",
-          "size": 79661,
-          "sha512": "358e2b8626c1e4ec817b718930d349eafd14fb11e6e19ba04ecca4fbd10ef697696e528b18300cf336083ed7e6736d398b2750d089ed5c997991481671aff952",
-          "sha256": "a0ea119bc706fae44ab7a344d9631b1afa53f79a432996ca716555f922a45006",
-          "sha1": "a95c75e76da1ad9bed59e2ad0ba880416fbd0f60",
-          "md5": "bcb9f988f1d571092277ad1e61c3d7f5"
+          "size": 79721,
+          "sha512": "fa1d3f1e5d25ffadf7b077b52426fabffd35066a9817eabca467e1947c19023e486d790a6308f816d73445045ad5f5f9f05444ae477bf9ce1dce3e084e6d0b28",
+          "sha256": "2bcad8f3dff6de3b01bfe05a4c443e0f42196719984eb0d93bfd20c38cb6973d",
+          "sha1": "5f04e7b7bd8cdf00a1ef03b0c44c03997871f53c",
+          "md5": "df3276dc4269ee6045dcd96bee6a50f2"
         }
       ]
     }

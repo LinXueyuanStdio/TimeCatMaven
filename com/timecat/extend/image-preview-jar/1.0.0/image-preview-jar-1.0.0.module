@@ -27,21 +27,21 @@
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.3.1"
+            "requires": "1.5.1"
           }
         },
         {
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.4.0"
+            "requires": "1.6.1"
           }
         },
         {
           "group": "androidx.exifinterface",
           "module": "exifinterface",
           "version": {
-            "requires": "1.3.4"
+            "requires": "1.3.5"
           }
         },
         {
@@ -66,6 +66,34 @@
           }
         },
         {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
@@ -77,11 +105,11 @@
         {
           "name": "image-preview-jar-1.0.0.aar",
           "url": "image-preview-jar-1.0.0.aar",
-          "size": 218875,
-          "sha512": "ffd9c76c82b72bb583a7a9002c84ce481c9ef3535411dca9b3793ecbf123044d6782e5767f6c9952a972305e682ac31e9b84af304770e0932f223591d46d65db",
-          "sha256": "5f4d3fbf1d39e8738229e07947daf31b112a4af4b835fc8089d58493c1f0f285",
-          "sha1": "a2c3eaffd0ec46bd95ae092ba49d824fb5b4c5a7",
-          "md5": "97ac84bad9141fe0966e9913cbfe0a49"
+          "size": 228325,
+          "sha512": "3d55c2f36d2c4e531ba7e4e702e57d84d92b7cf6f408ec34af9ef77601b3ed37724a553bd54056f09266f46c4a420e5eedde6852ed2f91866872856e04459584",
+          "sha256": "37fb32fb9ca817503287f415b0dad24ae2fc627e973abe101b4801ba80543de1",
+          "sha1": "f356ce2b370bb32fd7369a21840d9962726eb2ed",
+          "md5": "95f64f178ffb35d3e46194e1189cc7b6"
         }
       ]
     },
@@ -98,21 +126,21 @@
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.3.1"
+            "requires": "1.5.1"
           }
         },
         {
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.4.0"
+            "requires": "1.6.1"
           }
         },
         {
           "group": "androidx.exifinterface",
           "module": "exifinterface",
           "version": {
-            "requires": "1.3.4"
+            "requires": "1.3.5"
           }
         },
         {
@@ -137,6 +165,34 @@
           }
         },
         {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
@@ -148,11 +204,11 @@
         {
           "name": "image-preview-jar-1.0.0.aar",
           "url": "image-preview-jar-1.0.0.aar",
-          "size": 218875,
-          "sha512": "ffd9c76c82b72bb583a7a9002c84ce481c9ef3535411dca9b3793ecbf123044d6782e5767f6c9952a972305e682ac31e9b84af304770e0932f223591d46d65db",
-          "sha256": "5f4d3fbf1d39e8738229e07947daf31b112a4af4b835fc8089d58493c1f0f285",
-          "sha1": "a2c3eaffd0ec46bd95ae092ba49d824fb5b4c5a7",
-          "md5": "97ac84bad9141fe0966e9913cbfe0a49"
+          "size": 228325,
+          "sha512": "3d55c2f36d2c4e531ba7e4e702e57d84d92b7cf6f408ec34af9ef77601b3ed37724a553bd54056f09266f46c4a420e5eedde6852ed2f91866872856e04459584",
+          "sha256": "37fb32fb9ca817503287f415b0dad24ae2fc627e973abe101b4801ba80543de1",
+          "sha1": "f356ce2b370bb32fd7369a21840d9962726eb2ed",
+          "md5": "95f64f178ffb35d3e46194e1189cc7b6"
         }
       ]
     }

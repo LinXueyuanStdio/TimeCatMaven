@@ -83,7 +83,7 @@
           "group": "cn.leancloud",
           "module": "storage-android",
           "version": {
-            "requires": "7.1.1"
+            "requires": "8.2.12"
           }
         },
         {
@@ -119,11 +119,11 @@
         {
           "name": "bmob-1.1.0.aar",
           "url": "bmob-1.1.0.aar",
-          "size": 1735474,
-          "sha512": "f40e08dd012823dbd77855ba3a84910a7e314f34c4b24b0f038b4e946a4073b4b4111e51e20bc74357bdc76db52742ad3acfd07b290b1d7a4cdcc47faf46bb73",
-          "sha256": "5b874a21fbddddceea509844135605f495a064735041cb4e390ebf0e2733df60",
-          "sha1": "426495f9f71105c050e556430666a94dddfeb03c",
-          "md5": "4a3007e336f5fbe43d7f9476f06340d6"
+          "size": 1740612,
+          "sha512": "d368a461de25bec50c403b7feb92dc5036ed19a87f5150b63d1deb8bf7098981375cf864a79ac710b637faa122ca8fc789d35272140fce4e709590f6280dc876",
+          "sha256": "e0a157350a4477090312ca08f7a14912506d948f12ef7b46c2c6e1ab79fbab96",
+          "sha1": "1414bfa682134d2dc1ecd3dc82249235f10f799c",
+          "md5": "8940b58a4a4378f60cd90a159372f160"
         }
       ]
     },
@@ -196,7 +196,7 @@
           "group": "cn.leancloud",
           "module": "storage-android",
           "version": {
-            "requires": "7.1.1"
+            "requires": "8.2.12"
           }
         },
         {
@@ -232,11 +232,11 @@
         {
           "name": "bmob-1.1.0.aar",
           "url": "bmob-1.1.0.aar",
-          "size": 1735474,
-          "sha512": "f40e08dd012823dbd77855ba3a84910a7e314f34c4b24b0f038b4e946a4073b4b4111e51e20bc74357bdc76db52742ad3acfd07b290b1d7a4cdcc47faf46bb73",
-          "sha256": "5b874a21fbddddceea509844135605f495a064735041cb4e390ebf0e2733df60",
-          "sha1": "426495f9f71105c050e556430666a94dddfeb03c",
-          "md5": "4a3007e336f5fbe43d7f9476f06340d6"
+          "size": 1740612,
+          "sha512": "d368a461de25bec50c403b7feb92dc5036ed19a87f5150b63d1deb8bf7098981375cf864a79ac710b637faa122ca8fc789d35272140fce4e709590f6280dc876",
+          "sha256": "e0a157350a4477090312ca08f7a14912506d948f12ef7b46c2c6e1ab79fbab96",
+          "sha1": "1414bfa682134d2dc1ecd3dc82249235f10f799c",
+          "md5": "8940b58a4a4378f60cd90a159372f160"
         }
       ]
     }
