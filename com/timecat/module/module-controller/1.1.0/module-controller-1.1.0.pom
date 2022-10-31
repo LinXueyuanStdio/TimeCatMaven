@@ -65,7 +65,7 @@
     <dependency>
       <groupId>androidx.constraintlayout</groupId>
       <artifactId>constraintlayout</artifactId>
-      <version>2.0.1</version>
+      <version>2.1.4</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -93,8 +93,8 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.timecat.component</groupId>
-      <artifactId>SelfBaidu</artifactId>
+      <groupId>com.timecat.extend</groupId>
+      <artifactId>baidu</artifactId>
       <version>+</version>
       <scope>compile</scope>
     </dependency>
@@ -159,12 +159,6 @@
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <groupId>com.ramotion.foldingcell</groupId>
-      <artifactId>folding-cell</artifactId>
-      <version>1.2.1</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
       <groupId>br.com.simplepass</groupId>
       <artifactId>loading-button-android</artifactId>
       <version>2.0.0</version>
@@ -174,12 +168,6 @@
       <groupId>devlight.io</groupId>
       <artifactId>navigationtabbar</artifactId>
       <version>1.2.5</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.github.devlight</groupId>
-      <artifactId>infinitecycleviewpager</artifactId>
-      <version>1.0.2</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>

@@ -24,6 +24,13 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
@@ -50,17 +57,24 @@
           "version": {
             "requires": "7.3.0"
           }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
         }
       ],
       "files": [
         {
           "name": "download-jar-1.0.0.aar",
           "url": "download-jar-1.0.0.aar",
-          "size": 98247,
-          "sha512": "a6d4287ed93e0ce531ae4a09b314127b88248bfe2eaca8e42a179875a07c87f0235535f1e8bd810d50e8e4ad5397c807d3cba89341fc9028f13a362fb5b47d40",
-          "sha256": "8aac1eb42c081e782aa33723d0e6a69e7d20d78bcd735afab23f4e94579da2eb",
-          "sha1": "c88b8d2459ecab37979c4c378ecaf34dcbe0bbbe",
-          "md5": "4ddb20640cac8dec84c99c5f5c402f9c"
+          "size": 98251,
+          "sha512": "d955271c56a43b16654a11e3fef99fa1c3a42ab5090fa89c4d382daf4d0727abb317d1930bac37076eb0bbc3435d1f281b87689c2da1294d631e4952bfc9bc91",
+          "sha256": "2f41a9b9a7b39675ffbf87403db102bddf08406d20910a8969bafe296c89a234",
+          "sha1": "32aa600b52923b92a7f68b655e9f10596c4c4623",
+          "md5": "fb21bdb383f438c2810a193e375f89d5"
         }
       ]
     },
@@ -74,6 +88,13 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
@@ -100,17 +121,24 @@
           "version": {
             "requires": "7.3.0"
           }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
         }
       ],
       "files": [
         {
           "name": "download-jar-1.0.0.aar",
           "url": "download-jar-1.0.0.aar",
-          "size": 98247,
-          "sha512": "a6d4287ed93e0ce531ae4a09b314127b88248bfe2eaca8e42a179875a07c87f0235535f1e8bd810d50e8e4ad5397c807d3cba89341fc9028f13a362fb5b47d40",
-          "sha256": "8aac1eb42c081e782aa33723d0e6a69e7d20d78bcd735afab23f4e94579da2eb",
-          "sha1": "c88b8d2459ecab37979c4c378ecaf34dcbe0bbbe",
-          "md5": "4ddb20640cac8dec84c99c5f5c402f9c"
+          "size": 98251,
+          "sha512": "d955271c56a43b16654a11e3fef99fa1c3a42ab5090fa89c4d382daf4d0727abb317d1930bac37076eb0bbc3435d1f281b87689c2da1294d631e4952bfc9bc91",
+          "sha256": "2f41a9b9a7b39675ffbf87403db102bddf08406d20910a8969bafe296c89a234",
+          "sha1": "32aa600b52923b92a7f68b655e9f10596c4c4623",
+          "md5": "fb21bdb383f438c2810a193e375f89d5"
         }
       ]
     }

@@ -63,19 +63,6 @@
           ]
         },
         {
-          "group": "com.timecat.middle",
-          "module": "selector",
-          "version": {
-            "requires": "+"
-          },
-          "excludes": [
-            {
-              "group": "*",
-              "module": "httpclient"
-            }
-          ]
-        },
-        {
           "group": "com.timecat.data",
           "module": "bmob",
           "version": {
@@ -183,7 +170,7 @@
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.7.0"
           },
           "excludes": [
             {
@@ -369,7 +356,7 @@
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           },
           "excludes": [
             {
@@ -382,7 +369,7 @@
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           },
           "excludes": [
             {
@@ -395,7 +382,7 @@
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           },
           "excludes": [
             {
@@ -408,7 +395,7 @@
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           },
           "excludes": [
             {
@@ -422,11 +409,11 @@
         {
           "name": "module-browser-1.1.0.aar",
           "url": "module-browser-1.1.0.aar",
-          "size": 1665552,
-          "sha512": "028967255e45ca62bf1c1b38c06e740bbb17a206a2212b1c8cbcb6235c1070df7f4c49070fe7ad90dc8f263375f922a6a646843d6683b620819c61fcdbaef4df",
-          "sha256": "9a0531c95f5919b76e9cc1c919bc621d4329fa3739667debee706b1e8c41760f",
-          "sha1": "05af68eefd0a7151f209b9ce9b1b4d64d3d6e335",
-          "md5": "69178ed06287ffc0be367ab8980e0b27"
+          "size": 1670108,
+          "sha512": "038aa138bf9c2db8e728982933bffabf1a50fb66006b39cfc17890900d6a8caa3207350770fa1337246418164799045da1c83b7658168d1feb7d72f5b669e5ca",
+          "sha256": "b56ff8bcd7cc86d10713ff9954668d97d0d2bfaaa91c2a4c7da8856798ab4c15",
+          "sha1": "3b9d72215eccfe940c25e7dc6e3af287001e1628",
+          "md5": "5c9fa59b20ac9e2f7612750c97f07710"
         }
       ]
     },
@@ -492,19 +479,6 @@
           ]
         },
         {
-          "group": "com.timecat.middle",
-          "module": "selector",
-          "version": {
-            "requires": "+"
-          },
-          "excludes": [
-            {
-              "group": "*",
-              "module": "httpclient"
-            }
-          ]
-        },
-        {
           "group": "com.timecat.data",
           "module": "bmob",
           "version": {
@@ -612,7 +586,7 @@
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.7.0"
           },
           "excludes": [
             {
@@ -798,7 +772,7 @@
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           },
           "excludes": [
             {
@@ -811,7 +785,7 @@
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           },
           "excludes": [
             {
@@ -824,7 +798,7 @@
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           },
           "excludes": [
             {
@@ -837,7 +811,7 @@
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           },
           "excludes": [
             {
@@ -851,11 +825,11 @@
         {
           "name": "module-browser-1.1.0.aar",
           "url": "module-browser-1.1.0.aar",
-          "size": 1665552,
-          "sha512": "028967255e45ca62bf1c1b38c06e740bbb17a206a2212b1c8cbcb6235c1070df7f4c49070fe7ad90dc8f263375f922a6a646843d6683b620819c61fcdbaef4df",
-          "sha256": "9a0531c95f5919b76e9cc1c919bc621d4329fa3739667debee706b1e8c41760f",
-          "sha1": "05af68eefd0a7151f209b9ce9b1b4d64d3d6e335",
-          "md5": "69178ed06287ffc0be367ab8980e0b27"
+          "size": 1670108,
+          "sha512": "038aa138bf9c2db8e728982933bffabf1a50fb66006b39cfc17890900d6a8caa3207350770fa1337246418164799045da1c83b7658168d1feb7d72f5b669e5ca",
+          "sha256": "b56ff8bcd7cc86d10713ff9954668d97d0d2bfaaa91c2a4c7da8856798ab4c15",
+          "sha1": "3b9d72215eccfe940c25e7dc6e3af287001e1628",
+          "md5": "5c9fa59b20ac9e2f7612750c97f07710"
         }
       ]
     }

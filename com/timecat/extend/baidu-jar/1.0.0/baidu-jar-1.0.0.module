@@ -31,6 +31,13 @@
           }
         },
         {
+          "group": "com.timecat.raw",
+          "module": "baidu",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
@@ -85,6 +92,13 @@
           "module": "kotlin-stdlib-jdk8",
           "version": {
             "requires": "1.7.20"
+          }
+        },
+        {
+          "group": "com.timecat.raw",
+          "module": "baidu",
+          "version": {
+            "requires": "+"
           }
         },
         {

@@ -24,6 +24,13 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "com.timecat.plugin",
           "module": "record-api",
           "version": {
@@ -64,24 +71,17 @@
           "version": {
             "requires": "7.3.0"
           }
-        },
-        {
-          "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
-          "version": {
-            "requires": "1.7.20"
-          }
         }
       ],
       "files": [
         {
           "name": "record-api-mock-jar-1.0.0.aar",
           "url": "record-api-mock-jar-1.0.0.aar",
-          "size": 107179,
-          "sha512": "5edbe4e7017a200e5f04e28673e8532143d3b5188ac6498a1174843cb3b0e8d9300017a7c155b6453f5cbf830fd45cd5f88ca129683d4a0237ffc667e48d115c",
-          "sha256": "3903219d55949bfc49a762f1ffd51481ed86807d8c3a517789941094a8ef749c",
-          "sha1": "282dfc0b9ac5d7f66e8363fc6a64d7435f495aa3",
-          "md5": "bd032f0e9151ca453bba2234bb65c4e2"
+          "size": 115208,
+          "sha512": "49e16915d75bae7d5337f2c08bed15718d68d2ef77ac3db3914629930f15062371786ba29bd673369fb6061bbab3c898833b4e134cd2f82a75b4d089167bce98",
+          "sha256": "4f335ccb15818d2951dd2fb8a60fb1c5f5743468f1b18ebf6fbe990d5094579b",
+          "sha1": "b439b809ed3b58beced958369b2c525e71842bbb",
+          "md5": "ebbcd687bf60d01afbf6d6980c81b020"
         }
       ]
     },
@@ -95,6 +95,13 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "com.timecat.plugin",
           "module": "record-api",
           "version": {
@@ -135,24 +142,17 @@
           "version": {
             "requires": "7.3.0"
           }
-        },
-        {
-          "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
-          "version": {
-            "requires": "1.7.20"
-          }
         }
       ],
       "files": [
         {
           "name": "record-api-mock-jar-1.0.0.aar",
           "url": "record-api-mock-jar-1.0.0.aar",
-          "size": 107179,
-          "sha512": "5edbe4e7017a200e5f04e28673e8532143d3b5188ac6498a1174843cb3b0e8d9300017a7c155b6453f5cbf830fd45cd5f88ca129683d4a0237ffc667e48d115c",
-          "sha256": "3903219d55949bfc49a762f1ffd51481ed86807d8c3a517789941094a8ef749c",
-          "sha1": "282dfc0b9ac5d7f66e8363fc6a64d7435f495aa3",
-          "md5": "bd032f0e9151ca453bba2234bb65c4e2"
+          "size": 115208,
+          "sha512": "49e16915d75bae7d5337f2c08bed15718d68d2ef77ac3db3914629930f15062371786ba29bd673369fb6061bbab3c898833b4e134cd2f82a75b4d089167bce98",
+          "sha256": "4f335ccb15818d2951dd2fb8a60fb1c5f5743468f1b18ebf6fbe990d5094579b",
+          "sha1": "b439b809ed3b58beced958369b2c525e71842bbb",
+          "md5": "ebbcd687bf60d01afbf6d6980c81b020"
         }
       ]
     }

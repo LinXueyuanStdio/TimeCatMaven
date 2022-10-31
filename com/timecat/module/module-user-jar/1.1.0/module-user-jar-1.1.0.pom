@@ -45,12 +45,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.timecat.middle</groupId>
-      <artifactId>selector</artifactId>
-      <version>+</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.timecat.data</groupId>
       <artifactId>bmob</artifactId>
       <version>+</version>

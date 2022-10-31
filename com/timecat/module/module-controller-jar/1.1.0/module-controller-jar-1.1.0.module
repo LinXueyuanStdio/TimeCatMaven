@@ -69,7 +69,7 @@
           "group": "androidx.constraintlayout",
           "module": "constraintlayout",
           "version": {
-            "requires": "2.0.1"
+            "requires": "2.1.4"
           }
         },
         {
@@ -101,8 +101,8 @@
           }
         },
         {
-          "group": "com.timecat.component",
-          "module": "SelfBaidu",
+          "group": "com.timecat.extend",
+          "module": "baidu",
           "version": {
             "requires": "+"
           }
@@ -161,11 +161,11 @@
         {
           "name": "module-controller-jar-1.1.0.aar",
           "url": "module-controller-jar-1.1.0.aar",
-          "size": 1938266,
-          "sha512": "50f5817e43ba50b1231c6f04e27d025b94bf9067add1ef091327c2a367818b54042effbebf34857cc41e38e96af2d3b0dcb4a34acdad02c11382ba9766523bd4",
-          "sha256": "923a103f15d4452315629150dee1b6a89887aff8943905d9abda486473b420c5",
-          "sha1": "87d5ecf55a89bc8e93df924f955a9e11435d4fb3",
-          "md5": "eedd9f0e37ef4ef99f6014122218248e"
+          "size": 1920726,
+          "sha512": "8fb5bfa11e44557a84a5eec988d74118ebaa57ad63342770427f605322798a44008c7a0f7c6a16552dbb7002bf121b528387623d7755fdb56f0c08ad5ebc3972",
+          "sha256": "a225b5096090de46287d9a5be9d45f5a73af807dc14ecd16e219ae2eadb13027",
+          "sha1": "8c7d29e079c595875937600d44b72c116a06a101",
+          "md5": "4a25aac4b8b33ed2395ad7bdfd5c862b"
         }
       ]
     },
@@ -224,7 +224,7 @@
           "group": "androidx.constraintlayout",
           "module": "constraintlayout",
           "version": {
-            "requires": "2.0.1"
+            "requires": "2.1.4"
           }
         },
         {
@@ -256,8 +256,8 @@
           }
         },
         {
-          "group": "com.timecat.component",
-          "module": "SelfBaidu",
+          "group": "com.timecat.extend",
+          "module": "baidu",
           "version": {
             "requires": "+"
           }
@@ -340,13 +340,6 @@
           }
         },
         {
-          "group": "com.ramotion.foldingcell",
-          "module": "folding-cell",
-          "version": {
-            "requires": "1.2.1"
-          }
-        },
-        {
           "group": "br.com.simplepass",
           "module": "loading-button-android",
           "version": {
@@ -359,24 +352,17 @@
           "version": {
             "requires": "1.2.5"
           }
-        },
-        {
-          "group": "com.github.devlight",
-          "module": "infinitecycleviewpager",
-          "version": {
-            "requires": "1.0.2"
-          }
         }
       ],
       "files": [
         {
           "name": "module-controller-jar-1.1.0.aar",
           "url": "module-controller-jar-1.1.0.aar",
-          "size": 1938266,
-          "sha512": "50f5817e43ba50b1231c6f04e27d025b94bf9067add1ef091327c2a367818b54042effbebf34857cc41e38e96af2d3b0dcb4a34acdad02c11382ba9766523bd4",
-          "sha256": "923a103f15d4452315629150dee1b6a89887aff8943905d9abda486473b420c5",
-          "sha1": "87d5ecf55a89bc8e93df924f955a9e11435d4fb3",
-          "md5": "eedd9f0e37ef4ef99f6014122218248e"
+          "size": 1920726,
+          "sha512": "8fb5bfa11e44557a84a5eec988d74118ebaa57ad63342770427f605322798a44008c7a0f7c6a16552dbb7002bf121b528387623d7755fdb56f0c08ad5ebc3972",
+          "sha256": "a225b5096090de46287d9a5be9d45f5a73af807dc14ecd16e219ae2eadb13027",
+          "sha1": "8c7d29e079c595875937600d44b72c116a06a101",
+          "md5": "4a25aac4b8b33ed2395ad7bdfd5c862b"
         }
       ]
     }

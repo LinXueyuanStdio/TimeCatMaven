@@ -33,6 +33,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.timecat.raw</groupId>
+      <artifactId>baidu</artifactId>
+      <version>+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-common</artifactId>
       <version>7.3.0</version>

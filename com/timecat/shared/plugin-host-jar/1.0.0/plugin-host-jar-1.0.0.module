@@ -24,6 +24,13 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "com.timecat.component",
           "module": "router",
           "version": {
@@ -57,17 +64,24 @@
           "version": {
             "requires": "7.3.0"
           }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
         }
       ],
       "files": [
         {
           "name": "plugin-host-jar-1.0.0.aar",
           "url": "plugin-host-jar-1.0.0.aar",
-          "size": 18840,
-          "sha512": "ba299cacf7cfd02018986fd5b32a05d5bffcc077afd181e5479924d0e142094fabbe69e8dd1b09557c97ec607a5e24a8e8a0ab1b54c269f8318074ea2df094c2",
-          "sha256": "b6c571fa5fc8ad465b4f440fa28a286c6f4acdd18c399d9295337387791f29f5",
-          "sha1": "2c12f2c78d44a5be075f247081a67833f4554437",
-          "md5": "c6e9e25468e4caf5dc09d40009c0def1"
+          "size": 18911,
+          "sha512": "8e80662d93391242748b9bdbe312c09877f28ae4bf1f08b58e4557f73aee3a9e705fcfdb9d09aa3809491374492ae17f21eb5579dc2d63d56451c2b398f811e6",
+          "sha256": "dc7600f3a4cac9ca43ceecbf4ac5376a26dc4b0e385100a97d7830449b09b2b7",
+          "sha1": "6f06cba8320d949bd8271bbe3ecdeb78de95630e",
+          "md5": "4605b003812609e02b111ca62f32cc1f"
         }
       ]
     },
@@ -81,6 +95,13 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "com.timecat.component",
           "module": "router",
           "version": {
@@ -114,17 +135,24 @@
           "version": {
             "requires": "7.3.0"
           }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
         }
       ],
       "files": [
         {
           "name": "plugin-host-jar-1.0.0.aar",
           "url": "plugin-host-jar-1.0.0.aar",
-          "size": 18840,
-          "sha512": "ba299cacf7cfd02018986fd5b32a05d5bffcc077afd181e5479924d0e142094fabbe69e8dd1b09557c97ec607a5e24a8e8a0ab1b54c269f8318074ea2df094c2",
-          "sha256": "b6c571fa5fc8ad465b4f440fa28a286c6f4acdd18c399d9295337387791f29f5",
-          "sha1": "2c12f2c78d44a5be075f247081a67833f4554437",
-          "md5": "c6e9e25468e4caf5dc09d40009c0def1"
+          "size": 18911,
+          "sha512": "8e80662d93391242748b9bdbe312c09877f28ae4bf1f08b58e4557f73aee3a9e705fcfdb9d09aa3809491374492ae17f21eb5579dc2d63d56451c2b398f811e6",
+          "sha256": "dc7600f3a4cac9ca43ceecbf4ac5376a26dc4b0e385100a97d7830449b09b2b7",
+          "sha1": "6f06cba8320d949bd8271bbe3ecdeb78de95630e",
+          "md5": "4605b003812609e02b111ca62f32cc1f"
         }
       ]
     }

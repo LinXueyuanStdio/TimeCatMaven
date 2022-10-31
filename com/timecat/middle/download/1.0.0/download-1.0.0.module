@@ -24,6 +24,13 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "com.timecat.component",
           "module": "setting",
           "version": {
@@ -71,24 +78,17 @@
           "version": {
             "requires": "7.3.0"
           }
-        },
-        {
-          "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
-          "version": {
-            "requires": "1.7.20"
-          }
         }
       ],
       "files": [
         {
           "name": "download-1.0.0.aar",
           "url": "download-1.0.0.aar",
-          "size": 57167,
-          "sha512": "ebb5b7121f8979d8d9c42cc309e2145427e67a97f2b7696789e81ec19c3dfc693997abe2364aa531506a4483d36ea7472f1d46901dadda4eee3f34cd167d5249",
-          "sha256": "c7f8bdc9b8fcfcfb189ce320d656fc766f8dd396d5c9379c96d016d3b3e3cb92",
-          "sha1": "dc8f4cfc21ba26e82e7d986cd9e9b8bedf72da2b",
-          "md5": "63a555eb2cf89a17abd0ed33369d5dd8"
+          "size": 58059,
+          "sha512": "2179e3f8cdfd7b18e70aba55ce5376ea6bdc714f82ce98573eab31b6c499734f46c80377b8890b3f70d24a890bbe61838806d559d2921c67965e8b4d18f0f493",
+          "sha256": "b9f6a657c5457fb0d7c31c39c0a6e5800bc56de1a84782151097fb00e1783a18",
+          "sha1": "e57fe156c89fd9bd63b96b25bc358e3b37fea870",
+          "md5": "b9e859a97a90d1be4ad7fd280d3e5b95"
         }
       ]
     },
@@ -102,6 +102,13 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "com.timecat.component",
           "module": "setting",
           "version": {
@@ -149,24 +156,17 @@
           "version": {
             "requires": "7.3.0"
           }
-        },
-        {
-          "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
-          "version": {
-            "requires": "1.7.20"
-          }
         }
       ],
       "files": [
         {
           "name": "download-1.0.0.aar",
           "url": "download-1.0.0.aar",
-          "size": 57167,
-          "sha512": "ebb5b7121f8979d8d9c42cc309e2145427e67a97f2b7696789e81ec19c3dfc693997abe2364aa531506a4483d36ea7472f1d46901dadda4eee3f34cd167d5249",
-          "sha256": "c7f8bdc9b8fcfcfb189ce320d656fc766f8dd396d5c9379c96d016d3b3e3cb92",
-          "sha1": "dc8f4cfc21ba26e82e7d986cd9e9b8bedf72da2b",
-          "md5": "63a555eb2cf89a17abd0ed33369d5dd8"
+          "size": 58059,
+          "sha512": "2179e3f8cdfd7b18e70aba55ce5376ea6bdc714f82ce98573eab31b6c499734f46c80377b8890b3f70d24a890bbe61838806d559d2921c67965e8b4d18f0f493",
+          "sha256": "b9f6a657c5457fb0d7c31c39c0a6e5800bc56de1a84782151097fb00e1783a18",
+          "sha1": "e57fe156c89fd9bd63b96b25bc358e3b37fea870",
+          "md5": "b9e859a97a90d1be4ad7fd280d3e5b95"
         }
       ]
     }

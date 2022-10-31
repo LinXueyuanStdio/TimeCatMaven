@@ -24,6 +24,13 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "com.timecat.plugin",
           "module": "record-api",
           "version": {
@@ -85,24 +92,17 @@
           "version": {
             "requires": "7.3.0"
           }
-        },
-        {
-          "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
-          "version": {
-            "requires": "1.7.20"
-          }
         }
       ],
       "files": [
         {
           "name": "record-api-holder-1.0.0.aar",
           "url": "record-api-holder-1.0.0.aar",
-          "size": 113250,
-          "sha512": "501a95cdbae8db0cde40c64d3f88290235c9b97ccd42bf1e89c8b8c091c0d8dd5e5a2c647954f9f8e9a78a2da31a68f68b87c99d258cf9cbc96872df4192454d",
-          "sha256": "ee56421bfaaa53abc7886fba2dc29481200ac1dc752bf2e3db8cdc300f5a24f9",
-          "sha1": "62026c0ca5b435335cefa89cdddaba0203450c32",
-          "md5": "71058a96ac7b18f49982236070936271"
+          "size": 121461,
+          "sha512": "c0d82831bf96c5361cf0a99b7ac9982ba6c6e781f90796f41b1f156470851507e40c22adb09e595757f939a69aa8782d933b6301473589543aaf6fddb7b85d9f",
+          "sha256": "fd6309c461f8de215952c37cb316dc3d286c8ad1bf87603d6acd1be17a41c892",
+          "sha1": "fbaa632d042481b745af763391380aa9fa4bdc0e",
+          "md5": "090bf762be09587b4681d90e6f96e670"
         }
       ]
     },
@@ -116,6 +116,13 @@
       },
       "dependencies": [
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
           "group": "com.timecat.plugin",
           "module": "record-api",
           "version": {
@@ -177,24 +184,17 @@
           "version": {
             "requires": "7.3.0"
           }
-        },
-        {
-          "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
-          "version": {
-            "requires": "1.7.20"
-          }
         }
       ],
       "files": [
         {
           "name": "record-api-holder-1.0.0.aar",
           "url": "record-api-holder-1.0.0.aar",
-          "size": 113250,
-          "sha512": "501a95cdbae8db0cde40c64d3f88290235c9b97ccd42bf1e89c8b8c091c0d8dd5e5a2c647954f9f8e9a78a2da31a68f68b87c99d258cf9cbc96872df4192454d",
-          "sha256": "ee56421bfaaa53abc7886fba2dc29481200ac1dc752bf2e3db8cdc300f5a24f9",
-          "sha1": "62026c0ca5b435335cefa89cdddaba0203450c32",
-          "md5": "71058a96ac7b18f49982236070936271"
+          "size": 121461,
+          "sha512": "c0d82831bf96c5361cf0a99b7ac9982ba6c6e781f90796f41b1f156470851507e40c22adb09e595757f939a69aa8782d933b6301473589543aaf6fddb7b85d9f",
+          "sha256": "fd6309c461f8de215952c37cb316dc3d286c8ad1bf87603d6acd1be17a41c892",
+          "sha1": "fbaa632d042481b745af763391380aa9fa4bdc0e",
+          "md5": "090bf762be09587b4681d90e6f96e670"
         }
       ]
     }

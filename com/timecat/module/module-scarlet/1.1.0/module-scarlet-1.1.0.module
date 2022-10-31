@@ -31,7 +31,7 @@
           }
         },
         {
-          "group": "com.timecat.extend",
+          "group": "com.timecat.identity",
           "module": "markdown",
           "version": {
             "requires": "+"
@@ -83,14 +83,14 @@
           "group": "androidx.constraintlayout",
           "module": "constraintlayout",
           "version": {
-            "requires": "2.0.1"
+            "requires": "2.1.4"
           }
         },
         {
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.7.0"
           }
         },
         {
@@ -196,11 +196,11 @@
         {
           "name": "module-scarlet-1.1.0.aar",
           "url": "module-scarlet-1.1.0.aar",
-          "size": 3452926,
-          "sha512": "720529bd0f40c013599302ba066dff60dd27c0690b04aa38939e22207e5aff7d1bbfce55cd20fb90db00d87ee7884457d1ac0a53bb14c90e72c1f2f85887bfdb",
-          "sha256": "737c7405097efbcedd4236d08e54cbf545b1e4da620456dd78d9e9d8dcff48af",
-          "sha1": "660a85c608ebcaa48dab7d98fbf48a22f918d064",
-          "md5": "53abd0a1f2bea22dc78fbd443b508a82"
+          "size": 3454641,
+          "sha512": "d91b0fe851b2b0e45a9bcf0682ea3681d4566077b6d66b7b9655320837e4bc91b6502c2f05bbfb97fcb2cfea8bf769940940ad5cf6414e60966b2da5a5c64efc",
+          "sha256": "b935df64b9f3b3d272d60d6040194cc4fc4c3d325d1e5f54ccf4dd095259128a",
+          "sha1": "c19cf878bcad89c1bb976c30896d23380edc1961",
+          "md5": "c12ec681ca6d8b004bd7fc10889e90b6"
         }
       ]
     },
@@ -221,7 +221,7 @@
           }
         },
         {
-          "group": "com.timecat.extend",
+          "group": "com.timecat.identity",
           "module": "markdown",
           "version": {
             "requires": "+"
@@ -273,14 +273,14 @@
           "group": "androidx.constraintlayout",
           "module": "constraintlayout",
           "version": {
-            "requires": "2.0.1"
+            "requires": "2.1.4"
           }
         },
         {
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.7.0"
           }
         },
         {
@@ -407,11 +407,11 @@
         {
           "name": "module-scarlet-1.1.0.aar",
           "url": "module-scarlet-1.1.0.aar",
-          "size": 3452926,
-          "sha512": "720529bd0f40c013599302ba066dff60dd27c0690b04aa38939e22207e5aff7d1bbfce55cd20fb90db00d87ee7884457d1ac0a53bb14c90e72c1f2f85887bfdb",
-          "sha256": "737c7405097efbcedd4236d08e54cbf545b1e4da620456dd78d9e9d8dcff48af",
-          "sha1": "660a85c608ebcaa48dab7d98fbf48a22f918d064",
-          "md5": "53abd0a1f2bea22dc78fbd443b508a82"
+          "size": 3454641,
+          "sha512": "d91b0fe851b2b0e45a9bcf0682ea3681d4566077b6d66b7b9655320837e4bc91b6502c2f05bbfb97fcb2cfea8bf769940940ad5cf6414e60966b2da5a5c64efc",
+          "sha256": "b935df64b9f3b3d272d60d6040194cc4fc4c3d325d1e5f54ccf4dd095259128a",
+          "sha1": "c19cf878bcad89c1bb976c30896d23380edc1961",
+          "md5": "c12ec681ca6d8b004bd7fc10889e90b6"
         }
       ]
     }
