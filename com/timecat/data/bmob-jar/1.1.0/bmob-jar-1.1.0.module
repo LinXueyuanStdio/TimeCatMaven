@@ -87,6 +87,13 @@
           }
         },
         {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.9"
+          }
+        },
+        {
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
@@ -119,11 +126,11 @@
         {
           "name": "bmob-jar-1.1.0.aar",
           "url": "bmob-jar-1.1.0.aar",
-          "size": 1740208,
-          "sha512": "ae9089427215b9f7b8a345f36e1a5603cc1b9bc07956fb3f6b5690d0053505364c67ec8e84276d30e6dc66827492757542e512e93865a6ec50831f61c802fae2",
-          "sha256": "14c27fd62d508c4aad8b0bbb8f4584d73b1860fdb9584e85a3ab154581a178af",
-          "sha1": "60c5b96e532b09d5ffe10d4911d51d88041831ba",
-          "md5": "d8501f0e29f94af7e18560470aa8e7cb"
+          "size": 1740124,
+          "sha512": "07dcbbdadf013af7f57d949c88b098ec058a316e31f8f5b92ba1e119816ab23158816d39e8a47dbdd3e529829a655be496269aec858287fb431af7be037e1053",
+          "sha256": "57cae703380513d4bfec3b0853351dd8348d0cfc7b5c4ce574a5c0351c404c31",
+          "sha1": "f29615de24df8ec98200e0a465d5ab7e15751bbe",
+          "md5": "684d099b7660217e18573d5440317c65"
         }
       ]
     },
@@ -200,6 +207,13 @@
           }
         },
         {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.9"
+          }
+        },
+        {
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
@@ -232,11 +246,11 @@
         {
           "name": "bmob-jar-1.1.0.aar",
           "url": "bmob-jar-1.1.0.aar",
-          "size": 1740208,
-          "sha512": "ae9089427215b9f7b8a345f36e1a5603cc1b9bc07956fb3f6b5690d0053505364c67ec8e84276d30e6dc66827492757542e512e93865a6ec50831f61c802fae2",
-          "sha256": "14c27fd62d508c4aad8b0bbb8f4584d73b1860fdb9584e85a3ab154581a178af",
-          "sha1": "60c5b96e532b09d5ffe10d4911d51d88041831ba",
-          "md5": "d8501f0e29f94af7e18560470aa8e7cb"
+          "size": 1740124,
+          "sha512": "07dcbbdadf013af7f57d949c88b098ec058a316e31f8f5b92ba1e119816ab23158816d39e8a47dbdd3e529829a655be496269aec858287fb431af7be037e1053",
+          "sha256": "57cae703380513d4bfec3b0853351dd8348d0cfc7b5c4ce574a5c0351c404c31",
+          "sha1": "f29615de24df8ec98200e0a465d5ab7e15751bbe",
+          "md5": "684d099b7660217e18573d5440317c65"
         }
       ]
     }

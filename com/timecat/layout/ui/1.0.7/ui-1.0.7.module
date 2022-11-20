@@ -38,15 +38,15 @@
           }
         },
         {
-          "group": "com.timecat.data",
-          "module": "system",
+          "group": "com.timecat.component",
+          "module": "sdk",
           "version": {
             "requires": "+"
           }
         },
         {
-          "group": "com.timecat.component",
-          "module": "sdk",
+          "group": "com.timecat.data",
+          "module": "system",
           "version": {
             "requires": "+"
           }
@@ -84,13 +84,6 @@
           "module": "dynamicanimation",
           "version": {
             "requires": "1.0.0"
-          }
-        },
-        {
-          "group": "com.github.markomilos",
-          "module": "paginate",
-          "version": {
-            "requires": "0.5.1"
           }
         },
         {
@@ -203,11 +196,11 @@
         {
           "name": "ui-1.0.7.aar",
           "url": "ui-1.0.7.aar",
-          "size": 1048528,
-          "sha512": "04ff5d2c6cb94a20df1d6e0b115c531b46d9bf53369f7f851921904cc402b59f94378770062d21e0ebc45fcff02f1aa5f14009f0d5b8a72cc77c67900c1f4b5e",
-          "sha256": "74ef13356beb6f394ae6e292dcdaeded788beeed1a9612faedff2ac2999cca2d",
-          "sha1": "683b074a5aa0183907a9b47752dbeaacee2f21d9",
-          "md5": "bf8f0d46f012d464135a5accf80fac3e"
+          "size": 1049426,
+          "sha512": "058966476c44d71ba152386f3fdb3e3cafb32f5641843791b215e4ef2714e279a90d4e35a8eda80d1ad2b04278c584ca1be30b2a654e3626be7d2220ea7b3353",
+          "sha256": "97979adf85df21904b5ded8d11963c23b7edba45ba9440446fe886d29da3a05b",
+          "sha1": "16038fa848670700624a9a216f45dbb42a3ede11",
+          "md5": "5d1bebf67047be308e81edccea6c0c1c"
         }
       ]
     },
@@ -242,15 +235,15 @@
           }
         },
         {
-          "group": "com.timecat.data",
-          "module": "system",
+          "group": "com.timecat.component",
+          "module": "sdk",
           "version": {
             "requires": "+"
           }
         },
         {
-          "group": "com.timecat.component",
-          "module": "sdk",
+          "group": "com.timecat.data",
+          "module": "system",
           "version": {
             "requires": "+"
           }
@@ -288,13 +281,6 @@
           "module": "dynamicanimation",
           "version": {
             "requires": "1.0.0"
-          }
-        },
-        {
-          "group": "com.github.markomilos",
-          "module": "paginate",
-          "version": {
-            "requires": "0.5.1"
           }
         },
         {
@@ -407,11 +393,11 @@
         {
           "name": "ui-1.0.7.aar",
           "url": "ui-1.0.7.aar",
-          "size": 1048528,
-          "sha512": "04ff5d2c6cb94a20df1d6e0b115c531b46d9bf53369f7f851921904cc402b59f94378770062d21e0ebc45fcff02f1aa5f14009f0d5b8a72cc77c67900c1f4b5e",
-          "sha256": "74ef13356beb6f394ae6e292dcdaeded788beeed1a9612faedff2ac2999cca2d",
-          "sha1": "683b074a5aa0183907a9b47752dbeaacee2f21d9",
-          "md5": "bf8f0d46f012d464135a5accf80fac3e"
+          "size": 1049426,
+          "sha512": "058966476c44d71ba152386f3fdb3e3cafb32f5641843791b215e4ef2714e279a90d4e35a8eda80d1ad2b04278c584ca1be30b2a654e3626be7d2220ea7b3353",
+          "sha256": "97979adf85df21904b5ded8d11963c23b7edba45ba9440446fe886d29da3a05b",
+          "sha1": "16038fa848670700624a9a216f45dbb42a3ede11",
+          "md5": "5d1bebf67047be308e81edccea6c0c1c"
         }
       ]
     }

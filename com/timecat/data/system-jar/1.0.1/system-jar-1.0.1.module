@@ -118,7 +118,7 @@
           "group": "com.google.code.gson",
           "module": "gson",
           "version": {
-            "requires": "2.8.8"
+            "requires": "2.8.9"
           }
         },
         {
@@ -168,11 +168,11 @@
         {
           "name": "system-jar-1.0.1.aar",
           "url": "system-jar-1.0.1.aar",
-          "size": 218791,
-          "sha512": "78c9f080b87a71caa19c01b07d8c5a6ad1ab81ee08b5e92e6cb3a51fd9c8bd9449c614c3d8c4436339d2b0b1422e86a8085213de5cddc40387c02b577e6110a8",
-          "sha256": "5f2d15e19dc970ee6ad527574ea5a6a971d792392317b216fcbd7194aa6d5b85",
-          "sha1": "a2b5fb9f14dfb6e2d4d66eb733930bc176e97f51",
-          "md5": "7a15cc1ba5f7b76727daf015f2551deb"
+          "size": 218750,
+          "sha512": "86e4dd1bf6be77f54443ec4c5e831d04d19f7ce4be4d10700166e4603b65de6bf13b4ae217c4e785b4c2af2e2f908a5f824f1e634cfdd6a69436d03f2a9b2c46",
+          "sha256": "4168197b43333bfd47e19fd04df3a0ab4657ea49cbb320406409a918de8ea9a1",
+          "sha1": "f6df63a5f5522dd3d83ba6ead29d7963f2cfb8d5",
+          "md5": "bb7873fe34dc7952fd5460dd1db7ae5f"
         }
       ]
     },
@@ -280,7 +280,7 @@
           "group": "com.google.code.gson",
           "module": "gson",
           "version": {
-            "requires": "2.8.8"
+            "requires": "2.8.9"
           }
         },
         {
@@ -330,11 +330,11 @@
         {
           "name": "system-jar-1.0.1.aar",
           "url": "system-jar-1.0.1.aar",
-          "size": 218791,
-          "sha512": "78c9f080b87a71caa19c01b07d8c5a6ad1ab81ee08b5e92e6cb3a51fd9c8bd9449c614c3d8c4436339d2b0b1422e86a8085213de5cddc40387c02b577e6110a8",
-          "sha256": "5f2d15e19dc970ee6ad527574ea5a6a971d792392317b216fcbd7194aa6d5b85",
-          "sha1": "a2b5fb9f14dfb6e2d4d66eb733930bc176e97f51",
-          "md5": "7a15cc1ba5f7b76727daf015f2551deb"
+          "size": 218750,
+          "sha512": "86e4dd1bf6be77f54443ec4c5e831d04d19f7ce4be4d10700166e4603b65de6bf13b4ae217c4e785b4c2af2e2f908a5f824f1e634cfdd6a69436d03f2a9b2c46",
+          "sha256": "4168197b43333bfd47e19fd04df3a0ab4657ea49cbb320406409a918de8ea9a1",
+          "sha1": "f6df63a5f5522dd3d83ba6ead29d7963f2cfb8d5",
+          "md5": "bb7873fe34dc7952fd5460dd1db7ae5f"
         }
       ]
     }
