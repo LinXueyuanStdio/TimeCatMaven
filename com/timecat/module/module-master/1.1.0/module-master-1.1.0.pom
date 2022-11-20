@@ -45,6 +45,24 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.timecat.middle</groupId>
+      <artifactId>text</artifactId>
+      <version>+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.timecat.middle</groupId>
+      <artifactId>record-ext</artifactId>
+      <version>+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.timecat.component</groupId>
+      <artifactId>sdk</artifactId>
+      <version>+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.timecat.identity</groupId>
       <artifactId>font</artifactId>
       <version>+</version>
@@ -53,12 +71,6 @@
     <dependency>
       <groupId>com.timecat.identity</groupId>
       <artifactId>readonly</artifactId>
-      <version>+</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.timecat.component</groupId>
-      <artifactId>sdk</artifactId>
       <version>+</version>
       <scope>compile</scope>
     </dependency>
@@ -90,18 +102,6 @@
       <groupId>com.timecat.component</groupId>
       <artifactId>MLang</artifactId>
       <version>2.0.2</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.timecat.middle</groupId>
-      <artifactId>text</artifactId>
-      <version>+</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.timecat.middle</groupId>
-      <artifactId>record-ext</artifactId>
-      <version>+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -193,6 +193,60 @@
       <groupId>com.effective.android</groupId>
       <artifactId>panelSwitchHelper-androidx</artifactId>
       <version>1.3.13</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.biometric</groupId>
+      <artifactId>biometric</artifactId>
+      <version>1.1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.github.Rosemoe.sora-editor</groupId>
+      <artifactId>editor</artifactId>
+      <version>0.18.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.github.Rosemoe.sora-editor</groupId>
+      <artifactId>language-textmate</artifactId>
+      <version>0.18.1</version>
+      <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>gson</artifactId>
+          <groupId>com.google.code.gson</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
+      <groupId>io.github.Rosemoe.sora-editor</groupId>
+      <artifactId>language-java</artifactId>
+      <version>0.18.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.noties.markwon</groupId>
+      <artifactId>core</artifactId>
+      <version>4.6.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.noties.markwon</groupId>
+      <artifactId>editor</artifactId>
+      <version>4.6.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.noties.markwon</groupId>
+      <artifactId>ext-latex</artifactId>
+      <version>4.6.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.noties.markwon</groupId>
+      <artifactId>linkify</artifactId>
+      <version>4.6.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

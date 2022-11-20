@@ -45,6 +45,27 @@
           }
         },
         {
+          "group": "com.timecat.middle",
+          "module": "text",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "record-ext",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "sdk",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
           "group": "com.timecat.identity",
           "module": "font",
           "version": {
@@ -54,13 +75,6 @@
         {
           "group": "com.timecat.identity",
           "module": "readonly",
-          "version": {
-            "requires": "+"
-          }
-        },
-        {
-          "group": "com.timecat.component",
-          "module": "sdk",
           "version": {
             "requires": "+"
           }
@@ -98,20 +112,6 @@
           "module": "MLang",
           "version": {
             "requires": "2.0.2"
-          }
-        },
-        {
-          "group": "com.timecat.middle",
-          "module": "text",
-          "version": {
-            "requires": "+"
-          }
-        },
-        {
-          "group": "com.timecat.middle",
-          "module": "record-ext",
-          "version": {
-            "requires": "+"
           }
         },
         {
@@ -226,6 +226,68 @@
           }
         },
         {
+          "group": "androidx.biometric",
+          "module": "biometric",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "io.github.Rosemoe.sora-editor",
+          "module": "editor",
+          "version": {
+            "requires": "0.18.1"
+          }
+        },
+        {
+          "group": "io.github.Rosemoe.sora-editor",
+          "module": "language-textmate",
+          "version": {
+            "requires": "0.18.1"
+          },
+          "excludes": [
+            {
+              "group": "com.google.code.gson",
+              "module": "gson"
+            }
+          ]
+        },
+        {
+          "group": "io.github.Rosemoe.sora-editor",
+          "module": "language-java",
+          "version": {
+            "requires": "0.18.1"
+          }
+        },
+        {
+          "group": "io.noties.markwon",
+          "module": "core",
+          "version": {
+            "requires": "4.6.2"
+          }
+        },
+        {
+          "group": "io.noties.markwon",
+          "module": "editor",
+          "version": {
+            "requires": "4.6.2"
+          }
+        },
+        {
+          "group": "io.noties.markwon",
+          "module": "ext-latex",
+          "version": {
+            "requires": "4.6.2"
+          }
+        },
+        {
+          "group": "io.noties.markwon",
+          "module": "linkify",
+          "version": {
+            "requires": "4.6.2"
+          }
+        },
+        {
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
@@ -258,11 +320,11 @@
         {
           "name": "module-master-1.1.0.aar",
           "url": "module-master-1.1.0.aar",
-          "size": 3884239,
-          "sha512": "971a2e998ff2067c476e6d4e63f82b1a45fb526f8ac5c14b73776ddc1972458b4fdb11bdd0f0fd71733b278a185668eb9a864464d3261931eba0903c1422c8ca",
-          "sha256": "d7aebe82c8d073d66eada80c35a3175579d98e6632f2c7b6559fd83dd53e4ab1",
-          "sha1": "1e8a45e27a1d009a0e62cad6f84d5bb05696cda4",
-          "md5": "8af5dad51e94276085b80d412344d244"
+          "size": 4345018,
+          "sha512": "0c1e94d6da7b3a93eb8beaaa5bf9f4f6f84edb4541bc5db53c1f501d0e620308c41709a60b2cf14b7aef6a0927a9600b05a58343a3107d2644767d9da450d0d4",
+          "sha256": "3a9a359e4053fe00b04e98a9f1283af1affa9809e15fb462551a1a6c1bf2ba6e",
+          "sha1": "e9078aba37f1a291204b6f38648e8a356ec73fc9",
+          "md5": "9dd93feb659272e7da203823533afb8c"
         }
       ]
     },
@@ -304,6 +366,27 @@
           }
         },
         {
+          "group": "com.timecat.middle",
+          "module": "text",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.middle",
+          "module": "record-ext",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.component",
+          "module": "sdk",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
           "group": "com.timecat.identity",
           "module": "font",
           "version": {
@@ -313,13 +396,6 @@
         {
           "group": "com.timecat.identity",
           "module": "readonly",
-          "version": {
-            "requires": "+"
-          }
-        },
-        {
-          "group": "com.timecat.component",
-          "module": "sdk",
           "version": {
             "requires": "+"
           }
@@ -357,20 +433,6 @@
           "module": "MLang",
           "version": {
             "requires": "2.0.2"
-          }
-        },
-        {
-          "group": "com.timecat.middle",
-          "module": "text",
-          "version": {
-            "requires": "+"
-          }
-        },
-        {
-          "group": "com.timecat.middle",
-          "module": "record-ext",
-          "version": {
-            "requires": "+"
           }
         },
         {
@@ -485,6 +547,68 @@
           }
         },
         {
+          "group": "androidx.biometric",
+          "module": "biometric",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "io.github.Rosemoe.sora-editor",
+          "module": "editor",
+          "version": {
+            "requires": "0.18.1"
+          }
+        },
+        {
+          "group": "io.github.Rosemoe.sora-editor",
+          "module": "language-textmate",
+          "version": {
+            "requires": "0.18.1"
+          },
+          "excludes": [
+            {
+              "group": "com.google.code.gson",
+              "module": "gson"
+            }
+          ]
+        },
+        {
+          "group": "io.github.Rosemoe.sora-editor",
+          "module": "language-java",
+          "version": {
+            "requires": "0.18.1"
+          }
+        },
+        {
+          "group": "io.noties.markwon",
+          "module": "core",
+          "version": {
+            "requires": "4.6.2"
+          }
+        },
+        {
+          "group": "io.noties.markwon",
+          "module": "editor",
+          "version": {
+            "requires": "4.6.2"
+          }
+        },
+        {
+          "group": "io.noties.markwon",
+          "module": "ext-latex",
+          "version": {
+            "requires": "4.6.2"
+          }
+        },
+        {
+          "group": "io.noties.markwon",
+          "module": "linkify",
+          "version": {
+            "requires": "4.6.2"
+          }
+        },
+        {
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
@@ -517,11 +641,11 @@
         {
           "name": "module-master-1.1.0.aar",
           "url": "module-master-1.1.0.aar",
-          "size": 3884239,
-          "sha512": "971a2e998ff2067c476e6d4e63f82b1a45fb526f8ac5c14b73776ddc1972458b4fdb11bdd0f0fd71733b278a185668eb9a864464d3261931eba0903c1422c8ca",
-          "sha256": "d7aebe82c8d073d66eada80c35a3175579d98e6632f2c7b6559fd83dd53e4ab1",
-          "sha1": "1e8a45e27a1d009a0e62cad6f84d5bb05696cda4",
-          "md5": "8af5dad51e94276085b80d412344d244"
+          "size": 4345018,
+          "sha512": "0c1e94d6da7b3a93eb8beaaa5bf9f4f6f84edb4541bc5db53c1f501d0e620308c41709a60b2cf14b7aef6a0927a9600b05a58343a3107d2644767d9da450d0d4",
+          "sha256": "3a9a359e4053fe00b04e98a9f1283af1affa9809e15fb462551a1a6c1bf2ba6e",
+          "sha1": "e9078aba37f1a291204b6f38648e8a356ec73fc9",
+          "md5": "9dd93feb659272e7da203823533afb8c"
         }
       ]
     }

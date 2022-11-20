@@ -76,19 +76,6 @@
           ]
         },
         {
-          "group": "com.jakewharton.timber",
-          "module": "timber",
-          "version": {
-            "requires": "4.7.1"
-          },
-          "excludes": [
-            {
-              "group": "*",
-              "module": "httpclient"
-            }
-          ]
-        },
-        {
           "group": "com.github.CymChad",
           "module": "BaseRecyclerViewAdapterHelper",
           "version": {
@@ -118,7 +105,7 @@
           "group": "androidx.fragment",
           "module": "fragment",
           "version": {
-            "requires": "1.5.3"
+            "requires": "1.5.4"
           },
           "excludes": [
             {
@@ -144,7 +131,7 @@
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.7.0"
           },
           "excludes": [
             {
@@ -183,7 +170,7 @@
           "group": "androidx.constraintlayout",
           "module": "constraintlayout",
           "version": {
-            "requires": "2.0.1"
+            "requires": "2.1.4"
           },
           "excludes": [
             {
@@ -275,11 +262,11 @@
         {
           "name": "module-git-1.1.0.aar",
           "url": "module-git-1.1.0.aar",
-          "size": 1036861,
-          "sha512": "5d178ca9e51fd28ab09f189e4855d8a59d819f5cbf57aacaddab1a881e047ee7db5a9026af80278ded28287139e5390d7f0eb5f4bc437b1d8d36dea5665bbd2b",
-          "sha256": "cc001ab00bf8a10c450d37ec7c56d1bd23b132af8cc242db44ca28082cab0746",
-          "sha1": "527608d9886ec800aaaf7b0d9774619e9c226b12",
-          "md5": "7869cbdf8fc213de6afaa74292eb953b"
+          "size": 1093486,
+          "sha512": "483555133d92b99f65a926820524f98135a8bea5c4af3f4725c63b30b4d105474b0dc9a0d81b07593ff00f53860fc8ee424fc20943f4b47d2b8ecd68fb49794d",
+          "sha256": "5119c2cd4839eecb70f2fb7b820403c61d1bf2a934c9595f09d335b3f8abbc85",
+          "sha1": "381a5489b4ed9a7fcd3f4402d6076f373740aa57",
+          "md5": "c86f7e306d710fc06a22016e18eb3cde"
         }
       ]
     },
@@ -345,19 +332,6 @@
           ]
         },
         {
-          "group": "com.jakewharton.timber",
-          "module": "timber",
-          "version": {
-            "requires": "4.7.1"
-          },
-          "excludes": [
-            {
-              "group": "*",
-              "module": "httpclient"
-            }
-          ]
-        },
-        {
           "group": "com.github.CymChad",
           "module": "BaseRecyclerViewAdapterHelper",
           "version": {
@@ -387,7 +361,7 @@
           "group": "androidx.fragment",
           "module": "fragment",
           "version": {
-            "requires": "1.5.3"
+            "requires": "1.5.4"
           },
           "excludes": [
             {
@@ -413,7 +387,7 @@
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.7.0"
           },
           "excludes": [
             {
@@ -452,7 +426,7 @@
           "group": "androidx.constraintlayout",
           "module": "constraintlayout",
           "version": {
-            "requires": "2.0.1"
+            "requires": "2.1.4"
           },
           "excludes": [
             {
@@ -609,11 +583,11 @@
         {
           "name": "module-git-1.1.0.aar",
           "url": "module-git-1.1.0.aar",
-          "size": 1036861,
-          "sha512": "5d178ca9e51fd28ab09f189e4855d8a59d819f5cbf57aacaddab1a881e047ee7db5a9026af80278ded28287139e5390d7f0eb5f4bc437b1d8d36dea5665bbd2b",
-          "sha256": "cc001ab00bf8a10c450d37ec7c56d1bd23b132af8cc242db44ca28082cab0746",
-          "sha1": "527608d9886ec800aaaf7b0d9774619e9c226b12",
-          "md5": "7869cbdf8fc213de6afaa74292eb953b"
+          "size": 1093486,
+          "sha512": "483555133d92b99f65a926820524f98135a8bea5c4af3f4725c63b30b4d105474b0dc9a0d81b07593ff00f53860fc8ee424fc20943f4b47d2b8ecd68fb49794d",
+          "sha256": "5119c2cd4839eecb70f2fb7b820403c61d1bf2a934c9595f09d335b3f8abbc85",
+          "sha1": "381a5489b4ed9a7fcd3f4402d6076f373740aa57",
+          "md5": "c86f7e306d710fc06a22016e18eb3cde"
         }
       ]
     }

@@ -77,7 +77,7 @@
     <dependency>
       <groupId>io.github.didi.dokit</groupId>
       <artifactId>dokitx-no-op</artifactId>
-      <version>3.4.0-alpha04</version>
+      <version>3.5.0</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>

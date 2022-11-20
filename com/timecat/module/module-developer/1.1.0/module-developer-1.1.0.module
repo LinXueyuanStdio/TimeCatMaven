@@ -84,11 +84,11 @@
         {
           "name": "module-developer-1.1.0.aar",
           "url": "module-developer-1.1.0.aar",
-          "size": 173874,
-          "sha512": "87ff76ceb270bb7efe382578f72a24ea4d1e9daebc7ea4332f1faf7e1003a4b090a3352f413f61f8b9d8a325ab9d552e1b822b35df4ca43b4bb6414489d38230",
-          "sha256": "18a5eaa65acded0992380854baad8dfe8c773839ff256bfbad94c3d96b452625",
-          "sha1": "9fad67fcaaf63f0bd09b87d2b6b5fcefc0e636dd",
-          "md5": "319d9445046b11cce81178ca90029326"
+          "size": 175198,
+          "sha512": "5e36d8a3671fdc3ac21981ca82eb8f64c9951c6a4b6db64708920647db364f028eb86e0c8502880c88faca5a7db76884005d03292ec4ab143dd669e8d348c3be",
+          "sha256": "4cbe58f1a60c64be58dfe611a76e0b371619ef8de58cc4457ff08989b2bd8a46",
+          "sha1": "a0c410e2849be126bc2fcf413fa71be2a47e9d58",
+          "md5": "b32063819b3c1c98136271477e5b2817"
         }
       ]
     },
@@ -105,7 +105,7 @@
           "group": "io.github.didi.dokit",
           "module": "dokitx-no-op",
           "version": {
-            "requires": "3.4.0-alpha04"
+            "requires": "3.5.0"
           }
         },
         {
@@ -197,11 +197,11 @@
         {
           "name": "module-developer-1.1.0.aar",
           "url": "module-developer-1.1.0.aar",
-          "size": 173874,
-          "sha512": "87ff76ceb270bb7efe382578f72a24ea4d1e9daebc7ea4332f1faf7e1003a4b090a3352f413f61f8b9d8a325ab9d552e1b822b35df4ca43b4bb6414489d38230",
-          "sha256": "18a5eaa65acded0992380854baad8dfe8c773839ff256bfbad94c3d96b452625",
-          "sha1": "9fad67fcaaf63f0bd09b87d2b6b5fcefc0e636dd",
-          "md5": "319d9445046b11cce81178ca90029326"
+          "size": 175198,
+          "sha512": "5e36d8a3671fdc3ac21981ca82eb8f64c9951c6a4b6db64708920647db364f028eb86e0c8502880c88faca5a7db76884005d03292ec4ab143dd669e8d348c3be",
+          "sha256": "4cbe58f1a60c64be58dfe611a76e0b371619ef8de58cc4457ff08989b2bd8a46",
+          "sha1": "a0c410e2849be126bc2fcf413fa71be2a47e9d58",
+          "md5": "b32063819b3c1c98136271477e5b2817"
         }
       ]
     }

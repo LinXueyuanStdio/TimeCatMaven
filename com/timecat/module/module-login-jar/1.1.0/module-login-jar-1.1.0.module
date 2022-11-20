@@ -98,11 +98,11 @@
         {
           "name": "module-login-jar-1.1.0.aar",
           "url": "module-login-jar-1.1.0.aar",
-          "size": 206274,
-          "sha512": "4c250477332e29ebad4abf319132a1c5b166bd108ecb33505baeade16271b5b5b1b4546995ed565b64fe6706cc28e1270e5fdc4fe98c4d190d7ea75f24091528",
-          "sha256": "b7c565f2ee0aa21c3a460919a12c3cd87229e9ba3af02c7e00349f2bf23499bc",
-          "sha1": "5ef55ce60cce714232e888c96fe42735ca4af3e6",
-          "md5": "645ce98973ce7c1837b77aea6ac7967a"
+          "size": 206278,
+          "sha512": "44025e2fc403ce764c2ff1941010b7f84c95a30414459b247adafa35a3afedc97947c4c2622e82890cd36e515f1c9f5dfe1f31e6ff39ac3ba14df877eab0515b",
+          "sha256": "3635ab05da0c1fceda5382b8a9357c53890c81ec56ce65e84335e0b3b1cdc8cb",
+          "sha1": "803cd4ecf981763944edf1df55edbccae2f4eb1f",
+          "md5": "413a0da00edd27f5872f065676b45f7b"
         }
       ]
     },
@@ -190,11 +190,11 @@
         {
           "name": "module-login-jar-1.1.0.aar",
           "url": "module-login-jar-1.1.0.aar",
-          "size": 206274,
-          "sha512": "4c250477332e29ebad4abf319132a1c5b166bd108ecb33505baeade16271b5b5b1b4546995ed565b64fe6706cc28e1270e5fdc4fe98c4d190d7ea75f24091528",
-          "sha256": "b7c565f2ee0aa21c3a460919a12c3cd87229e9ba3af02c7e00349f2bf23499bc",
-          "sha1": "5ef55ce60cce714232e888c96fe42735ca4af3e6",
-          "md5": "645ce98973ce7c1837b77aea6ac7967a"
+          "size": 206278,
+          "sha512": "44025e2fc403ce764c2ff1941010b7f84c95a30414459b247adafa35a3afedc97947c4c2622e82890cd36e515f1c9f5dfe1f31e6ff39ac3ba14df877eab0515b",
+          "sha256": "3635ab05da0c1fceda5382b8a9357c53890c81ec56ce65e84335e0b3b1cdc8cb",
+          "sha1": "803cd4ecf981763944edf1df55edbccae2f4eb1f",
+          "md5": "413a0da00edd27f5872f065676b45f7b"
         }
       ]
     }

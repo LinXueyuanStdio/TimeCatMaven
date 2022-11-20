@@ -98,11 +98,11 @@
         {
           "name": "module-skin-1.0.0.aar",
           "url": "module-skin-1.0.0.aar",
-          "size": 323437,
-          "sha512": "d859cb7bc5a842e800445823e36ac39114a54fd11eae568e82d0d0396d2ff0d043ae59efa8c7336952fa8b9182961c8244b8af3dd9eb87908ff1cf800872e192",
-          "sha256": "742494ad05754c4adc5939033b8c49d3236d906ea5340b56ee21716d8890586e",
-          "sha1": "eb02e8333cd53dabddbbff33d44f86bc4b4961c6",
-          "md5": "0458e77a08e80e9adb27c8c42eeeac07"
+          "size": 323428,
+          "sha512": "871c232824dadf758b6081579b0cf7e2fe48fabb6b46e2e871bf4e1a8076e879c10f086fd6c338f2f13eb29dde40acb43508bef4d1ce3217a626119cb9fb88e1",
+          "sha256": "f3d0435c6be7e77c46fa35b47be250e3546cc81f09f7c9df5cb4b77dc2974b21",
+          "sha1": "a8bf1c4d6e173cc49ab28b721c6eb8cf6b46466c",
+          "md5": "7f74a05e7790e6a5f54bac407d7e0a32"
         }
       ]
     },
@@ -190,11 +190,11 @@
         {
           "name": "module-skin-1.0.0.aar",
           "url": "module-skin-1.0.0.aar",
-          "size": 323437,
-          "sha512": "d859cb7bc5a842e800445823e36ac39114a54fd11eae568e82d0d0396d2ff0d043ae59efa8c7336952fa8b9182961c8244b8af3dd9eb87908ff1cf800872e192",
-          "sha256": "742494ad05754c4adc5939033b8c49d3236d906ea5340b56ee21716d8890586e",
-          "sha1": "eb02e8333cd53dabddbbff33d44f86bc4b4961c6",
-          "md5": "0458e77a08e80e9adb27c8c42eeeac07"
+          "size": 323428,
+          "sha512": "871c232824dadf758b6081579b0cf7e2fe48fabb6b46e2e871bf4e1a8076e879c10f086fd6c338f2f13eb29dde40acb43508bef4d1ce3217a626119cb9fb88e1",
+          "sha256": "f3d0435c6be7e77c46fa35b47be250e3546cc81f09f7c9df5cb4b77dc2974b21",
+          "sha1": "a8bf1c4d6e173cc49ab28b721c6eb8cf6b46466c",
+          "md5": "7f74a05e7790e6a5f54bac407d7e0a32"
         }
       ]
     }

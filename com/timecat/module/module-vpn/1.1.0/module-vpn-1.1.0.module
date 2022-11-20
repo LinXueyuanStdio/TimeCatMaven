@@ -195,14 +195,14 @@
           "group": "org.jetbrains.kotlinx",
           "module": "kotlinx-coroutines-android",
           "version": {
-            "requires": "1.5.0"
+            "requires": "1.6.1"
           }
         },
         {
           "group": "org.jetbrains.kotlinx",
           "module": "kotlinx-coroutines-core",
           "version": {
-            "requires": "1.5.0"
+            "requires": "1.6.1"
           }
         },
         {
@@ -216,7 +216,7 @@
           "group": "com.google.code.gson",
           "module": "gson",
           "version": {
-            "requires": "2.8.8"
+            "requires": "2.8.9"
           }
         },
         {
@@ -335,11 +335,11 @@
         {
           "name": "module-vpn-1.1.0.aar",
           "url": "module-vpn-1.1.0.aar",
-          "size": 1081230,
-          "sha512": "79de4d14d5a3687f4a6625fabe1c387375f5df91d55baee67897d94d0206cf6bff27e831ec0d31375fa253aa93c6c9a303840f136d2ab70f0db96516323d2545",
-          "sha256": "9bf72d98a330874161a33d9957e88d5dfe26450ca3b4173849137d93ce9dac46",
-          "sha1": "96ff9522bd7cbf7f8ee77faadcc078165418d0ca",
-          "md5": "c4cf7a0c952de18423bb3ae208a960f8"
+          "size": 1081224,
+          "sha512": "b0245fa4089ac7a56b6efb531a6b425cc2c58a99cfa1e6dd1338422233f5a8a8d2e663ff68fe8b3cd85e44dd2c1f198528d6222dbe620b50a9278506b457ccb3",
+          "sha256": "ab9cc66d2ed1d27e63eeee27f439dc6e3ad24dfad486700a69efb56d18ddb85c",
+          "sha1": "599c6e494d24a139ea24ae6b64dee83b7f034710",
+          "md5": "78ef413f26b14a0a3845f5c6a3616c61"
         }
       ]
     },
@@ -524,14 +524,14 @@
           "group": "org.jetbrains.kotlinx",
           "module": "kotlinx-coroutines-android",
           "version": {
-            "requires": "1.5.0"
+            "requires": "1.6.1"
           }
         },
         {
           "group": "org.jetbrains.kotlinx",
           "module": "kotlinx-coroutines-core",
           "version": {
-            "requires": "1.5.0"
+            "requires": "1.6.1"
           }
         },
         {
@@ -545,7 +545,7 @@
           "group": "com.google.code.gson",
           "module": "gson",
           "version": {
-            "requires": "2.8.8"
+            "requires": "2.8.9"
           }
         },
         {
@@ -664,11 +664,11 @@
         {
           "name": "module-vpn-1.1.0.aar",
           "url": "module-vpn-1.1.0.aar",
-          "size": 1081230,
-          "sha512": "79de4d14d5a3687f4a6625fabe1c387375f5df91d55baee67897d94d0206cf6bff27e831ec0d31375fa253aa93c6c9a303840f136d2ab70f0db96516323d2545",
-          "sha256": "9bf72d98a330874161a33d9957e88d5dfe26450ca3b4173849137d93ce9dac46",
-          "sha1": "96ff9522bd7cbf7f8ee77faadcc078165418d0ca",
-          "md5": "c4cf7a0c952de18423bb3ae208a960f8"
+          "size": 1081224,
+          "sha512": "b0245fa4089ac7a56b6efb531a6b425cc2c58a99cfa1e6dd1338422233f5a8a8d2e663ff68fe8b3cd85e44dd2c1f198528d6222dbe620b50a9278506b457ccb3",
+          "sha256": "ab9cc66d2ed1d27e63eeee27f439dc6e3ad24dfad486700a69efb56d18ddb85c",
+          "sha1": "599c6e494d24a139ea24ae6b64dee83b7f034710",
+          "md5": "78ef413f26b14a0a3845f5c6a3616c61"
         }
       ]
     }
