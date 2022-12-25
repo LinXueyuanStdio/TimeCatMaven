@@ -77,11 +77,11 @@
         {
           "name": "record-api-mock-jar-1.0.0.aar",
           "url": "record-api-mock-jar-1.0.0.aar",
-          "size": 115208,
-          "sha512": "49e16915d75bae7d5337f2c08bed15718d68d2ef77ac3db3914629930f15062371786ba29bd673369fb6061bbab3c898833b4e134cd2f82a75b4d089167bce98",
-          "sha256": "4f335ccb15818d2951dd2fb8a60fb1c5f5743468f1b18ebf6fbe990d5094579b",
-          "sha1": "b439b809ed3b58beced958369b2c525e71842bbb",
-          "md5": "ebbcd687bf60d01afbf6d6980c81b020"
+          "size": 115203,
+          "sha512": "3959081ed6221f471a1a060aa1a41e8d3872f3869aa10cbe57c0e9b49cc9cf4bb30eb7f9a83e0e7970183afc4ce6fe63771a101a5c8ea6b49f56081ff11c1914",
+          "sha256": "648b6fea0c629e706813abb5268b2262f99a9f8303395a30694742874e71da07",
+          "sha1": "e653e671397b98c3fe8d380b4a22a5272694cd32",
+          "md5": "f7d6c1fefc92625c7a4f650a391485db"
         }
       ]
     },
@@ -148,11 +148,11 @@
         {
           "name": "record-api-mock-jar-1.0.0.aar",
           "url": "record-api-mock-jar-1.0.0.aar",
-          "size": 115208,
-          "sha512": "49e16915d75bae7d5337f2c08bed15718d68d2ef77ac3db3914629930f15062371786ba29bd673369fb6061bbab3c898833b4e134cd2f82a75b4d089167bce98",
-          "sha256": "4f335ccb15818d2951dd2fb8a60fb1c5f5743468f1b18ebf6fbe990d5094579b",
-          "sha1": "b439b809ed3b58beced958369b2c525e71842bbb",
-          "md5": "ebbcd687bf60d01afbf6d6980c81b020"
+          "size": 115203,
+          "sha512": "3959081ed6221f471a1a060aa1a41e8d3872f3869aa10cbe57c0e9b49cc9cf4bb30eb7f9a83e0e7970183afc4ce6fe63771a101a5c8ea6b49f56081ff11c1914",
+          "sha256": "648b6fea0c629e706813abb5268b2262f99a9f8303395a30694742874e71da07",
+          "sha1": "e653e671397b98c3fe8d380b4a22a5272694cd32",
+          "md5": "f7d6c1fefc92625c7a4f650a391485db"
         }
       ]
     }

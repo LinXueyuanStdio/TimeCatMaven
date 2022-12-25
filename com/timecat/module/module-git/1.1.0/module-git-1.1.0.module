@@ -262,11 +262,11 @@
         {
           "name": "module-git-1.1.0.aar",
           "url": "module-git-1.1.0.aar",
-          "size": 1093486,
-          "sha512": "483555133d92b99f65a926820524f98135a8bea5c4af3f4725c63b30b4d105474b0dc9a0d81b07593ff00f53860fc8ee424fc20943f4b47d2b8ecd68fb49794d",
-          "sha256": "5119c2cd4839eecb70f2fb7b820403c61d1bf2a934c9595f09d335b3f8abbc85",
-          "sha1": "381a5489b4ed9a7fcd3f4402d6076f373740aa57",
-          "md5": "c86f7e306d710fc06a22016e18eb3cde"
+          "size": 1093429,
+          "sha512": "21e5eef9721ccb080de31d7ef9b3d819a83a9eaa8bb07b494bea153295b5b7f8e8ea0f2d145ee0079134b1cd720602f18a5310cee6f0313d47dfd30036eb599a",
+          "sha256": "14e0156d105e314087de6b4f5ec9b20c618e766b08d9ed3b10af02fb163db1c2",
+          "sha1": "293e5250baec412297c6d6588f5a66c2c8d44dad",
+          "md5": "25c9f80d753cfa8cc344e1426729150d"
         }
       ]
     },
@@ -583,11 +583,11 @@
         {
           "name": "module-git-1.1.0.aar",
           "url": "module-git-1.1.0.aar",
-          "size": 1093486,
-          "sha512": "483555133d92b99f65a926820524f98135a8bea5c4af3f4725c63b30b4d105474b0dc9a0d81b07593ff00f53860fc8ee424fc20943f4b47d2b8ecd68fb49794d",
-          "sha256": "5119c2cd4839eecb70f2fb7b820403c61d1bf2a934c9595f09d335b3f8abbc85",
-          "sha1": "381a5489b4ed9a7fcd3f4402d6076f373740aa57",
-          "md5": "c86f7e306d710fc06a22016e18eb3cde"
+          "size": 1093429,
+          "sha512": "21e5eef9721ccb080de31d7ef9b3d819a83a9eaa8bb07b494bea153295b5b7f8e8ea0f2d145ee0079134b1cd720602f18a5310cee6f0313d47dfd30036eb599a",
+          "sha256": "14e0156d105e314087de6b4f5ec9b20c618e766b08d9ed3b10af02fb163db1c2",
+          "sha1": "293e5250baec412297c6d6588f5a66c2c8d44dad",
+          "md5": "25c9f80d753cfa8cc344e1426729150d"
         }
       ]
     }

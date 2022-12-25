@@ -197,11 +197,11 @@
         {
           "name": "module-plugin-jar-1.0.0.aar",
           "url": "module-plugin-jar-1.0.0.aar",
-          "size": 319457,
-          "sha512": "da53708a848cdb2d5ebd62b37ab9d4be8cccf31cfa008cc530781f7c4844b92f1c91641e9c27e12a929d339ffdd4c68aa530004f6e31c5ae3c3b7c551344df07",
-          "sha256": "0f048ddd448dc7cfd1a95c505ac799a897be499405e1fcec8a3d8b8b0d44571b",
-          "sha1": "c26d6c22e1724b551edb0265a065534b269786f9",
-          "md5": "833575efcddce1e70cfa6f50d802371c"
+          "size": 319455,
+          "sha512": "c738b87a8492c2f4ec147ab19d7391c3ccc11eb9249885cbb5b9612cf7dc9a8bad2514a13e9e5e8ed456f0ae0d53781d97fc5696168f83aea91fad108f30a846",
+          "sha256": "2f4e96ff549d6a6f93e08051a0d2f9eec523dfc68fdd66bf3376df7f952cd411",
+          "sha1": "6ceeba4f23352d07a29b1fb2da434b27489dcc2e",
+          "md5": "de08ebb2adae2e0dd8d7f93876d8f06a"
         }
       ]
     },
@@ -388,11 +388,11 @@
         {
           "name": "module-plugin-jar-1.0.0.aar",
           "url": "module-plugin-jar-1.0.0.aar",
-          "size": 319457,
-          "sha512": "da53708a848cdb2d5ebd62b37ab9d4be8cccf31cfa008cc530781f7c4844b92f1c91641e9c27e12a929d339ffdd4c68aa530004f6e31c5ae3c3b7c551344df07",
-          "sha256": "0f048ddd448dc7cfd1a95c505ac799a897be499405e1fcec8a3d8b8b0d44571b",
-          "sha1": "c26d6c22e1724b551edb0265a065534b269786f9",
-          "md5": "833575efcddce1e70cfa6f50d802371c"
+          "size": 319455,
+          "sha512": "c738b87a8492c2f4ec147ab19d7391c3ccc11eb9249885cbb5b9612cf7dc9a8bad2514a13e9e5e8ed456f0ae0d53781d97fc5696168f83aea91fad108f30a846",
+          "sha256": "2f4e96ff549d6a6f93e08051a0d2f9eec523dfc68fdd66bf3376df7f952cd411",
+          "sha1": "6ceeba4f23352d07a29b1fb2da434b27489dcc2e",
+          "md5": "de08ebb2adae2e0dd8d7f93876d8f06a"
         }
       ]
     }

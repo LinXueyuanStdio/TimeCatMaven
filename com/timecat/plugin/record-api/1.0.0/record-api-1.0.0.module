@@ -77,11 +77,11 @@
         {
           "name": "record-api-1.0.0.aar",
           "url": "record-api-1.0.0.aar",
-          "size": 115772,
-          "sha512": "6e364763d7ff7ad3078adbb265c11bfc04ae9e1ff83b42717a749233e3627c9bc4fd9024d35ce13023accb20dcb8b4dfac8ec6b843a8f819aa3979382e7d6a4b",
-          "sha256": "07a9b27328d66bc773e145fabcc88ea7127676c70c455fc64f599cfcb29f273d",
-          "sha1": "b18b6bfba9d7f8594dd0fa453e40b6b807562963",
-          "md5": "e276dff4b2644c5566372107c357b4ec"
+          "size": 115767,
+          "sha512": "a773ea78cb708b16ed4d2e9896f875149213ad8e3632ea1a916ec2057e6e7056150d96086dca0fc60d95b45f171cfd87a00193090c5cf95fd1f1232b62f103f6",
+          "sha256": "0144bb4ea14a101ae936b129bc2997eefc5ea88a9cc489fc84a06230daa3bd41",
+          "sha1": "f066ebffa176254f96eb20cf7d02b28473bd955b",
+          "md5": "bc4b08c55091e9c74b5fd99414407606"
         }
       ]
     },
@@ -148,11 +148,11 @@
         {
           "name": "record-api-1.0.0.aar",
           "url": "record-api-1.0.0.aar",
-          "size": 115772,
-          "sha512": "6e364763d7ff7ad3078adbb265c11bfc04ae9e1ff83b42717a749233e3627c9bc4fd9024d35ce13023accb20dcb8b4dfac8ec6b843a8f819aa3979382e7d6a4b",
-          "sha256": "07a9b27328d66bc773e145fabcc88ea7127676c70c455fc64f599cfcb29f273d",
-          "sha1": "b18b6bfba9d7f8594dd0fa453e40b6b807562963",
-          "md5": "e276dff4b2644c5566372107c357b4ec"
+          "size": 115767,
+          "sha512": "a773ea78cb708b16ed4d2e9896f875149213ad8e3632ea1a916ec2057e6e7056150d96086dca0fc60d95b45f171cfd87a00193090c5cf95fd1f1232b62f103f6",
+          "sha256": "0144bb4ea14a101ae936b129bc2997eefc5ea88a9cc489fc84a06230daa3bd41",
+          "sha1": "f066ebffa176254f96eb20cf7d02b28473bd955b",
+          "md5": "bc4b08c55091e9c74b5fd99414407606"
         }
       ]
     }

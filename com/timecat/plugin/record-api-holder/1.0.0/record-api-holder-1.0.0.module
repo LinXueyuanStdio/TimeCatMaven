@@ -98,11 +98,11 @@
         {
           "name": "record-api-holder-1.0.0.aar",
           "url": "record-api-holder-1.0.0.aar",
-          "size": 121461,
-          "sha512": "c0d82831bf96c5361cf0a99b7ac9982ba6c6e781f90796f41b1f156470851507e40c22adb09e595757f939a69aa8782d933b6301473589543aaf6fddb7b85d9f",
-          "sha256": "fd6309c461f8de215952c37cb316dc3d286c8ad1bf87603d6acd1be17a41c892",
-          "sha1": "fbaa632d042481b745af763391380aa9fa4bdc0e",
-          "md5": "090bf762be09587b4681d90e6f96e670"
+          "size": 121456,
+          "sha512": "8407d5a704d6c0d65713f5790aafe3c36e4fe54b478b81f55b14a2c7637463b91e12171c2b5da834d8e466c512249a58c6b2d93e970c6336db1ad160c8399fff",
+          "sha256": "528cf7fe9c7e6b990f52239d49415ddbb39789b05088c09a8d88abbf3ffc717a",
+          "sha1": "0005506a923efdc34234a0d42e1c9b61920acac3",
+          "md5": "cf9c715901bd2c2cfe78d8602fa1a91a"
         }
       ]
     },
@@ -190,11 +190,11 @@
         {
           "name": "record-api-holder-1.0.0.aar",
           "url": "record-api-holder-1.0.0.aar",
-          "size": 121461,
-          "sha512": "c0d82831bf96c5361cf0a99b7ac9982ba6c6e781f90796f41b1f156470851507e40c22adb09e595757f939a69aa8782d933b6301473589543aaf6fddb7b85d9f",
-          "sha256": "fd6309c461f8de215952c37cb316dc3d286c8ad1bf87603d6acd1be17a41c892",
-          "sha1": "fbaa632d042481b745af763391380aa9fa4bdc0e",
-          "md5": "090bf762be09587b4681d90e6f96e670"
+          "size": 121456,
+          "sha512": "8407d5a704d6c0d65713f5790aafe3c36e4fe54b478b81f55b14a2c7637463b91e12171c2b5da834d8e466c512249a58c6b2d93e970c6336db1ad160c8399fff",
+          "sha256": "528cf7fe9c7e6b990f52239d49415ddbb39789b05088c09a8d88abbf3ffc717a",
+          "sha1": "0005506a923efdc34234a0d42e1c9b61920acac3",
+          "md5": "cf9c715901bd2c2cfe78d8602fa1a91a"
         }
       ]
     }
