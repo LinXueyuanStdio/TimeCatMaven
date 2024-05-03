@@ -1,0 +1,216 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.timecat.page",
+    "module": "animation-jar",
+    "version": "1.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.transition",
+          "module": "transition",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-extensions",
+          "version": {
+            "requires": "2.0.0"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-runtime",
+          "version": {
+            "requires": "2.0.0"
+          }
+        },
+        {
+          "group": "com.timecat.page",
+          "module": "scene",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.page",
+          "module": "navigation",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "animation-1.0.1.aar",
+          "url": "animation-1.0.1.aar",
+          "size": 125891,
+          "sha512": "89fb552c19d93b170c2eded689083ef58c6274c6213557183d78194f8ad273049e479abc6cd56ad7aba97e1ba5b56f24a87d5f5c0f5be1a0ba1976ebe98c13ec",
+          "sha256": "b1d67aa3245def40b8425f6e8cf4ed62869874518ec2b4206c0f0397cb906193",
+          "sha1": "bfc483f819615b02ad308c78b4e702bc7cad05d5",
+          "md5": "975b1505a44ebee0c9d4e5d919e17ebd"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.transition",
+          "module": "transition",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-extensions",
+          "version": {
+            "requires": "2.0.0"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-runtime",
+          "version": {
+            "requires": "2.0.0"
+          }
+        },
+        {
+          "group": "com.timecat.page",
+          "module": "scene",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "com.timecat.page",
+          "module": "navigation",
+          "version": {
+            "requires": "+"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "animation-1.0.1.aar",
+          "url": "animation-1.0.1.aar",
+          "size": 125891,
+          "sha512": "89fb552c19d93b170c2eded689083ef58c6274c6213557183d78194f8ad273049e479abc6cd56ad7aba97e1ba5b56f24a87d5f5c0f5be1a0ba1976ebe98c13ec",
+          "sha256": "b1d67aa3245def40b8425f6e8cf4ed62869874518ec2b4206c0f0397cb906193",
+          "sha1": "bfc483f819615b02ad308c78b4e702bc7cad05d5",
+          "md5": "975b1505a44ebee0c9d4e5d919e17ebd"
+        }
+      ]
+    }
+  ]
+}
